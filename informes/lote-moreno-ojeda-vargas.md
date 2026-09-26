@@ -29,7 +29,7 @@ Fecha: 2026-09-26
 4. **Atestación más antigua** — NO CONFIRMADO. Busqué y no encontré ninguna.
    - Según un resumen, la palabra se documenta "en textos catalanes mucho antes que en castellano" [RESUMIDOR; fuente probable: reproducción no oficial del DCECH de Corominas s.v. *moro*].
    - Dónde buscar: los índices antroponímicos de Sahagún, Otero de las Dueñas y el Becerro Galicano, con las formas *Maurus*, *Maurinus*, *Morinus* y *Moreno* como sobrenombre. Hay que distinguir el adjetivo usado como apodo de un apellido ya heredado.
-5. **Artículos académicos**
+5. **Artículos académicos** — NO CONFIRMADO (existen y están localizados; texto no leído)
    - **Moreno Hernández, Carlos (2019). "El apellido Moreno y la burla de los linajes". *Nueva Revista de Filología Hispánica*, LXVII, núm. 2, pp. 619-639.** El Colegio de México. — NO CONFIRMADO en cuanto a DOI; datos bibliográficos [RESUMIDOR].
      - https://nrfh.colmex.mx/index.php/nrfh/article/view/3532
      - SciELO: https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2448-65582019000200619
