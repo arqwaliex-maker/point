@@ -1,14 +1,14 @@
 # Lote: Vázquez, Miranda, Mendoza
-### (con anexo verificado para los 27 apellidos del pedido)
+### (con anexo verificado para los 24 apellidos del pedido)
 
 Fecha de consulta: 26/09/2026
 
 ## ADVERTENCIA PARA EL EDITOR (no imprimir)
 
-- **Alcance.** El pedido trae 27 apellidos en nueve grupos de tres, con reglas de presupuesto pensadas para tres apellidos por sesión.
+- **Alcance.** El pedido trae 24 apellidos en ocho grupos de tres, con reglas de presupuesto pensadas para tres apellidos por sesión.
   - Este informe hace el lote completo (verificación y prosa) solo para el **primer trío: Vázquez, Miranda, Mendoza**.
-  - Para **los 27** agrega, al final, un **anexo verificado** con lo que se pudo obtener sin gastar búsquedas: el recorrido del texto completo del Becerro Galicano y los datos de la *Cartografía dos apelidos de Galicia*.
-  - Los otros ocho tríos quedan para sesiones siguientes.
+  - Para **los 24** agrega, al final, un **anexo verificado** con lo que se pudo obtener sin gastar búsquedas: el recorrido del texto completo del Becerro Galicano y los datos de la *Cartografía dos apelidos de Galicia*.
+  - Los otros siete tríos quedan para sesiones siguientes.
 - **Marcas.**
   - [HTML]/[XML]/[PDF]: leído en la fuente original.
   - [RESUMIDOR]: solo resumen del buscador; **no verificado, no se imprime**.
@@ -423,7 +423,7 @@ No se consultaron el Toponomasticon, el INE, Knörr (1991) ni Caro Baroja (1980)
 
 ---
 
-## ANEXO — Los 27 apellidos: Becerro Galicano y Cartografía dos apelidos de Galicia
+## ANEXO — Los 24 apellidos: Becerro Galicano y Cartografía dos apelidos de Galicia
 
 **Método.**
 - **Becerro Galicano**: recorrido del texto completo (773 documentos, descarga TEI oficial de la edición digital; transcripción de García Andreva, 2010). Se buscaron las formas indicadas con expresiones regulares.
@@ -503,5 +503,5 @@ apelidosgalicia.org (sección de heráldica), apellidosvasconavarros.es, forebea
 3. **Vázquez**: Boullón Agrelo (1999) sobre *Vasco* y *Velasco* en Galicia; tumbos gallegos para la primera forma *Vázquez*; Mitxelena, *Apellidos vascos*, §147, en la edición impresa.
 4. **DLE**: *vasco* (Vázquez).
 5. **INE**: los tres.
-6. **Los otros ocho tríos**: Navarro-Arias-Cruz, Correa-Figueroa-Maldonado, Ayala-Escobar-Rivero, Duarte-Méndez-Guzmán, Córdoba-Barrios-Mansilla, Paz-Agüero-Farías, Acuña-Roldán-Chávez. Una sesión por trío, usando el anexo como punto de partida. Para varios (Ayala, Guzmán, Mendoza, Arias, Chaves/Acuña si fueran gallegos o vascos) conviene empezar por EODA, que resultó la fuente más rica.
+6. **Los otros siete tríos**: Navarro-Arias-Cruz, Correa-Figueroa-Maldonado, Ayala-Escobar-Rivero, Duarte-Méndez-Guzmán, Córdoba-Barrios-Mansilla, Paz-Agüero-Farías, Acuña-Roldán-Chávez. Una sesión por trío, usando el anexo como punto de partida. Para varios (Ayala, Guzmán, Mendoza, Arias, Chaves/Acuña si fueran gallegos o vascos) conviene empezar por EODA, que resultó la fuente más rica.
 7. **Muñoz** (lote anterior): Mitxelena, *Apellidos vascos*, §512 (en EODA) cita a Caro Baroja, que relaciona la terminación *-oz* con patronímicos como "Bellacoz, Blascoz… Munoz, Obecoz". Sirve de apoyo para la sección de forma de *Muñoz*.
