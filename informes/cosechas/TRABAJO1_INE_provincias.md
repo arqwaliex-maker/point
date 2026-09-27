@@ -42,7 +42,7 @@
 | 23 | Cardozo | CARDOZO | 3.364 | 3.364 | sí | 1530 | 48 | 1 | Balears, Illes · 163 · 0,130 ‰ | Madrid · 810 · 0,114 ‰ | Málaga · 193 · 0,108 ‰ | — |
 | 24 | Pereyra | PEREYRA | 2.206 | 2.206 | sí | 2225 | 36 | 2 | Balears, Illes · 183 · 0,146 ‰ | Santa Cruz de Tenerife · 127 · 0,117 ‰ | Girona · 63 · 0,076 ‰ | — |
 | 25 | Romano | ROMANO | 4.368 | 4.368 | sí | 1207 | 48 | 2 | Segovia · 103 · 0,651 ‰ | Cantabria · 192 · 0,323 ‰ | Navarra · 204 · 0,298 ‰ | — |
-| 26 | Lucatti | LUCATTI | NO SE PUDO LEER:  | | | | | | | | | |
+| 26 | Lucatti | LUCATTI | sin tabla de resultados | no figura (≥20) | — | — | 0 | — | — | — | — | — |
 | 27 | Bianchi | BIANCHI | 1.024 | 1.024 | sí | 4333 | 26 | 0 | Cádiz · 88 · 0,070 ‰ | Balears, Illes · 65 · 0,052 ‰ | Santa Cruz de Tenerife · 57 · 0,052 ‰ | — |
 | 28 | Colombo | COLOMBO | 934 | 934 | sí | 4702 | 27 | 1 | Cáceres · 49 · 0,126 ‰ | Balears, Illes · 55 · 0,044 ‰ | Palmas, Las · 48 · 0,041 ‰ | — |
 | 29 | Esposito | ESPOSITO | 890 | 890 | sí | 4907 | 19 | 1 | Santa Cruz de Tenerife · 106 · 0,097 ‰ | Balears, Illes · 86 · 0,069 ‰ | Málaga · 71 · 0,040 ‰ | — |
@@ -69,6 +69,11 @@
 | 50 | Sosa | SOSA | 22.032 | 22.032 | sí | 237 | 52 | 0 | Palmas, Las · 7.059 · 6,025 ‰ | Santa Cruz de Tenerife · 1.816 · 1,670 ‰ | Badajoz · 822 · 1,236 ‰ | Palmas, Las |
 | 51 | Vargas | VARGAS | 63.921 | 63.921 | sí | 67 | 52 | 0 | Almería · 2.905 · 3,770 ‰ | Cáceres · 1.116 · 2,875 ‰ | Sevilla · 5.507 · 2,785 ‰ | Almería; Cáceres; Sevilla |
 | 52 | Vera | VERA | 43.255 | 43.255 | sí | 108 | 52 | 0 | Murcia · 4.093 · 2,579 ‰ | Santa Cruz de Tenerife · 2.600 · 2,391 ‰ | Palmas, Las · 2.514 · 2,146 ‰ | Murcia |
+
+**Lucatti:** la consulta respondió (HTTP 200), pero sin tabla de resultados. Solo trae la nota del INE: «Por secreto estadístico sólo se muestran los apellidos cuya frecuencia es mayor que 5 en alguno de los dos apellidos para el total nacional». O sea: en España lo llevan, como primer y como segundo apellido, 5 personas o menos cada vez, o nadie. El INE no distingue entre los dos casos. Tampoco figura en el archivo de apellidos con 20 personas o más.
+
+**Ceuta y Melilla** son ciudades autónomas; el INE las lista junto con las provincias y así se copian. **Tasas**: se copian con los tres decimales que da la consulta (el control MOLINA 9,202 redondea al 9,20 esperado).
+
 
 Columnas TOP: provincia · personas · tasa por mil habitantes, como primer apellido. «Antes» = las provincias que daba el top-50 provincial de la cosecha anterior (parcial).
 
