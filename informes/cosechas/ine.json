@@ -1,0 +1,2540 @@
+[
+{
+"apellido": "Acosta",
+"clave": "ACOSTA",
+"frec": {
+"orden": 136,
+"ap1": 35656.0,
+"ap2": 35561.0,
+"ambos": 582.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 1,
+"top3": [
+[
+"38 - SANTA CRUZ DE TENERIFE",
+20,
+6325.0,
+5.817060126788918
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Acuña",
+"clave": "ACUÑA",
+"frec": {
+"orden": 657,
+"ap1": 8444.0,
+"ap2": 8059.0,
+"ambos": 64.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Aguirre",
+"clave": "AGUIRRE",
+"frec": {
+"orden": 224,
+"ap1": 23200.0,
+"ap2": 22468.0,
+"ambos": 190.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 4,
+"top3": [
+[
+"20 - GIPUZKOA",
+18,
+2512.0,
+3.426315796652522
+],
+[
+"01 - ARABA/ÁLAVA",
+23,
+898.0,
+2.6260304537651957
+],
+[
+"48 - BIZKAIA",
+28,
+2921.0,
+2.502499500956535
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Agüero",
+"clave": "AGUERO",
+"frec": {
+"orden": 1210,
+"ap1": 4358.0,
+"ap2": 4253.0,
+"ambos": 54.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Arias",
+"clave": "ARIAS",
+"frec": {
+"orden": 76,
+"ap1": 56875.0,
+"ap2": 56616.0,
+"ambos": 812.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 76,
+"n": 56875.0,
+"x1000": 1.1576831169213946
+},
+"prov_listadas": 5,
+"top3": [
+[
+"27 - LUGO",
+15,
+2485.0,
+7.622185005919846
+],
+[
+"24 - LEÓN",
+16,
+3052.0,
+6.812043836350244
+],
+[
+"32 - OURENSE",
+31,
+1108.0,
+3.629478704656084
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": true
+},
+{
+"apellido": "Ayala",
+"clave": "AYALA",
+"frec": {
+"orden": 282,
+"ap1": 19260.0,
+"ap2": 18584.0,
+"ambos": 195.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Barrios",
+"clave": "BARRIOS",
+"frec": {
+"orden": 284,
+"ap1": 19061.0,
+"ap2": 18774.0,
+"ambos": 166.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Benítez",
+"clave": "BENITEZ",
+"frec": {
+"orden": 75,
+"ap1": 56956.0,
+"ap2": 57306.0,
+"ambos": 864.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 75,
+"n": 56956.0,
+"x1000": 1.1593318612285706
+},
+"prov_listadas": 6,
+"top3": [
+[
+"11 - CÁDIZ",
+18,
+8741.0,
+6.929492159629625
+],
+[
+"06 - BADAJOZ",
+35,
+2652.0,
+3.987040614593591
+],
+[
+"35 - PALMAS, LAS",
+49,
+3984.0,
+3.4006318141739085
+]
+],
+"cota": 2.924351010071615,
+"top3_seguro": true
+},
+{
+"apellido": "Bianchi",
+"clave": "BIANCHI",
+"frec": {
+"orden": 4333,
+"ap1": 1024.0,
+"ap2": 466.0,
+"ambos": "..",
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Cabrera",
+"clave": "CABRERA",
+"frec": {
+"orden": 57,
+"ap1": 72206.0,
+"ap2": 71905.0,
+"ambos": 1392.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 57,
+"n": 72206.0,
+"x1000": 1.4697435980734281
+},
+"prov_listadas": 3,
+"top3": [
+[
+"35 - PALMAS, LAS",
+12,
+14208.0,
+12.12755442163225
+],
+[
+"38 - SANTA CRUZ DE TENERIFE",
+11,
+9313.0,
+8.56510370921505
+],
+[
+"23 - JAÉN",
+41,
+2094.0,
+3.3875656603730846
+]
+],
+"cota": 3.0519202291195286,
+"top3_seguro": true
+},
+{
+"apellido": "Cardozo",
+"clave": "CARDOZO",
+"frec": {
+"orden": 1530,
+"ap1": 3364.0,
+"ap2": 3213.0,
+"ambos": 52.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Carrizo",
+"clave": "CARRIZO",
+"frec": {
+"orden": 2415,
+"ap1": 2006.0,
+"ap2": 1788.0,
+"ambos": 18.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Castillo",
+"clave": "CASTILLO",
+"frec": {
+"orden": 41,
+"ap1": 94139.0,
+"ap2": 94413.0,
+"ambos": 1464.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 41,
+"n": 94139.0,
+"x1000": 1.9161869176942974
+},
+"prov_listadas": 20,
+"top3": [
+[
+"18 - GRANADA",
+25,
+4785.0,
+5.05922518257089
+],
+[
+"02 - ALBACETE",
+23,
+1964.0,
+5.026218742882296
+],
+[
+"23 - JAÉN",
+28,
+3066.0,
+4.960017342265463
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": true
+},
+{
+"apellido": "Castro",
+"clave": "CASTRO",
+"frec": {
+"orden": 32,
+"ap1": 123156.0,
+"ap2": 123057.0,
+"ambos": 1805.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 32,
+"n": 123156.0,
+"x1000": 2.5068241221550993
+},
+"prov_listadas": 18,
+"top3": [
+[
+"15 - CORUÑA, A",
+10,
+12880.0,
+11.341792126436324
+],
+[
+"27 - LUGO",
+12,
+3509.0,
+10.76307733833913
+],
+[
+"36 - PONTEVEDRA",
+15,
+8583.0,
+9.055535978426239
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": true
+},
+{
+"apellido": "Chávez",
+"clave": "CHAVEZ",
+"frec": {
+"orden": 380,
+"ap1": 14307.0,
+"ap2": 14876.0,
+"ambos": 168.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Colombo",
+"clave": "COLOMBO",
+"frec": {
+"orden": 4702,
+"ap1": 934.0,
+"ap2": 491.0,
+"ambos": 5.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Coronel",
+"clave": "CORONEL",
+"frec": {
+"orden": 1025,
+"ap1": 5190.0,
+"ap2": 4753.0,
+"ambos": 80.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Correa",
+"clave": "CORREA",
+"frec": {
+"orden": 246,
+"ap1": 21600.0,
+"ap2": 21157.0,
+"ambos": 272.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Cruz",
+"clave": "CRUZ",
+"frec": {
+"orden": 50,
+"ap1": 78630.0,
+"ap2": 79661.0,
+"ambos": 1016.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 50,
+"n": 78630.0,
+"x1000": 1.600503270040075
+},
+"prov_listadas": 9,
+"top3": [
+[
+"23 - JAÉN",
+24,
+3320.0,
+5.370925497821702
+],
+[
+"38 - SANTA CRUZ DE TENERIFE",
+31,
+4984.0,
+4.5837514105796
+],
+[
+"21 - HUELVA",
+30,
+2271.0,
+4.215008101501701
+]
+],
+"cota": 3.0519202291195286,
+"top3_seguro": true
+},
+{
+"apellido": "Cáceres",
+"clave": "CACERES",
+"frec": {
+"orden": 253,
+"ap1": 21211.0,
+"ap2": 21184.0,
+"ambos": 220.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Córdoba",
+"clave": "CORDOBA",
+"frec": {
+"orden": 283,
+"ap1": 19176.0,
+"ap2": 19008.0,
+"ambos": 205.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Domínguez",
+"clave": "DOMINGUEZ",
+"frec": {
+"orden": 23,
+"ap1": 156940.0,
+"ap2": 158397.0,
+"ambos": 3108.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 23,
+"n": 156940.0,
+"x1000": 3.194492982323405
+},
+"prov_listadas": 32,
+"top3": [
+[
+"21 - HUELVA",
+9,
+9264.0,
+17.19411495037946
+],
+[
+"32 - OURENSE",
+11,
+3716.0,
+12.172511612366435
+],
+[
+"36 - PONTEVEDRA",
+13,
+9670.0,
+10.202380625816348
+]
+],
+"cota": 2.924351010071615,
+"top3_seguro": true
+},
+{
+"apellido": "Duarte",
+"clave": "DUARTE",
+"frec": {
+"orden": 327,
+"ap1": 16303.0,
+"ap2": 15913.0,
+"ambos": 164.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Díaz",
+"clave": "DIAZ",
+"frec": {
+"orden": 14,
+"ap1": 350246.0,
+"ap2": 351061.0,
+"ambos": 8174.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 14,
+"n": 350246.0,
+"x1000": 7.129211093964849
+},
+"prov_listadas": 50,
+"top3": [
+[
+"27 - LUGO",
+7,
+7566.0,
+23.20702283894952
+],
+[
+"38 - SANTA CRUZ DE TENERIFE",
+7,
+22714.0,
+20.88991363160213
+],
+[
+"33 - ASTURIAS",
+10,
+17685.0,
+17.42144832966877
+]
+],
+"cota": 2.7166982690751027,
+"top3_seguro": true
+},
+{
+"apellido": "Escobar",
+"clave": "ESCOBAR",
+"frec": {
+"orden": 158,
+"ap1": 31493.0,
+"ap2": 31099.0,
+"ambos": 281.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Esposito",
+"clave": "ESPOSITO",
+"frec": {
+"orden": 4907,
+"ap1": 890.0,
+"ap2": 274.0,
+"ambos": "..",
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Farías",
+"clave": "FARIAS",
+"frec": {
+"orden": 2004,
+"ap1": 2507.0,
+"ap2": 2535.0,
+"ambos": 34.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Fernández",
+"clave": "FERNANDEZ",
+"frec": {
+"orden": 4,
+"ap1": 896725.0,
+"ap2": 908388.0,
+"ambos": 48147.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 4,
+"n": 896725.0,
+"x1000": 18.252718998177365
+},
+"prov_listadas": 52,
+"top3": [
+[
+"33 - ASTURIAS",
+1,
+71173.0,
+70.11234051272352
+],
+[
+"24 - LEÓN",
+1,
+25149.0,
+56.132401848090524
+],
+[
+"32 - OURENSE",
+2,
+16742.0,
+54.84181631168967
+]
+],
+"cota": 0,
+"top3_seguro": true
+},
+{
+"apellido": "Ferrari",
+"clave": "FERRARI",
+"frec": {
+"orden": 3049,
+"ap1": 1532.0,
+"ap2": 774.0,
+"ambos": 5.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Ferreyra",
+"clave": "FERREYRA",
+"frec": {
+"orden": 4337,
+"ap1": 1023.0,
+"ap2": 668.0,
+"ambos": 5.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Figueroa",
+"clave": "FIGUEROA",
+"frec": {
+"orden": 355,
+"ap1": 15009.0,
+"ap2": 14914.0,
+"ambos": 145.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Flores",
+"clave": "FLORES",
+"frec": {
+"orden": 49,
+"ap1": 79715.0,
+"ap2": 80465.0,
+"ambos": 1962.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 49,
+"n": 79715.0,
+"x1000": 1.6225883018090368
+},
+"prov_listadas": 11,
+"top3": [
+[
+"06 - BADAJOZ",
+29,
+2770.0,
+4.164442874217288
+],
+[
+"10 - CÁCERES",
+36,
+1264.0,
+3.256137458461063
+],
+[
+"21 - HUELVA",
+35,
+1713.0,
+3.179352213946461
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "García",
+"clave": "GARCIA",
+"frec": {
+"orden": 1,
+"ap1": 1446937.0,
+"ap2": 1468824.0,
+"ambos": 74765.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 1,
+"n": 1446937.0,
+"x1000": 29.452211624595904
+},
+"prov_listadas": 52,
+"top3": [
+[
+"37 - SALAMANCA",
+2,
+19353.0,
+58.922927969894594
+],
+[
+"33 - ASTURIAS",
+2,
+59297.0,
+58.41332324593549
+],
+[
+"24 - LEÓN",
+2,
+24103.0,
+53.797736758699195
+]
+],
+"cota": 0,
+"top3_seguro": true
+},
+{
+"apellido": "Giménez",
+"clave": "GIMENEZ",
+"frec": {
+"orden": 74,
+"ap1": 57495.0,
+"ap2": 59890.0,
+"ambos": 2962.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 74,
+"n": 57495.0,
+"x1000": 1.1703031350750872
+},
+"prov_listadas": 11,
+"top3": [
+[
+"22 - HUESCA",
+4,
+2112.0,
+9.179136587464741
+],
+[
+"50 - ZARAGOZA",
+19,
+4844.0,
+4.851553869374616
+],
+[
+"44 - TERUEL",
+30,
+500.0,
+3.67401224180879
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": true
+},
+{
+"apellido": "Godoy",
+"clave": "GODOY",
+"frec": {
+"orden": 367,
+"ap1": 14634.0,
+"ap2": 14291.0,
+"ambos": 193.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "González",
+"clave": "GONZALEZ",
+"frec": {
+"orden": 3,
+"ap1": 930137.0,
+"ap2": 939512.0,
+"ambos": 39476.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 3,
+"n": 930137.0,
+"x1000": 18.932815847453455
+},
+"prov_listadas": 52,
+"top3": [
+[
+"32 - OURENSE",
+3,
+15779.0,
+51.68731451332883
+],
+[
+"38 - SANTA CRUZ DE TENERIFE",
+1,
+55915.0,
+51.42465090741539
+],
+[
+"33 - ASTURIAS",
+3,
+46733.0,
+46.03655893640998
+]
+],
+"cota": 0,
+"top3_seguro": true
+},
+{
+"apellido": "Gutiérrez",
+"clave": "GUTIERREZ",
+"frec": {
+"orden": 19,
+"ap1": 199928.0,
+"ap2": 201875.0,
+"ambos": 3682.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 19,
+"n": 199928.0,
+"x1000": 4.069508047470076
+},
+"prov_listadas": 42,
+"top3": [
+[
+"39 - CANTABRIA",
+4,
+13026.0,
+21.943219855025834
+],
+[
+"34 - PALENCIA",
+8,
+2207.0,
+13.906567024990233
+],
+[
+"05 - AVILA",
+15,
+1493.0,
+9.288407221689955
+]
+],
+"cota": 2.7166982690751027,
+"top3_seguro": true
+},
+{
+"apellido": "Guzmán",
+"clave": "GUZMAN",
+"frec": {
+"orden": 141,
+"ap1": 34302.0,
+"ap2": 34207.0,
+"ambos": 472.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Gómez",
+"clave": "GOMEZ",
+"frec": {
+"orden": 9,
+"ap1": 496272.0,
+"ap2": 500028.0,
+"ambos": 13122.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 9,
+"n": 496272.0,
+"x1000": 10.101551047047286
+},
+"prov_listadas": 52,
+"top3": [
+[
+"40 - SEGOVIA",
+3,
+3619.0,
+22.868733846863524
+],
+[
+"39 - CANTABRIA",
+5,
+12771.0,
+21.513654289001604
+],
+[
+"21 - HUELVA",
+6,
+10718.0,
+19.892759503256375
+]
+],
+"cota": 0,
+"top3_seguro": true
+},
+{
+"apellido": "Herrera",
+"clave": "HERRERA",
+"frec": {
+"orden": 51,
+"ap1": 77374.0,
+"ap2": 77318.0,
+"ambos": 1247.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 51,
+"n": 77374.0,
+"x1000": 1.5749375558448524
+},
+"prov_listadas": 8,
+"top3": [
+[
+"38 - SANTA CRUZ DE TENERIFE",
+18,
+6694.0,
+6.156426954739134
+],
+[
+"35 - PALMAS, LAS",
+32,
+5363.0,
+4.577707936600069
+],
+[
+"23 - JAÉN",
+40,
+2166.0,
+3.5040435627354833
+]
+],
+"cota": 3.0519202291195286,
+"top3_seguro": true
+},
+{
+"apellido": "Juárez",
+"clave": "JUAREZ",
+"frec": {
+"orden": 296,
+"ap1": 18185.0,
+"ap2": 17964.0,
+"ambos": 162.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Ledesma",
+"clave": "LEDESMA",
+"frec": {
+"orden": 575,
+"ap1": 9685.0,
+"ap2": 9538.0,
+"ambos": 90.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Lucatti",
+"clave": "LUCATTI",
+"frec": null,
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Luna",
+"clave": "LUNA",
+"frec": {
+"orden": 188,
+"ap1": 27638.0,
+"ap2": 27386.0,
+"ambos": 206.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 1,
+"top3": [
+[
+"14 - CÓRDOBA",
+39,
+2843.0,
+3.6771030170869534
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "López",
+"clave": "LOPEZ",
+"frec": {
+"orden": 5,
+"ap1": 871380.0,
+"ap2": 880428.0,
+"ambos": 32802.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 5,
+"n": 871380.0,
+"x1000": 17.736824868975205
+},
+"prov_listadas": 52,
+"top3": [
+[
+"27 - LUGO",
+1,
+22015.0,
+67.52611786934624
+],
+[
+"02 - ALBACETE",
+4,
+13527.0,
+34.61795363287618
+],
+[
+"23 - JAÉN",
+3,
+19495.0,
+31.538009813263272
+]
+],
+"cota": 0,
+"top3_seguro": true
+},
+{
+"apellido": "Maldonado",
+"clave": "MALDONADO",
+"frec": {
+"orden": 184,
+"ap1": 27769.0,
+"ap2": 27722.0,
+"ambos": 420.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 2,
+"top3": [
+[
+"18 - GRANADA",
+34,
+3323.0,
+3.5134389303412887
+],
+[
+"04 - ALMERÍA",
+29,
+2517.0,
+3.266480999384858
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Mansilla",
+"clave": "MANSILLA",
+"frec": {
+"orden": 889,
+"ap1": 6134.0,
+"ap2": 6190.0,
+"ambos": 87.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Martínez",
+"clave": "MARTINEZ",
+"frec": {
+"orden": 6,
+"ap1": 832396.0,
+"ap2": 840399.0,
+"ambos": 36676.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 6,
+"n": 832396.0,
+"x1000": 16.9433106952598
+},
+"prov_listadas": 52,
+"top3": [
+[
+"02 - ALBACETE",
+2,
+20143.0,
+51.54945220869556
+],
+[
+"30 - MURCIA",
+1,
+78953.0,
+49.750187304385854
+],
+[
+"16 - CUENCA",
+1,
+9304.0,
+46.55281973791523
+]
+],
+"cota": 0,
+"top3_seguro": true
+},
+{
+"apellido": "Medina",
+"clave": "MEDINA",
+"frec": {
+"orden": 39,
+"ap1": 95823.0,
+"ap2": 95595.0,
+"ambos": 1645.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 39,
+"n": 95823.0,
+"x1000": 1.9504645153891655
+},
+"prov_listadas": 12,
+"top3": [
+[
+"35 - PALMAS, LAS",
+13,
+12319.0,
+10.51515645552419
+],
+[
+"38 - SANTA CRUZ DE TENERIFE",
+27,
+5255.0,
+4.832988295063362
+],
+[
+"23 - JAÉN",
+30,
+2821.0,
+4.563668924504523
+]
+],
+"cota": 3.0519202291195286,
+"top3_seguro": true
+},
+{
+"apellido": "Mendoza",
+"clave": "MENDOZA",
+"frec": {
+"orden": 95,
+"ap1": 47342.0,
+"ap2": 47111.0,
+"ambos": 996.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 95,
+"n": 47342.0,
+"x1000": 0.9636401603743765
+},
+"prov_listadas": 1,
+"top3": [
+[
+"05 - AVILA",
+47,
+317.0,
+1.9721534422476328
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Miranda",
+"clave": "MIRANDA",
+"frec": {
+"orden": 135,
+"ap1": 35726.0,
+"ap2": 34854.0,
+"ambos": 315.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 1,
+"top3": [
+[
+"33 - ASTURIAS",
+46,
+1566.0,
+1.5426626001844101
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Molina",
+"clave": "MOLINA",
+"frec": {
+"orden": 30,
+"ap1": 125316.0,
+"ap2": 125541.0,
+"ambos": 2048.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 30,
+"n": 125316.0,
+"x1000": 2.550790637013125
+},
+"prov_listadas": 24,
+"top3": [
+[
+"18 - GRANADA",
+15,
+8703.0,
+9.201763169052132
+],
+[
+"23 - JAÉN",
+15,
+5271.0,
+8.52715310211391
+],
+[
+"14 - CÓRDOBA",
+19,
+4899.0,
+6.3363094198765335
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": true
+},
+{
+"apellido": "Morales",
+"clave": "MORALES",
+"frec": {
+"orden": 29,
+"ap1": 127848.0,
+"ap2": 128170.0,
+"ambos": 1801.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 29,
+"n": 127848.0,
+"x1000": 2.6023291627633665
+},
+"prov_listadas": 22,
+"top3": [
+[
+"38 - SANTA CRUZ DE TENERIFE",
+16,
+7471.0,
+6.871028649366009
+],
+[
+"35 - PALMAS, LAS",
+20,
+7414.0,
+6.328384605995321
+],
+[
+"14 - CÓRDOBA",
+22,
+4426.0,
+5.724536740635545
+]
+],
+"cota": 3.0519202291195286,
+"top3_seguro": true
+},
+{
+"apellido": "Moreno",
+"clave": "MORENO",
+"frec": {
+"orden": 15,
+"ap1": 324435.0,
+"ap2": 326774.0,
+"ambos": 9987.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 15,
+"n": 324435.0,
+"x1000": 6.603831596279432
+},
+"prov_listadas": 45,
+"top3": [
+[
+"23 - JAÉN",
+6,
+11437.0,
+18.502191240538192
+],
+[
+"02 - ALBACETE",
+9,
+5863.0,
+15.00444016777948
+],
+[
+"14 - CÓRDOBA",
+12,
+10465.0,
+13.535308854665832
+]
+],
+"cota": 2.5268564218024983,
+"top3_seguro": true
+},
+{
+"apellido": "Muñoz",
+"clave": "MUÑOZ",
+"frec": {
+"orden": 16,
+"ap1": 284951.0,
+"ap2": 285616.0,
+"ambos": 6449.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 16,
+"n": 284951.0,
+"x1000": 5.800139988569113
+},
+"prov_listadas": 44,
+"top3": [
+[
+"14 - CÓRDOBA",
+9,
+11932.0,
+15.432709532142642
+],
+[
+"05 - AVILA",
+11,
+2255.0,
+14.029041048165336
+],
+[
+"13 - CIUDAD REAL",
+8,
+6492.0,
+13.119180031039834
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": true
+},
+{
+"apellido": "Méndez",
+"clave": "MENDEZ",
+"frec": {
+"orden": 53,
+"ap1": 77195.0,
+"ap2": 78027.0,
+"ambos": 1439.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 53,
+"n": 77195.0,
+"x1000": 1.5712940344746735
+},
+"prov_listadas": 11,
+"top3": [
+[
+"27 - LUGO",
+17,
+2265.0,
+6.947383918876639
+],
+[
+"38 - SANTA CRUZ DE TENERIFE",
+23,
+5874.0,
+5.4022784481831
+],
+[
+"33 - ASTURIAS",
+20,
+4856.0,
+4.783633196995847
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": true
+},
+{
+"apellido": "Navarro",
+"clave": "NAVARRO",
+"frec": {
+"orden": 22,
+"ap1": 176842.0,
+"ap2": 174320.0,
+"ambos": 3272.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 22,
+"n": 176842.0,
+"x1000": 3.5995955650569367
+},
+"prov_listadas": 29,
+"top3": [
+[
+"02 - ALBACETE",
+12,
+4144.0,
+10.605219180501138
+],
+[
+"30 - MURCIA",
+12,
+15301.0,
+9.64152870624812
+],
+[
+"46 - VALENCIA/VALÈNCIA",
+10,
+23008.0,
+8.324179919218407
+]
+],
+"cota": 3.0519202291195286,
+"top3_seguro": true
+},
+{
+"apellido": "Núñez",
+"clave": "NUÑEZ",
+"frec": {
+"orden": 40,
+"ap1": 94702.0,
+"ap2": 94528.0,
+"ambos": 1443.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 40,
+"n": 94702.0,
+"x1000": 1.92764670837257
+},
+"prov_listadas": 21,
+"top3": [
+[
+"27 - LUGO",
+20,
+1752.0,
+5.37387047499862
+],
+[
+"06 - BADAJOZ",
+27,
+2905.0,
+4.367403086498635
+],
+[
+"32 - OURENSE",
+26,
+1288.0,
+4.2191052090225964
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": true
+},
+{
+"apellido": "Ojeda",
+"clave": "OJEDA",
+"frec": {
+"orden": 258,
+"ap1": 21033.0,
+"ap2": 20373.0,
+"ambos": 316.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 1,
+"top3": [
+[
+"35 - PALMAS, LAS",
+31,
+5510.0,
+4.703183056249557
+]
+],
+"cota": 3.0519202291195286,
+"top3_seguro": false
+},
+{
+"apellido": "Ortiz",
+"clave": "ORTIZ",
+"frec": {
+"orden": 36,
+"ap1": 114447.0,
+"ap2": 115602.0,
+"ambos": 1446.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 36,
+"n": 114447.0,
+"x1000": 2.3295535768316986
+},
+"prov_listadas": 27,
+"top3": [
+[
+"39 - CANTABRIA",
+15,
+3967.0,
+6.682692550659257
+],
+[
+"14 - CÓRDOBA",
+25,
+4131.0,
+5.3429871838150556
+],
+[
+"06 - BADAJOZ",
+34,
+2656.0,
+3.9930542505130386
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": true
+},
+{
+"apellido": "Paz",
+"clave": "PAZ",
+"frec": {
+"orden": 240,
+"ap1": 21928.0,
+"ap2": 22012.0,
+"ambos": 384.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 4,
+"top3": [
+[
+"15 - CORUÑA, A",
+39,
+3539.0,
+3.11635111300141
+],
+[
+"27 - LUGO",
+31,
+972.0,
+2.9813938936636175
+],
+[
+"36 - PONTEVEDRA",
+43,
+2573.0,
+2.7146561892684034
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Peralta",
+"clave": "PERALTA",
+"frec": {
+"orden": 338,
+"ap1": 15652.0,
+"ap2": 15178.0,
+"ambos": 173.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Pereyra",
+"clave": "PEREYRA",
+"frec": {
+"orden": 2225,
+"ap1": 2206.0,
+"ap2": 1573.0,
+"ambos": 16.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Ponce",
+"clave": "PONCE",
+"frec": {
+"orden": 207,
+"ap1": 25492.0,
+"ap2": 25588.0,
+"ambos": 262.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 1,
+"top3": [
+[
+"21 - HUELVA",
+41,
+1560.0,
+2.8953820512297024
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Pérez",
+"clave": "PEREZ",
+"frec": {
+"orden": 8,
+"ap1": 779313.0,
+"ap2": 794277.0,
+"ambos": 25085.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 8,
+"n": 779313.0,
+"x1000": 15.86281323775583
+},
+"prov_listadas": 52,
+"top3": [
+[
+"38 - SANTA CRUZ DE TENERIFE",
+4,
+38766.0,
+35.65283049408683
+],
+[
+"32 - OURENSE",
+4,
+9688.0,
+31.735008746126482
+],
+[
+"35 - PALMAS, LAS",
+6,
+29206.0,
+24.929430914850194
+]
+],
+"cota": 0,
+"top3_seguro": true
+},
+{
+"apellido": "Quiroga",
+"clave": "QUIROGA",
+"frec": {
+"orden": 755,
+"ap1": 7272.0,
+"ap2": 6738.0,
+"ambos": 67.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Ramos",
+"clave": "RAMOS",
+"frec": {
+"orden": 25,
+"ap1": 149677.0,
+"ap2": 149356.0,
+"ambos": 2205.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 25,
+"n": 149677.0,
+"x1000": 3.046655576113294
+},
+"prov_listadas": 38,
+"top3": [
+[
+"38 - SANTA CRUZ DE TENERIFE",
+9,
+9755.0,
+8.971608148114766
+],
+[
+"49 - ZAMORA",
+17,
+1311.0,
+7.918388055374357
+],
+[
+"37 - SALAMANCA",
+15,
+2289.0,
+6.969182148663707
+]
+],
+"cota": 2.924351010071615,
+"top3_seguro": true
+},
+{
+"apellido": "Ramírez",
+"clave": "RAMIREZ",
+"frec": {
+"orden": 24,
+"ap1": 156686.0,
+"ap2": 157156.0,
+"ambos": 2999.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 24,
+"n": 156686.0,
+"x1000": 3.1893228458539893
+},
+"prov_listadas": 32,
+"top3": [
+[
+"35 - PALMAS, LAS",
+14,
+12018.0,
+10.258231210527619
+],
+[
+"14 - CÓRDOBA",
+18,
+5607.0,
+7.252028356245708
+],
+[
+"11 - CÁDIZ",
+17,
+9132.0,
+7.239460290783404
+]
+],
+"cota": 2.7166982690751027,
+"top3_seguro": true
+},
+{
+"apellido": "Rivero",
+"clave": "RIVERO",
+"frec": {
+"orden": 152,
+"ap1": 32669.0,
+"ap2": 32501.0,
+"ambos": 396.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 2,
+"top3": [
+[
+"35 - PALMAS, LAS",
+29,
+5699.0,
+4.864508210084615
+],
+[
+"38 - SANTA CRUZ DE TENERIFE",
+47,
+3110.0,
+2.8602461651088595
+]
+],
+"cota": 3.0519202291195286,
+"top3_seguro": false
+},
+{
+"apellido": "Rodríguez",
+"clave": "RODRIGUEZ",
+"frec": {
+"orden": 2,
+"ap1": 939214.0,
+"ap2": 950067.0,
+"ambos": 41281.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 2,
+"n": 939214.0,
+"x1000": 19.11757698419711
+},
+"prov_listadas": 52,
+"top3": [
+[
+"32 - OURENSE",
+1,
+20058.0,
+65.70404680324164
+],
+[
+"38 - SANTA CRUZ DE TENERIFE",
+3,
+49416.0,
+45.44756414630848
+],
+[
+"27 - LUGO",
+3,
+14620.0,
+44.8435995116894
+]
+],
+"cota": 0,
+"top3_seguro": true
+},
+{
+"apellido": "Rojas",
+"clave": "ROJAS",
+"frec": {
+"orden": 72,
+"ap1": 59298.0,
+"ap2": 59125.0,
+"ambos": 887.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 72,
+"n": 59298.0,
+"x1000": 1.2070029620607448
+},
+"prov_listadas": 2,
+"top3": [
+[
+"45 - TOLEDO",
+44,
+1630.0,
+2.158708800777665
+],
+[
+"29 - MÁLAGA",
+49,
+3750.0,
+2.0935884273131222
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Roldán",
+"clave": "ROLDAN",
+"frec": {
+"orden": 144,
+"ap1": 33892.0,
+"ap2": 33746.0,
+"ambos": 434.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 1,
+"top3": [
+[
+"14 - CÓRDOBA",
+35,
+3165.0,
+4.093574058768979
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Romano",
+"clave": "ROMANO",
+"frec": {
+"orden": 1207,
+"ap1": 4368.0,
+"ap2": 3635.0,
+"ambos": 12.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Romero",
+"clave": "ROMERO",
+"frec": {
+"orden": 18,
+"ap1": 227391.0,
+"ap2": 227881.0,
+"ambos": 4454.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 18,
+"n": 227391.0,
+"x1000": 4.628513787074687
+},
+"prov_listadas": 42,
+"top3": [
+[
+"21 - HUELVA",
+11,
+8262.0,
+15.334388786705
+],
+[
+"41 - SEVILLA",
+11,
+24868.0,
+12.57443124817967
+],
+[
+"11 - CÁDIZ",
+12,
+13940.0,
+11.051037719395602
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": true
+},
+{
+"apellido": "Rossi",
+"clave": "ROSSI",
+"frec": {
+"orden": 2085,
+"ap1": 2378.0,
+"ap2": 1348.0,
+"ambos": 7.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Ruiz",
+"clave": "RUIZ",
+"frec": {
+"orden": 13,
+"ap1": 366644.0,
+"ap2": 371017.0,
+"ambos": 8102.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 13,
+"n": 366644.0,
+"x1000": 7.462990219262028
+},
+"prov_listadas": 46,
+"top3": [
+[
+"39 - CANTABRIA",
+7,
+11279.0,
+19.000274585048086
+],
+[
+"23 - JAÉN",
+7,
+11169.0,
+18.06863460396704
+],
+[
+"14 - CÓRDOBA",
+7,
+13338.0,
+17.251213521598938
+]
+],
+"cota": 2.5268564218024983,
+"top3_seguro": true
+},
+{
+"apellido": "Russo",
+"clave": "RUSSO",
+"frec": {
+"orden": 3153,
+"ap1": 1469.0,
+"ap2": 517.0,
+"ambos": "..",
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Ríos",
+"clave": "RIOS",
+"frec": {
+"orden": 104,
+"ap1": 44087.0,
+"ap2": 43958.0,
+"ambos": 357.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 2,
+"top3": [
+[
+"51 - CEUTA",
+46,
+188.0,
+2.2496918640133066
+],
+[
+"29 - MÁLAGA",
+46,
+3868.0,
+2.159466676492575
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Schmidt",
+"clave": "SCHMIDT",
+"frec": {
+"orden": 3371,
+"ap1": 1366.0,
+"ap2": 534.0,
+"ambos": "..",
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Silva",
+"clave": "SILVA",
+"frec": {
+"orden": 91,
+"ap1": 48968.0,
+"ap2": 49611.0,
+"ambos": 1263.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 91,
+"n": 48968.0,
+"x1000": 0.9967371757258348
+},
+"prov_listadas": 4,
+"top3": [
+[
+"36 - PONTEVEDRA",
+32,
+3451.0,
+3.6409943681170853
+],
+[
+"06 - BADAJOZ",
+42,
+2280.0,
+3.427772474084988
+],
+[
+"32 - OURENSE",
+42,
+774.0,
+2.5353939687760008
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Sosa",
+"clave": "SOSA",
+"frec": {
+"orden": 237,
+"ap1": 22032.0,
+"ap2": 21157.0,
+"ambos": 300.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 1,
+"top3": [
+[
+"35 - PALMAS, LAS",
+22,
+7059.0,
+6.025366459903018
+]
+],
+"cota": 3.0519202291195286,
+"top3_seguro": false
+},
+{
+"apellido": "Suárez",
+"clave": "SUAREZ",
+"frec": {
+"orden": 31,
+"ap1": 124242.0,
+"ap2": 125332.0,
+"ambos": 3135.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 31,
+"n": 124242.0,
+"x1000": 2.5289295087920514
+},
+"prov_listadas": 12,
+"top3": [
+[
+"33 - ASTURIAS",
+7,
+20180.0,
+19.87926645703793
+],
+[
+"35 - PALMAS, LAS",
+7,
+20717.0,
+17.68345614815283
+],
+[
+"15 - CORUÑA, A",
+13,
+10013.0,
+8.817186689596811
+]
+],
+"cota": 2.924351010071615,
+"top3_seguro": true
+},
+{
+"apellido": "Sánchez",
+"clave": "SANCHEZ",
+"frec": {
+"orden": 7,
+"ap1": 818287.0,
+"ap2": 828609.0,
+"ambos": 32605.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 7,
+"n": 818287.0,
+"x1000": 16.656123862791336
+},
+"prov_listadas": 52,
+"top3": [
+[
+"37 - SALAMANCA",
+1,
+20219.0,
+61.5595866596031
+],
+[
+"05 - AVILA",
+5,
+6126.0,
+38.111709738829646
+],
+[
+"10 - CÁCERES",
+1,
+13983.0,
+36.02102063422551
+]
+],
+"cota": 0,
+"top3_seguro": true
+},
+{
+"apellido": "Torres",
+"clave": "TORRES",
+"frec": {
+"orden": 21,
+"ap1": 180723.0,
+"ap2": 178954.0,
+"ambos": 3898.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 21,
+"n": 180723.0,
+"x1000": 3.678592807725454
+},
+"prov_listadas": 41,
+"top3": [
+[
+"23 - JAÉN",
+14,
+5895.0,
+9.536628255921363
+],
+[
+"07 - BALEARS, ILLES",
+9,
+8899.0,
+7.120088587055664
+],
+[
+"04 - ALMERÍA",
+16,
+5425.0,
+7.04038912263125
+]
+],
+"cota": 2.7166982690751027,
+"top3_seguro": true
+},
+{
+"apellido": "Vargas",
+"clave": "VARGAS",
+"frec": {
+"orden": 67,
+"ap1": 63921.0,
+"ap2": 63521.0,
+"ambos": 1947.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 67,
+"n": 63921.0,
+"x1000": 1.3011035167777136
+},
+"prov_listadas": 4,
+"top3": [
+[
+"04 - ALMERÍA",
+25,
+2905.0,
+3.770014820505766
+],
+[
+"10 - CÁCERES",
+45,
+1116.0,
+2.874880857312141
+],
+[
+"41 - SEVILLA",
+45,
+5507.0,
+2.784598394873952
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Vega",
+"clave": "VEGA",
+"frec": {
+"orden": 64,
+"ap1": 66681.0,
+"ap2": 66765.0,
+"ambos": 954.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 64,
+"n": 66681.0,
+"x1000": 1.3572829524296355
+},
+"prov_listadas": 7,
+"top3": [
+[
+"35 - PALMAS, LAS",
+17,
+8076.0,
+6.8934494305392775
+],
+[
+"24 - LEÓN",
+20,
+2380.0,
+5.312144276052942
+],
+[
+"49 - ZAMORA",
+26,
+800.0,
+4.831968302287937
+]
+],
+"cota": 3.0519202291195286,
+"top3_seguro": true
+},
+{
+"apellido": "Vera",
+"clave": "VERA",
+"frec": {
+"orden": 108,
+"ap1": 43255.0,
+"ap2": 42833.0,
+"ambos": 560.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 1,
+"top3": [
+[
+"30 - MURCIA",
+36,
+4093.0,
+2.5790979017497917
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Villalba",
+"clave": "VILLALBA",
+"frec": {
+"orden": 249,
+"ap1": 21382.0,
+"ap2": 20904.0,
+"ambos": 201.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": null,
+"prov_listadas": 0,
+"top3": [],
+"cota": 3.399778241931395,
+"top3_seguro": false
+},
+{
+"apellido": "Vázquez",
+"clave": "VAZQUEZ",
+"frec": {
+"orden": 26,
+"ap1": 144451.0,
+"ap2": 143326.0,
+"ambos": 3255.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 26,
+"n": 144451.0,
+"x1000": 2.9402810359984595
+},
+"prov_listadas": 24,
+"top3": [
+[
+"27 - LUGO",
+6,
+7692.0,
+23.593499825165175
+],
+[
+"32 - OURENSE",
+7,
+6460.0,
+21.161040101153702
+],
+[
+"15 - CORUÑA, A",
+8,
+19160.0,
+16.871796361996893
+]
+],
+"cota": 3.399778241931395,
+"top3_seguro": true
+},
+{
+"apellido": "Álvarez",
+"clave": "ALVAREZ",
+"frec": {
+"orden": 17,
+"ap1": 281150.0,
+"ap2": 280623.0,
+"ambos": 8850.0,
+"hoja": "Apellidos >=100"
+},
+"esp100": {
+"orden": 17,
+"n": 281150.0,
+"x1000": 5.722771135339782
+},
+"prov_listadas": 48,
+"top3": [
+[
+"33 - ASTURIAS",
+4,
+37635.0,
+37.07414237416365
+],
+[
+"24 - LEÓN",
+5,
+14461.0,
+32.27685646050488
+],
+[
+"32 - OURENSE",
+5,
+9237.0,
+30.25766678240817
+]
+],
+"cota": 2.8763570888936703,
+"top3_seguro": true
+}
+]

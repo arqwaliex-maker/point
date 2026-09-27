@@ -1,0 +1,2520 @@
+[
+{
+"apellido": "Rodríguez_CONTROL",
+"forma_consultada": "RODRIGUEZ",
+"ocorrencias": 236756,
+"porcentaxe": "4.6528%",
+"posicion": "1[1]",
+"concellos": 315,
+"top3": [
+{
+"concello": "Porqueira",
+"provincia": "Ourense",
+"n": 386,
+"pct": "16.7899%"
+},
+{
+"concello": "Teixeira, A",
+"provincia": "Ourense",
+"n": 184,
+"pct": "16.7121%"
+},
+{
+"concello": "Trasmiras",
+"provincia": "Ourense",
+"n": 604,
+"pct": "16.5298%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Acosta",
+"forma_consultada": "ACOSTA",
+"ocorrencias": 491,
+"porcentaxe": "0.0096%",
+"posicion": "903[3]",
+"concellos": 19,
+"top3": [
+{
+"concello": "Padrón",
+"provincia": "A Coruña",
+"n": 39,
+"pct": "0.2139%"
+},
+{
+"concello": "Cenlle",
+"provincia": "Ourense",
+"n": 6,
+"pct": "0.1876%"
+},
+{
+"concello": "Dodro",
+"provincia": "A Coruña",
+"n": 7,
+"pct": "0.1092%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Acuña",
+"forma_consultada": "ACUÑA",
+"ocorrencias": 3223,
+"porcentaxe": "0.0633%",
+"posicion": "203[1]",
+"concellos": 45,
+"top3": [
+{
+"concello": "Vilaboa",
+"provincia": "Pontevedra",
+"n": 288,
+"pct": "2.51%"
+},
+{
+"concello": "Marín",
+"provincia": "Pontevedra",
+"n": 423,
+"pct": "0.8591%"
+},
+{
+"concello": "Pontevedra",
+"provincia": "Pontevedra",
+"n": 821,
+"pct": "0.5285%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Aguirre",
+"forma_consultada": "AGUIRRE",
+"ocorrencias": 399,
+"porcentaxe": "0.0078%",
+"posicion": "983[2]",
+"concellos": 20,
+"top3": [
+{
+"concello": "Monterrei",
+"provincia": "Ourense",
+"n": 21,
+"pct": "0.3238%"
+},
+{
+"concello": "Castrelo do Val",
+"provincia": "Ourense",
+"n": 7,
+"pct": "0.2779%"
+},
+{
+"concello": "Pontenova, A",
+"provincia": "Lugo",
+"n": 14,
+"pct": "0.219%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Agüero",
+"forma_consultada": "AGUERO",
+"ocorrencias": 21,
+"porcentaxe": "4.0E-4%",
+"posicion": "1352[94]",
+"concellos": 3,
+"top3": [
+{
+"concello": "Pontevedra",
+"provincia": "Pontevedra",
+"n": 8,
+"pct": "0.0051%"
+},
+{
+"concello": "Coruña, A",
+"provincia": "A Coruña",
+"n": 7,
+"pct": "0.0014%"
+},
+{
+"concello": "Vigo",
+"provincia": "Pontevedra",
+"n": 6,
+"pct": "0.0010%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Arias",
+"forma_consultada": "ARIAS",
+"ocorrencias": 14422,
+"porcentaxe": "0.2834%",
+"posicion": "42[1]",
+"concellos": 191,
+"top3": [
+{
+"concello": "Paradela",
+"provincia": "Lugo",
+"n": 217,
+"pct": "4.4079%"
+},
+{
+"concello": "Rubiá",
+"provincia": "Ourense",
+"n": 136,
+"pct": "3.9731%"
+},
+{
+"concello": "Larouco",
+"provincia": "Ourense",
+"n": 41,
+"pct": "3.5996%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Ayala",
+"forma_consultada": "AYALA",
+"ocorrencias": 151,
+"porcentaxe": "0.0030%",
+"posicion": "1222[11]",
+"concellos": 9,
+"top3": [
+{
+"concello": "Cee",
+"provincia": "A Coruña",
+"n": 22,
+"pct": "0.1509%"
+},
+{
+"concello": "Barco de Valdeorras, O",
+"provincia": "Ourense",
+"n": 6,
+"pct": "0.0223%"
+},
+{
+"concello": "Lugo",
+"provincia": "Lugo",
+"n": 26,
+"pct": "0.0143%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Barrios",
+"forma_consultada": "BARRIOS",
+"ocorrencias": 229,
+"porcentaxe": "0.0045%",
+"posicion": "1144[3]",
+"concellos": 8,
+"top3": [
+{
+"concello": "Estrada, A",
+"provincia": "Pontevedra",
+"n": 27,
+"pct": "0.0605%"
+},
+{
+"concello": "Lugo",
+"provincia": "Lugo",
+"n": 49,
+"pct": "0.027%"
+},
+{
+"concello": "Barco de Valdeorras, O",
+"provincia": "Ourense",
+"n": 6,
+"pct": "0.0223%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Benítez",
+"forma_consultada": "BENITEZ",
+"ocorrencias": 426,
+"porcentaxe": "0.0084%",
+"posicion": "961[2]",
+"concellos": 23,
+"top3": [
+{
+"concello": "Covelo, O",
+"provincia": "Pontevedra",
+"n": 34,
+"pct": "0.4566%"
+},
+{
+"concello": "Tomiño",
+"provincia": "Pontevedra",
+"n": 43,
+"pct": "0.188%"
+},
+{
+"concello": "Gondomar",
+"provincia": "Pontevedra",
+"n": 35,
+"pct": "0.1463%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Bianchi",
+"forma_consultada": "BIANCHI",
+"ocorrencias": 10,
+"porcentaxe": "2.0E-4%",
+"posicion": "1363[229]",
+"concellos": 1,
+"top3": [
+{
+"concello": "Vigo",
+"provincia": "Pontevedra",
+"n": 10,
+"pct": "0.0017%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Cabrera",
+"forma_consultada": "CABRERA",
+"ocorrencias": 795,
+"porcentaxe": "0.0156%",
+"posicion": "693[2]",
+"concellos": 29,
+"top3": [
+{
+"concello": "Sandiás",
+"provincia": "Ourense",
+"n": 67,
+"pct": "2.0711%"
+},
+{
+"concello": "Vilar de Santos",
+"provincia": "Ourense",
+"n": 15,
+"pct": "0.7504%"
+},
+{
+"concello": "Rairiz de Veiga",
+"provincia": "Ourense",
+"n": 18,
+"pct": "0.5101%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Cardozo",
+"forma_consultada": "CARDOZO",
+"ocorrencias": 6,
+"porcentaxe": "1.0E-4%",
+"posicion": "1367[866]",
+"concellos": 1,
+"top3": [
+{
+"concello": "Coruña, A",
+"provincia": "A Coruña",
+"n": 6,
+"pct": "0.0012%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Carrizo",
+"forma_consultada": "CARRIZO",
+"ocorrencias": 108,
+"porcentaxe": "0.0021%",
+"posicion": "1265[13]",
+"concellos": 7,
+"top3": [
+{
+"concello": "Carballeda de Avia",
+"provincia": "Ourense",
+"n": 7,
+"pct": "0.2196%"
+},
+{
+"concello": "Castrelo de Miño",
+"provincia": "Ourense",
+"n": 6,
+"pct": "0.1467%"
+},
+{
+"concello": "Baiona",
+"provincia": "Pontevedra",
+"n": 12,
+"pct": "0.0541%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Castillo",
+"forma_consultada": "CASTILLO",
+"ocorrencias": 1035,
+"porcentaxe": "0.0203%",
+"posicion": "572[1]",
+"concellos": 38,
+"top3": [
+{
+"concello": "Covelo, O",
+"provincia": "Pontevedra",
+"n": 30,
+"pct": "0.4029%"
+},
+{
+"concello": "Sober",
+"provincia": "Lugo",
+"n": 14,
+"pct": "0.2347%"
+},
+{
+"concello": "Caniza, A",
+"provincia": "Pontevedra",
+"n": 30,
+"pct": "0.2238%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Castro",
+"forma_consultada": "CASTRO",
+"ocorrencias": 60607,
+"porcentaxe": "1.1911%",
+"posicion": "11[1]",
+"concellos": 288,
+"top3": [
+{
+"concello": "Tordoia",
+"provincia": "A Coruña",
+"n": 394,
+"pct": "4.0791%"
+},
+{
+"concello": "Meaño",
+"provincia": "Pontevedra",
+"n": 431,
+"pct": "3.9462%"
+},
+{
+"concello": "Dumbría",
+"provincia": "A Coruña",
+"n": 325,
+"pct": "3.7905%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Chávez",
+"forma_consultada": "CHAVEZ",
+"ocorrencias": 30,
+"porcentaxe": "6.0E-4%",
+"posicion": "1343[76]",
+"concellos": 4,
+"top3": [
+{
+"concello": "Brión",
+"provincia": "A Coruña",
+"n": 6,
+"pct": "0.0458%"
+},
+{
+"concello": "Ourense",
+"provincia": "Ourense",
+"n": 6,
+"pct": "0.0028%"
+},
+{
+"concello": "Coruña, A",
+"provincia": "A Coruña",
+"n": 9,
+"pct": "0.0019%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Colombo",
+"forma_consultada": "COLOMBO",
+"ocorrencias": 6,
+"porcentaxe": "1.0E-4%",
+"posicion": "1367[866]",
+"concellos": 1,
+"top3": [
+{
+"concello": "Sanxenxo",
+"provincia": "Pontevedra",
+"n": 6,
+"pct": "0.0184%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Coronel",
+"forma_consultada": "CORONEL",
+"ocorrencias": 30,
+"porcentaxe": "6.0E-4%",
+"posicion": "1343[76]",
+"concellos": 1,
+"top3": [
+{
+"concello": "Vigo",
+"provincia": "Pontevedra",
+"n": 30,
+"pct": "0.0052%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Correa",
+"forma_consultada": "CORREA",
+"ocorrencias": 2055,
+"porcentaxe": "0.0404%",
+"posicion": "313[1]",
+"concellos": 56,
+"top3": [
+{
+"concello": "Rosal, O",
+"provincia": "Pontevedra",
+"n": 86,
+"pct": "0.7251%"
+},
+{
+"concello": "Laza",
+"provincia": "Ourense",
+"n": 21,
+"pct": "0.5757%"
+},
+{
+"concello": "Forcarei",
+"provincia": "Pontevedra",
+"n": 42,
+"pct": "0.4468%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Cruz",
+"forma_consultada": "CRUZ",
+"ocorrencias": 4755,
+"porcentaxe": "0.0934%",
+"posicion": "134[1]",
+"concellos": 93,
+"top3": [
+{
+"concello": "Toén",
+"provincia": "Ourense",
+"n": 144,
+"pct": "2.8657%"
+},
+{
+"concello": "Begonte",
+"provincia": "Lugo",
+"n": 142,
+"pct": "1.9288%"
+},
+{
+"concello": "Rábade",
+"provincia": "Lugo",
+"n": 24,
+"pct": "0.7419%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Cáceres",
+"forma_consultada": "CACERES",
+"ocorrencias": 100,
+"porcentaxe": "0.0020%",
+"posicion": "1273[19]",
+"concellos": 8,
+"top3": [
+{
+"concello": "Soutomaior",
+"provincia": "Pontevedra",
+"n": 6,
+"pct": "0.0541%"
+},
+{
+"concello": "Barco de Valdeorras, O",
+"provincia": "Ourense",
+"n": 7,
+"pct": "0.026%"
+},
+{
+"concello": "Sarria",
+"provincia": "Lugo",
+"n": 6,
+"pct": "0.0229%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Córdoba",
+"forma_consultada": "CORDOBA",
+"ocorrencias": 149,
+"porcentaxe": "0.0029%",
+"posicion": "1224[4]",
+"concellos": 8,
+"top3": [
+{
+"concello": "Carballeda de Avia",
+"provincia": "Ourense",
+"n": 8,
+"pct": "0.2509%"
+},
+{
+"concello": "Neda",
+"provincia": "A Coruña",
+"n": 6,
+"pct": "0.0508%"
+},
+{
+"concello": "Pontevedra",
+"provincia": "Pontevedra",
+"n": 48,
+"pct": "0.0309%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Domínguez",
+"forma_consultada": "DOMINGUEZ",
+"ocorrencias": 41478,
+"porcentaxe": "0.8151%",
+"posicion": "19[1]",
+"concellos": 259,
+"top3": [
+{
+"concello": "Manzaneda",
+"provincia": "Ourense",
+"n": 170,
+"pct": "7.3849%"
+},
+{
+"concello": "Padrenda",
+"provincia": "Ourense",
+"n": 354,
+"pct": "7.08%"
+},
+{
+"concello": "Melón",
+"provincia": "Ourense",
+"n": 177,
+"pct": "5.7919%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Duarte",
+"forma_consultada": "DUARTE",
+"ocorrencias": 1606,
+"porcentaxe": "0.0316%",
+"posicion": "404[1]",
+"concellos": 68,
+"top3": [
+{
+"concello": "Cuntis",
+"provincia": "Pontevedra",
+"n": 37,
+"pct": "0.3381%"
+},
+{
+"concello": "Santa Comba",
+"provincia": "A Coruña",
+"n": 71,
+"pct": "0.3291%"
+},
+{
+"concello": "Zas",
+"provincia": "A Coruña",
+"n": 35,
+"pct": "0.2936%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Díaz",
+"forma_consultada": "DIAZ",
+"ocorrencias": 50509,
+"porcentaxe": "0.9926%",
+"posicion": "13[1]",
+"concellos": 286,
+"top3": [
+{
+"concello": "A Ribeira de Piquín",
+"provincia": "Lugo",
+"n": 113,
+"pct": "6.8485%"
+},
+{
+"concello": "Negueira de Muñiz",
+"provincia": "Lugo",
+"n": 32,
+"pct": "6.8085%"
+},
+{
+"concello": "Begonte",
+"provincia": "Lugo",
+"n": 410,
+"pct": "5.5691%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Escobar",
+"forma_consultada": "ESCOBAR",
+"ocorrencias": 289,
+"porcentaxe": "0.0057%",
+"posicion": "1085[6]",
+"concellos": 12,
+"top3": [
+{
+"concello": "Baleira",
+"provincia": "Lugo",
+"n": 17,
+"pct": "0.4734%"
+},
+{
+"concello": "Vilagarcía de Arousa",
+"provincia": "Pontevedra",
+"n": 33,
+"pct": "0.0481%"
+},
+{
+"concello": "Sada",
+"provincia": "A Coruña",
+"n": 7,
+"pct": "0.0295%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Esposito",
+"forma_consultada": "ESPOSITO",
+"ocorrencias": 14,
+"porcentaxe": "3.0E-4%",
+"posicion": "1359[174]",
+"concellos": 1,
+"top3": [
+{
+"concello": "Vigo",
+"provincia": "Pontevedra",
+"n": 14,
+"pct": "0.0024%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Farías",
+"forma_consultada": "FARIAS",
+"ocorrencias": 74,
+"porcentaxe": "0.0015%",
+"posicion": "1299[14]",
+"concellos": 6,
+"top3": [
+{
+"concello": "Ares",
+"provincia": "A Coruña",
+"n": 21,
+"pct": "0.2032%"
+},
+{
+"concello": "Rosal, O",
+"provincia": "Pontevedra",
+"n": 6,
+"pct": "0.0506%"
+},
+{
+"concello": "Guarda, A",
+"provincia": "Pontevedra",
+"n": 6,
+"pct": "0.0297%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Fernández",
+"forma_consultada": "FERNANDEZ",
+"ocorrencias": 223932,
+"porcentaxe": "4.4008%",
+"posicion": "2[1]",
+"concellos": 315,
+"top3": [
+{
+"concello": "A Ribeira de Piquín",
+"provincia": "Lugo",
+"n": 386,
+"pct": "23.3939%"
+},
+{
+"concello": "Fonsagrada, A",
+"provincia": "Lugo",
+"n": 2003,
+"pct": "20.0883%"
+},
+{
+"concello": "Baleira",
+"provincia": "Lugo",
+"n": 711,
+"pct": "19.7995%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Ferrari",
+"forma_consultada": "FERRARI",
+"ocorrencias": 46,
+"porcentaxe": "9.0E-4%",
+"posicion": "1327[22]",
+"concellos": 3,
+"top3": [
+{
+"concello": "Cangas de Morrazo",
+"provincia": "Pontevedra",
+"n": 29,
+"pct": "0.0594%"
+},
+{
+"concello": "Moaña",
+"provincia": "Pontevedra",
+"n": 8,
+"pct": "0.0221%"
+},
+{
+"concello": "Coruña, A",
+"provincia": "A Coruña",
+"n": 9,
+"pct": "0.0019%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Ferreyra",
+"forma_consultada": "FERREYRA",
+"ocorrencias": 14,
+"porcentaxe": "3.0E-4%",
+"posicion": "1359[174]",
+"concellos": 2,
+"top3": [
+{
+"concello": "Vigo",
+"provincia": "Pontevedra",
+"n": 8,
+"pct": "0.0014%"
+},
+{
+"concello": "Coruña, A",
+"provincia": "A Coruña",
+"n": 6,
+"pct": "0.0012%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Figueroa",
+"forma_consultada": "FIGUEROA",
+"ocorrencias": 4883,
+"porcentaxe": "0.096%",
+"posicion": "128[1]",
+"concellos": 70,
+"top3": [
+{
+"concello": "Nigrán",
+"provincia": "Pontevedra",
+"n": 321,
+"pct": "0.9595%"
+},
+{
+"concello": "Redondela",
+"provincia": "Pontevedra",
+"n": 539,
+"pct": "0.9195%"
+},
+{
+"concello": "Gondomar",
+"provincia": "Pontevedra",
+"n": 217,
+"pct": "0.9069%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Flores",
+"forma_consultada": "FLORES",
+"ocorrencias": 1368,
+"porcentaxe": "0.0269%",
+"posicion": "465[1]",
+"concellos": 38,
+"top3": [
+{
+"concello": "Rosal, O",
+"provincia": "Pontevedra",
+"n": 123,
+"pct": "1.0371%"
+},
+{
+"concello": "Outeiro de Rei",
+"provincia": "Lugo",
+"n": 35,
+"pct": "0.3964%"
+},
+{
+"concello": "Castro de Rei",
+"provincia": "Lugo",
+"n": 37,
+"pct": "0.3139%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "García",
+"forma_consultada": "GARCIA",
+"ocorrencias": 156903,
+"porcentaxe": "3.0835%",
+"posicion": "5[1]",
+"concellos": 312,
+"top3": [
+{
+"concello": "Antas de Ulla",
+"provincia": "Lugo",
+"n": 532,
+"pct": "9.9663%"
+},
+{
+"concello": "Sobrado",
+"provincia": "A Coruña",
+"n": 404,
+"pct": "8.4325%"
+},
+{
+"concello": "Boimorto",
+"provincia": "A Coruña",
+"n": 410,
+"pct": "8.2148%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Giménez",
+"forma_consultada": "GIMENEZ",
+"ocorrencias": 1254,
+"porcentaxe": "0.0246%",
+"posicion": "502[1]",
+"concellos": 38,
+"top3": [
+{
+"concello": "Lobeira",
+"provincia": "Ourense",
+"n": 10,
+"pct": "0.4092%"
+},
+{
+"concello": "Moraña",
+"provincia": "Pontevedra",
+"n": 24,
+"pct": "0.2805%"
+},
+{
+"concello": "Xinzo de Limia",
+"provincia": "Ourense",
+"n": 54,
+"pct": "0.2787%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Godoy",
+"forma_consultada": "GODOY",
+"ocorrencias": 405,
+"porcentaxe": "0.0080%",
+"posicion": "979[3]",
+"concellos": 20,
+"top3": [
+{
+"concello": "Cotobade",
+"provincia": "Pontevedra",
+"n": 37,
+"pct": "0.4015%"
+},
+{
+"concello": "Esgos",
+"provincia": "Ourense",
+"n": 8,
+"pct": "0.3037%"
+},
+{
+"concello": "Castrelo de Miño",
+"provincia": "Ourense",
+"n": 9,
+"pct": "0.22%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "González",
+"forma_consultada": "GONZALEZ",
+"ocorrencias": 176002,
+"porcentaxe": "3.4588%",
+"posicion": "3[1]",
+"concellos": 314,
+"top3": [
+{
+"concello": "Montederramo",
+"provincia": "Ourense",
+"n": 341,
+"pct": "14.3761%"
+},
+{
+"concello": "San Amaro",
+"provincia": "Ourense",
+"n": 397,
+"pct": "14.3477%"
+},
+{
+"concello": "Punxín",
+"provincia": "Ourense",
+"n": 273,
+"pct": "14.3007%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Gutiérrez",
+"forma_consultada": "GUTIERREZ",
+"ocorrencias": 5008,
+"porcentaxe": "0.0984%",
+"posicion": "126[1]",
+"concellos": 101,
+"top3": [
+{
+"concello": "Nogais, As",
+"provincia": "Lugo",
+"n": 31,
+"pct": "1.0218%"
+},
+{
+"concello": "Dozón",
+"provincia": "Pontevedra",
+"n": 41,
+"pct": "0.9988%"
+},
+{
+"concello": "Cervantes",
+"provincia": "Lugo",
+"n": 41,
+"pct": "0.9877%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Guzmán",
+"forma_consultada": "GUZMAN",
+"ocorrencias": 1137,
+"porcentaxe": "0.0223%",
+"posicion": "530[1]",
+"concellos": 41,
+"top3": [
+{
+"concello": "Vilamarín",
+"provincia": "Ourense",
+"n": 77,
+"pct": "1.7292%"
+},
+{
+"concello": "Negreira",
+"provincia": "A Coruña",
+"n": 113,
+"pct": "0.8735%"
+},
+{
+"concello": "Muras",
+"provincia": "Lugo",
+"n": 12,
+"pct": "0.5885%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Gómez",
+"forma_consultada": "GOMEZ",
+"ocorrencias": 69419,
+"porcentaxe": "1.3642%",
+"posicion": "10[1]",
+"concellos": 312,
+"top3": [
+{
+"concello": "Nogueira de Ramuín",
+"provincia": "Ourense",
+"n": 460,
+"pct": "8.9914%"
+},
+{
+"concello": "Montederramo",
+"provincia": "Ourense",
+"n": 207,
+"pct": "8.7268%"
+},
+{
+"concello": "Cervantes",
+"provincia": "Lugo",
+"n": 332,
+"pct": "7.9981%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Herrera",
+"forma_consultada": "HERRERA",
+"ocorrencias": 566,
+"porcentaxe": "0.0111%",
+"posicion": "843[1]",
+"concellos": 25,
+"top3": [
+{
+"concello": "San Amaro",
+"provincia": "Ourense",
+"n": 9,
+"pct": "0.3253%"
+},
+{
+"concello": "Viana do Bolo",
+"provincia": "Ourense",
+"n": 11,
+"pct": "0.1472%"
+},
+{
+"concello": "Muxía",
+"provincia": "A Coruña",
+"n": 6,
+"pct": "0.0498%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Juárez",
+"forma_consultada": "JUAREZ",
+"ocorrencias": 121,
+"porcentaxe": "0.0024%",
+"posicion": "1252[8]",
+"concellos": 6,
+"top3": [
+{
+"concello": "Porriño, O",
+"provincia": "Pontevedra",
+"n": 7,
+"pct": "0.0213%"
+},
+{
+"concello": "Santiago de Compostela",
+"provincia": "A Coruña",
+"n": 15,
+"pct": "0.0082%"
+},
+{
+"concello": "Coruña, A",
+"provincia": "A Coruña",
+"n": 39,
+"pct": "0.0080%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Ledesma",
+"forma_consultada": "LEDESMA",
+"ocorrencias": 51,
+"porcentaxe": "0.0010%",
+"posicion": "1322[31]",
+"concellos": 4,
+"top3": [
+{
+"concello": "Narón",
+"provincia": "A Coruña",
+"n": 6,
+"pct": "0.0089%"
+},
+{
+"concello": "Santiago de Compostela",
+"provincia": "A Coruña",
+"n": 10,
+"pct": "0.0054%"
+},
+{
+"concello": "Coruña, A",
+"provincia": "A Coruña",
+"n": 18,
+"pct": "0.0037%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Lucatti",
+"forma_consultada": "LUCATTI",
+"ocorrencias": 0,
+"porcentaxe": "0.0%",
+"posicion": "0[0]",
+"concellos": 0,
+"top3": [],
+"estado": "OK"
+},
+{
+"apellido": "Luna",
+"forma_consultada": "LUNA",
+"ocorrencias": 616,
+"porcentaxe": "0.0121%",
+"posicion": "805[3]",
+"concellos": 25,
+"top3": [
+{
+"concello": "A Ribeira de Piquín",
+"provincia": "Lugo",
+"n": 16,
+"pct": "0.9697%"
+},
+{
+"concello": "Caldas de Reis",
+"provincia": "Pontevedra",
+"n": 90,
+"pct": "0.4734%"
+},
+{
+"concello": "Ponte Caldelas",
+"provincia": "Pontevedra",
+"n": 39,
+"pct": "0.3063%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "López",
+"forma_consultada": "LOPEZ",
+"ocorrencias": 167776,
+"porcentaxe": "3.2972%",
+"posicion": "4[1]",
+"concellos": 315,
+"top3": [
+{
+"concello": "Paradela",
+"provincia": "Lugo",
+"n": 1794,
+"pct": "36.4412%"
+},
+{
+"concello": "Páramo, O",
+"provincia": "Lugo",
+"n": 1170,
+"pct": "31.2667%"
+},
+{
+"concello": "Sarria",
+"provincia": "Lugo",
+"n": 6230,
+"pct": "23.756%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Maldonado",
+"forma_consultada": "MALDONADO",
+"ocorrencias": 108,
+"porcentaxe": "0.0021%",
+"posicion": "1265[13]",
+"concellos": 7,
+"top3": [
+{
+"concello": "Pobra do Caramiñal, A",
+"provincia": "A Coruña",
+"n": 6,
+"pct": "0.03%"
+},
+{
+"concello": "Grove, O",
+"provincia": "Pontevedra",
+"n": 6,
+"pct": "0.027%"
+},
+{
+"concello": "Vigo",
+"provincia": "Pontevedra",
+"n": 44,
+"pct": "0.0076%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Mansilla",
+"forma_consultada": "MANSILLA",
+"ocorrencias": 206,
+"porcentaxe": "0.0040%",
+"posicion": "1167[5]",
+"concellos": 9,
+"top3": [
+{
+"concello": "Val do Dubra",
+"provincia": "A Coruña",
+"n": 10,
+"pct": "0.1063%"
+},
+{
+"concello": "Santiago de Compostela",
+"provincia": "A Coruña",
+"n": 103,
+"pct": "0.0561%"
+},
+{
+"concello": "Negreira",
+"provincia": "A Coruña",
+"n": 7,
+"pct": "0.0541%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Martínez",
+"forma_consultada": "MARTINEZ",
+"ocorrencias": 113434,
+"porcentaxe": "2.2292%",
+"posicion": "7[1]",
+"concellos": 310,
+"top3": [
+{
+"concello": "Rosal, O",
+"provincia": "Pontevedra",
+"n": 1137,
+"pct": "9.5868%"
+},
+{
+"concello": "Arnoia, A",
+"provincia": "Ourense",
+"n": 184,
+"pct": "7.4736%"
+},
+{
+"concello": "Guarda, A",
+"provincia": "Pontevedra",
+"n": 1508,
+"pct": "7.4558%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Medina",
+"forma_consultada": "MEDINA",
+"ocorrencias": 502,
+"porcentaxe": "0.0099%",
+"posicion": "894[2]",
+"concellos": 19,
+"top3": [
+{
+"concello": "Tui",
+"provincia": "Pontevedra",
+"n": 18,
+"pct": "0.0555%"
+},
+{
+"concello": "Cambre",
+"provincia": "A Coruña",
+"n": 15,
+"pct": "0.0371%"
+},
+{
+"concello": "Ames",
+"provincia": "A Coruña",
+"n": 12,
+"pct": "0.0301%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Mendoza",
+"forma_consultada": "MENDOZA",
+"ocorrencias": 695,
+"porcentaxe": "0.0137%",
+"posicion": "753[2]",
+"concellos": 34,
+"top3": [
+{
+"concello": "Santiso",
+"provincia": "A Coruña",
+"n": 17,
+"pct": "0.3782%"
+},
+{
+"concello": "Incio, O",
+"provincia": "Lugo",
+"n": 17,
+"pct": "0.3538%"
+},
+{
+"concello": "Sarreaus",
+"provincia": "Ourense",
+"n": 12,
+"pct": "0.3258%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Miranda",
+"forma_consultada": "MIRANDA",
+"ocorrencias": 4327,
+"porcentaxe": "0.085%",
+"posicion": "155[1]",
+"concellos": 99,
+"top3": [
+{
+"concello": "Bola, A",
+"provincia": "Ourense",
+"n": 91,
+"pct": "2.9584%"
+},
+{
+"concello": "Oia",
+"provincia": "Pontevedra",
+"n": 45,
+"pct": "0.7779%"
+},
+{
+"concello": "Pontenova, A",
+"provincia": "Lugo",
+"n": 46,
+"pct": "0.7195%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Molina",
+"forma_consultada": "MOLINA",
+"ocorrencias": 867,
+"porcentaxe": "0.017%",
+"posicion": "651[3]",
+"concellos": 27,
+"top3": [
+{
+"concello": "Porqueira",
+"provincia": "Ourense",
+"n": 15,
+"pct": "0.6525%"
+},
+{
+"concello": "Cortegada",
+"provincia": "Ourense",
+"n": 8,
+"pct": "0.283%"
+},
+{
+"concello": "Bande",
+"provincia": "Ourense",
+"n": 11,
+"pct": "0.2362%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Morales",
+"forma_consultada": "MORALES",
+"ocorrencias": 2127,
+"porcentaxe": "0.0418%",
+"posicion": "301[2]",
+"concellos": 67,
+"top3": [
+{
+"concello": "Vilar de Santos",
+"provincia": "Ourense",
+"n": 74,
+"pct": "3.7019%"
+},
+{
+"concello": "Sandiás",
+"provincia": "Ourense",
+"n": 62,
+"pct": "1.9165%"
+},
+{
+"concello": "Dodro",
+"provincia": "A Coruña",
+"n": 75,
+"pct": "1.1699%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Moreno",
+"forma_consultada": "MORENO",
+"ocorrencias": 2727,
+"porcentaxe": "0.0536%",
+"posicion": "241[2]",
+"concellos": 65,
+"top3": [
+{
+"concello": "Friol",
+"provincia": "Lugo",
+"n": 41,
+"pct": "0.4416%"
+},
+{
+"concello": "Monterrei",
+"provincia": "Ourense",
+"n": 17,
+"pct": "0.2621%"
+},
+{
+"concello": "Melón",
+"provincia": "Ourense",
+"n": 6,
+"pct": "0.1963%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Muñoz",
+"forma_consultada": "MUÑOZ",
+"ocorrencias": 3344,
+"porcentaxe": "0.0657%",
+"posicion": "193[1]",
+"concellos": 82,
+"top3": [
+{
+"concello": "Amoeiro",
+"provincia": "Ourense",
+"n": 25,
+"pct": "0.5505%"
+},
+{
+"concello": "Mondariz",
+"provincia": "Pontevedra",
+"n": 50,
+"pct": "0.4684%"
+},
+{
+"concello": "Paderne de Allariz",
+"provincia": "Ourense",
+"n": 13,
+"pct": "0.3962%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Méndez",
+"forma_consultada": "MENDEZ",
+"ocorrencias": 22588,
+"porcentaxe": "0.4439%",
+"posicion": "26[1]",
+"concellos": 252,
+"top3": [
+{
+"concello": "Negueira de Muñiz",
+"provincia": "Lugo",
+"n": 22,
+"pct": "4.6809%"
+},
+{
+"concello": "Navia de Suarna",
+"provincia": "Lugo",
+"n": 152,
+"pct": "4.2129%"
+},
+{
+"concello": "Agolada",
+"provincia": "Pontevedra",
+"n": 266,
+"pct": "3.4336%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Navarro",
+"forma_consultada": "NAVARRO",
+"ocorrencias": 831,
+"porcentaxe": "0.0163%",
+"posicion": "671[1]",
+"concellos": 28,
+"top3": [
+{
+"concello": "Lourenzá",
+"provincia": "Lugo",
+"n": 13,
+"pct": "0.2389%"
+},
+{
+"concello": "Viveiro",
+"provincia": "Lugo",
+"n": 54,
+"pct": "0.1762%"
+},
+{
+"concello": "Pontedeume",
+"provincia": "A Coruña",
+"n": 18,
+"pct": "0.1032%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Núñez",
+"forma_consultada": "NUÑEZ",
+"ocorrencias": 21030,
+"porcentaxe": "0.4133%",
+"posicion": "27[1]",
+"concellos": 220,
+"top3": [
+{
+"concello": "Rubiá",
+"provincia": "Ourense",
+"n": 331,
+"pct": "9.6699%"
+},
+{
+"concello": "Vilariño de Conso",
+"provincia": "Ourense",
+"n": 82,
+"pct": "5.3247%"
+},
+{
+"concello": "Pedrafita do Cebreiro",
+"provincia": "Lugo",
+"n": 96,
+"pct": "3.1736%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Ojeda",
+"forma_consultada": "OJEDA",
+"ocorrencias": 88,
+"porcentaxe": "0.0017%",
+"posicion": "1285[12]",
+"concellos": 4,
+"top3": [
+{
+"concello": "Cambre",
+"provincia": "A Coruña",
+"n": 9,
+"pct": "0.0223%"
+},
+{
+"concello": "Vigo",
+"provincia": "Pontevedra",
+"n": 59,
+"pct": "0.0101%"
+},
+{
+"concello": "Lugo",
+"provincia": "Lugo",
+"n": 6,
+"pct": "0.0033%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Ortiz",
+"forma_consultada": "ORTIZ",
+"ocorrencias": 914,
+"porcentaxe": "0.018%",
+"posicion": "623[1]",
+"concellos": 35,
+"top3": [
+{
+"concello": "Bóveda",
+"provincia": "Lugo",
+"n": 8,
+"pct": "0.2108%"
+},
+{
+"concello": "Poio",
+"provincia": "Pontevedra",
+"n": 59,
+"pct": "0.2029%"
+},
+{
+"concello": "Castroverde",
+"provincia": "Lugo",
+"n": 7,
+"pct": "0.104%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Paz",
+"forma_consultada": "PAZ",
+"ocorrencias": 17549,
+"porcentaxe": "0.3449%",
+"posicion": "33[1]",
+"concellos": 209,
+"top3": [
+{
+"concello": "Lobios",
+"provincia": "Ourense",
+"n": 209,
+"pct": "4.0725%"
+},
+{
+"concello": "Xermade",
+"provincia": "Lugo",
+"n": 152,
+"pct": "3.0255%"
+},
+{
+"concello": "Alfoz de Castrodouro",
+"provincia": "Lugo",
+"n": 122,
+"pct": "2.6029%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Peralta",
+"forma_consultada": "PERALTA",
+"ocorrencias": 71,
+"porcentaxe": "0.0014%",
+"posicion": "1302[19]",
+"concellos": 8,
+"top3": [
+{
+"concello": "Soutomaior",
+"provincia": "Pontevedra",
+"n": 9,
+"pct": "0.0812%"
+},
+{
+"concello": "Xinzo de Limia",
+"provincia": "Ourense",
+"n": 8,
+"pct": "0.0413%"
+},
+{
+"concello": "Barco de Valdeorras, O",
+"provincia": "Ourense",
+"n": 6,
+"pct": "0.0223%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Pereyra",
+"forma_consultada": "PEREYRA",
+"ocorrencias": 24,
+"porcentaxe": "5.0E-4%",
+"posicion": "1349[72]",
+"concellos": 2,
+"top3": [
+{
+"concello": "Pontevedra",
+"provincia": "Pontevedra",
+"n": 7,
+"pct": "0.0045%"
+},
+{
+"concello": "Vigo",
+"provincia": "Pontevedra",
+"n": 17,
+"pct": "0.0029%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Ponce",
+"forma_consultada": "PONCE",
+"ocorrencias": 504,
+"porcentaxe": "0.0099%",
+"posicion": "892[2]",
+"concellos": 14,
+"top3": [
+{
+"concello": "Cedeira",
+"provincia": "A Coruña",
+"n": 61,
+"pct": "0.4079%"
+},
+{
+"concello": "Valdoviño",
+"provincia": "A Coruña",
+"n": 39,
+"pct": "0.284%"
+},
+{
+"concello": "Narón",
+"provincia": "A Coruña",
+"n": 135,
+"pct": "0.2%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Pérez",
+"forma_consultada": "PEREZ",
+"ocorrencias": 126875,
+"porcentaxe": "2.4934%",
+"posicion": "6[1]",
+"concellos": 315,
+"top3": [
+{
+"concello": "Sober",
+"provincia": "Lugo",
+"n": 734,
+"pct": "12.3031%"
+},
+{
+"concello": "San Xoán de Río",
+"provincia": "Ourense",
+"n": 199,
+"pct": "10.9101%"
+},
+{
+"concello": "Parada de Sil",
+"provincia": "Ourense",
+"n": 133,
+"pct": "8.2455%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Quiroga",
+"forma_consultada": "QUIROGA",
+"ocorrencias": 3121,
+"porcentaxe": "0.0613%",
+"posicion": "213[1]",
+"concellos": 72,
+"top3": [
+{
+"concello": "Pantón",
+"provincia": "Lugo",
+"n": 120,
+"pct": "1.8504%"
+},
+{
+"concello": "Ribas de Sil",
+"provincia": "Lugo",
+"n": 38,
+"pct": "1.3567%"
+},
+{
+"concello": "Cervantes",
+"provincia": "Lugo",
+"n": 56,
+"pct": "1.3491%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Ramos",
+"forma_consultada": "RAMOS",
+"ocorrencias": 16276,
+"porcentaxe": "0.3199%",
+"posicion": "36[1]",
+"concellos": 219,
+"top3": [
+{
+"concello": "Beariz",
+"provincia": "Ourense",
+"n": 83,
+"pct": "2.8164%"
+},
+{
+"concello": "Carballeda de Valdeorras",
+"provincia": "Ourense",
+"n": 74,
+"pct": "1.733%"
+},
+{
+"concello": "Maceda",
+"provincia": "Ourense",
+"n": 114,
+"pct": "1.7275%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Ramírez",
+"forma_consultada": "RAMIREZ",
+"ocorrencias": 2192,
+"porcentaxe": "0.0431%",
+"posicion": "293[2]",
+"concellos": 52,
+"top3": [
+{
+"concello": "Salceda de Caselas",
+"provincia": "Pontevedra",
+"n": 115,
+"pct": "0.8654%"
+},
+{
+"concello": "Porriño, O",
+"provincia": "Pontevedra",
+"n": 166,
+"pct": "0.505%"
+},
+{
+"concello": "Somozas, As",
+"provincia": "A Coruña",
+"n": 14,
+"pct": "0.4977%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Rivero",
+"forma_consultada": "RIVERO",
+"ocorrencias": 2871,
+"porcentaxe": "0.0564%",
+"posicion": "226[1]",
+"concellos": 71,
+"top3": [
+{
+"concello": "Cualedro",
+"provincia": "Ourense",
+"n": 93,
+"pct": "2.013%"
+},
+{
+"concello": "Monterrei",
+"provincia": "Ourense",
+"n": 128,
+"pct": "1.9735%"
+},
+{
+"concello": "Oímbra",
+"provincia": "Ourense",
+"n": 70,
+"pct": "1.7677%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Rodríguez",
+"forma_consultada": "RODRIGUEZ",
+"ocorrencias": 236756,
+"porcentaxe": "4.6528%",
+"posicion": "1[1]",
+"concellos": 315,
+"top3": [
+{
+"concello": "Porqueira",
+"provincia": "Ourense",
+"n": 386,
+"pct": "16.7899%"
+},
+{
+"concello": "Teixeira, A",
+"provincia": "Ourense",
+"n": 184,
+"pct": "16.7121%"
+},
+{
+"concello": "Trasmiras",
+"provincia": "Ourense",
+"n": 604,
+"pct": "16.5298%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Rojas",
+"forma_consultada": "ROJAS",
+"ocorrencias": 553,
+"porcentaxe": "0.0109%",
+"posicion": "854[3]",
+"concellos": 21,
+"top3": [
+{
+"concello": "Vilardevós",
+"provincia": "Ourense",
+"n": 39,
+"pct": "0.7259%"
+},
+{
+"concello": "Castrelo do Val",
+"provincia": "Ourense",
+"n": 10,
+"pct": "0.397%"
+},
+{
+"concello": "Pontenova, A",
+"provincia": "Lugo",
+"n": 19,
+"pct": "0.2972%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Roldán",
+"forma_consultada": "ROLDAN",
+"ocorrencias": 264,
+"porcentaxe": "0.0052%",
+"posicion": "1110[4]",
+"concellos": 11,
+"top3": [
+{
+"concello": "Becerreá",
+"provincia": "Lugo",
+"n": 7,
+"pct": "0.1019%"
+},
+{
+"concello": "Corgo, O",
+"provincia": "Lugo",
+"n": 8,
+"pct": "0.0958%"
+},
+{
+"concello": "Betanzos",
+"provincia": "A Coruña",
+"n": 9,
+"pct": "0.0352%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Romano",
+"forma_consultada": "ROMANO",
+"ocorrencias": 250,
+"porcentaxe": "0.0049%",
+"posicion": "1123[6]",
+"concellos": 9,
+"top3": [
+{
+"concello": "Ribeira",
+"provincia": "A Coruña",
+"n": 167,
+"pct": "0.315%"
+},
+{
+"concello": "Soutomaior",
+"provincia": "Pontevedra",
+"n": 12,
+"pct": "0.1083%"
+},
+{
+"concello": "Salvaterra de Miño",
+"provincia": "Pontevedra",
+"n": 7,
+"pct": "0.0432%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Romero",
+"forma_consultada": "ROMERO",
+"ocorrencias": 19911,
+"porcentaxe": "0.3913%",
+"posicion": "29[1]",
+"concellos": 176,
+"top3": [
+{
+"concello": "Dodro",
+"provincia": "A Coruña",
+"n": 232,
+"pct": "3.6188%"
+},
+{
+"concello": "Boiro",
+"provincia": "A Coruña",
+"n": 984,
+"pct": "2.7018%"
+},
+{
+"concello": "O Porto do Son",
+"provincia": "A Coruña",
+"n": 534,
+"pct": "2.6381%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Rossi",
+"forma_consultada": "ROSSI",
+"ocorrencias": 18,
+"porcentaxe": "4.0E-4%",
+"posicion": "1355[128]",
+"concellos": 2,
+"top3": [
+{
+"concello": "Coruña, A",
+"provincia": "A Coruña",
+"n": 12,
+"pct": "0.0025%"
+},
+{
+"concello": "Vigo",
+"provincia": "Pontevedra",
+"n": 6,
+"pct": "0.0010%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Ruiz",
+"forma_consultada": "RUIZ",
+"ocorrencias": 3416,
+"porcentaxe": "0.0671%",
+"posicion": "190[1]",
+"concellos": 79,
+"top3": [
+{
+"concello": "Avión",
+"provincia": "Ourense",
+"n": 61,
+"pct": "1.0609%"
+},
+{
+"concello": "Nogais, As",
+"provincia": "Lugo",
+"n": 12,
+"pct": "0.3955%"
+},
+{
+"concello": "Pazos de Borbén",
+"provincia": "Pontevedra",
+"n": 13,
+"pct": "0.2146%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Russo",
+"forma_consultada": "RUSSO",
+"ocorrencias": 8,
+"porcentaxe": "2.0E-4%",
+"posicion": "1365[395]",
+"concellos": 1,
+"top3": [
+{
+"concello": "Viveiro",
+"provincia": "Lugo",
+"n": 8,
+"pct": "0.0261%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Ríos",
+"forma_consultada": "RIOS",
+"ocorrencias": 8975,
+"porcentaxe": "0.1764%",
+"posicion": "74[1]",
+"concellos": 150,
+"top3": [
+{
+"concello": "Trazo",
+"provincia": "A Coruña",
+"n": 138,
+"pct": "1.8543%"
+},
+{
+"concello": "Moaña",
+"provincia": "Pontevedra",
+"n": 482,
+"pct": "1.3296%"
+},
+{
+"concello": "Cerceda",
+"provincia": "A Coruña",
+"n": 137,
+"pct": "1.2532%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Schmidt",
+"forma_consultada": "SCHMIDT",
+"ocorrencias": 14,
+"porcentaxe": "3.0E-4%",
+"posicion": "1359[174]",
+"concellos": 1,
+"top3": [
+{
+"concello": "Coruña, A",
+"provincia": "A Coruña",
+"n": 14,
+"pct": "0.0029%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Silva",
+"forma_consultada": "SILVA",
+"ocorrencias": 13953,
+"porcentaxe": "0.2742%",
+"posicion": "45[1]",
+"concellos": 194,
+"top3": [
+{
+"concello": "O Campo Lameiro",
+"provincia": "Pontevedra",
+"n": 156,
+"pct": "3.5455%"
+},
+{
+"concello": "Lobios",
+"provincia": "Ourense",
+"n": 125,
+"pct": "2.4357%"
+},
+{
+"concello": "Moraña",
+"provincia": "Pontevedra",
+"n": 179,
+"pct": "2.0919%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Sosa",
+"forma_consultada": "SOSA",
+"ocorrencias": 99,
+"porcentaxe": "0.0019%",
+"posicion": "1274[18]",
+"concellos": 7,
+"top3": [
+{
+"concello": "Ames",
+"provincia": "A Coruña",
+"n": 8,
+"pct": "0.0201%"
+},
+{
+"concello": "Oleiros",
+"provincia": "A Coruña",
+"n": 6,
+"pct": "0.0105%"
+},
+{
+"concello": "Santiago de Compostela",
+"provincia": "A Coruña",
+"n": 13,
+"pct": "0.0071%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Suárez",
+"forma_consultada": "SUAREZ",
+"ocorrencias": 32718,
+"porcentaxe": "0.643%",
+"posicion": "21[1]",
+"concellos": 224,
+"top3": [
+{
+"concello": "Illa de Arousa, A",
+"provincia": "Pontevedra",
+"n": 407,
+"pct": "4.1786%"
+},
+{
+"concello": "Frades",
+"provincia": "A Coruña",
+"n": 197,
+"pct": "3.3199%"
+},
+{
+"concello": "Mesía",
+"provincia": "A Coruña",
+"n": 196,
+"pct": "3.0266%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Sánchez",
+"forma_consultada": "SANCHEZ",
+"ocorrencias": 49873,
+"porcentaxe": "0.9801%",
+"posicion": "14[1]",
+"concellos": 272,
+"top3": [
+{
+"concello": "Cesuras",
+"provincia": "A Coruña",
+"n": 624,
+"pct": "12.4377%"
+},
+{
+"concello": "Curtis",
+"provincia": "A Coruña",
+"n": 865,
+"pct": "9.7509%"
+},
+{
+"concello": "Mesía",
+"provincia": "A Coruña",
+"n": 561,
+"pct": "8.6628%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Torres",
+"forma_consultada": "TORRES",
+"ocorrencias": 13854,
+"porcentaxe": "0.2723%",
+"posicion": "46[1]",
+"concellos": 168,
+"top3": [
+{
+"concello": "Sanxenxo",
+"provincia": "Pontevedra",
+"n": 915,
+"pct": "2.8134%"
+},
+{
+"concello": "Cuntis",
+"provincia": "Pontevedra",
+"n": 228,
+"pct": "2.0831%"
+},
+{
+"concello": "Meaño",
+"provincia": "Pontevedra",
+"n": 224,
+"pct": "2.0509%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Vargas",
+"forma_consultada": "VARGAS",
+"ocorrencias": 786,
+"porcentaxe": "0.0154%",
+"posicion": "698[3]",
+"concellos": 22,
+"top3": [
+{
+"concello": "Gondomar",
+"provincia": "Pontevedra",
+"n": 60,
+"pct": "0.2508%"
+},
+{
+"concello": "Ferrol",
+"provincia": "A Coruña",
+"n": 217,
+"pct": "0.1381%"
+},
+{
+"concello": "Viveiro",
+"provincia": "Lugo",
+"n": 37,
+"pct": "0.1207%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Vega",
+"forma_consultada": "VEGA",
+"ocorrencias": 3879,
+"porcentaxe": "0.0762%",
+"posicion": "170[1]",
+"concellos": 99,
+"top3": [
+{
+"concello": "Gudiña, A",
+"provincia": "Ourense",
+"n": 86,
+"pct": "2.6212%"
+},
+{
+"concello": "Veiga, A",
+"provincia": "Ourense",
+"n": 70,
+"pct": "2.6149%"
+},
+{
+"concello": "Vilariño de Conso",
+"provincia": "Ourense",
+"n": 28,
+"pct": "1.8182%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Vera",
+"forma_consultada": "VERA",
+"ocorrencias": 167,
+"porcentaxe": "0.0033%",
+"posicion": "1206[8]",
+"concellos": 10,
+"top3": [
+{
+"concello": "Celanova",
+"provincia": "Ourense",
+"n": 7,
+"pct": "0.0578%"
+},
+{
+"concello": "Gondomar",
+"provincia": "Pontevedra",
+"n": 11,
+"pct": "0.046%"
+},
+{
+"concello": "Grove, O",
+"provincia": "Pontevedra",
+"n": 6,
+"pct": "0.027%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Villalba",
+"forma_consultada": "VILLALBA",
+"ocorrencias": 348,
+"porcentaxe": "0.0068%",
+"posicion": "1030[6]",
+"concellos": 14,
+"top3": [
+{
+"concello": "Mondoñedo",
+"provincia": "Lugo",
+"n": 55,
+"pct": "0.5603%"
+},
+{
+"concello": "Lourenzá",
+"provincia": "Lugo",
+"n": 24,
+"pct": "0.441%"
+},
+{
+"concello": "Barreiros",
+"provincia": "Lugo",
+"n": 26,
+"pct": "0.392%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Vázquez",
+"forma_consultada": "VAZQUEZ",
+"ocorrencias": 101776,
+"porcentaxe": "2.0001%",
+"posicion": "8[1]",
+"concellos": 304,
+"top3": [
+{
+"concello": "Carballedo",
+"provincia": "Lugo",
+"n": 696,
+"pct": "11.4042%"
+},
+{
+"concello": "Palas de Rei",
+"provincia": "Lugo",
+"n": 753,
+"pct": "9.4031%"
+},
+{
+"concello": "Portomarín",
+"provincia": "Lugo",
+"n": 349,
+"pct": "8.7622%"
+}
+],
+"estado": "OK"
+},
+{
+"apellido": "Álvarez",
+"forma_consultada": "ALVAREZ",
+"ocorrencias": 80654,
+"porcentaxe": "1.585%",
+"posicion": "9[1]",
+"concellos": 303,
+"top3": [
+{
+"concello": "Lobeira",
+"provincia": "Ourense",
+"n": 365,
+"pct": "14.9345%"
+},
+{
+"concello": "Gomesende",
+"provincia": "Ourense",
+"n": 268,
+"pct": "12.1597%"
+},
+{
+"concello": "Quintela de Leirado",
+"provincia": "Ourense",
+"n": 191,
+"pct": "11.2884%"
+}
+],
+"estado": "OK"
+}
+]
