@@ -1,0 +1,2419 @@
+apellido,clave_INE,provincia,ap1_personas,ap1_por_mil,ap2_personas,ap2_por_mil,ambos_personas,ambos_por_mil
+Quiroga,QUIROGA,Albacete,20,"0,051",18,"0,046",.,.
+Quiroga,QUIROGA,Alicante/Alacant,209,"0,103",165,"0,081",.,.
+Quiroga,QUIROGA,Almería,62,"0,080",50,"0,065",.,.
+Quiroga,QUIROGA,Araba/Álava,36,"0,105",37,"0,108",.,.
+Quiroga,QUIROGA,Asturias,225,"0,222",167,"0,165",.,.
+Quiroga,QUIROGA,Ávila,53,"0,330",58,"0,361",.,.
+Quiroga,QUIROGA,Badajoz,33,"0,050",48,"0,072",.,.
+Quiroga,QUIROGA,"Balears, Illes",201,"0,161",160,"0,128",.,.
+Quiroga,QUIROGA,Barcelona,973,"0,163",939,"0,158",.,.
+Quiroga,QUIROGA,Bizkaia,194,"0,166",156,"0,134",.,.
+Quiroga,QUIROGA,Burgos,32,"0,088",22,"0,061",.,.
+Quiroga,QUIROGA,Cáceres,35,"0,090",50,"0,129",.,.
+Quiroga,QUIROGA,Cádiz,50,"0,040",50,"0,040",.,.
+Quiroga,QUIROGA,Cantabria,52,"0,088",43,"0,072",.,.
+Quiroga,QUIROGA,Castellón/Castelló,53,"0,084",43,"0,069",.,.
+Quiroga,QUIROGA,Ciudad Real,28,"0,057",35,"0,071",.,.
+Quiroga,QUIROGA,Córdoba,24,"0,031",16,"0,021",.,.
+Quiroga,QUIROGA,"Coruña, A",373,"0,328",280,"0,247",.,.
+Quiroga,QUIROGA,Cuenca,9,"0,045",7,"0,035",.,.
+Quiroga,QUIROGA,Gipuzkoa,71,"0,097",66,"0,090",.,.
+Quiroga,QUIROGA,Girona,72,"0,087",64,"0,077",.,.
+Quiroga,QUIROGA,Granada,113,"0,119",85,"0,090",.,.
+Quiroga,QUIROGA,Guadalajara,30,"0,105",23,"0,080",.,.
+Quiroga,QUIROGA,Huelva,37,"0,069",33,"0,061",.,.
+Quiroga,QUIROGA,Huesca,6,"0,026",11,"0,048",.,.
+Quiroga,QUIROGA,Jaén,9,"0,015",5,"0,008",.,.
+Quiroga,QUIROGA,León,259,"0,578",265,"0,591",.,.
+Quiroga,QUIROGA,Lleida,63,"0,137",49,"0,107",.,.
+Quiroga,QUIROGA,Lugo,622,"1,908",588,"1,804",11,"0,034"
+Quiroga,QUIROGA,Madrid,1.393,"0,196",1.365,"0,192",20,"0,003"
+Quiroga,QUIROGA,Málaga,193,"0,108",150,"0,084",.,.
+Quiroga,QUIROGA,Murcia,111,"0,070",115,"0,072",.,.
+Quiroga,QUIROGA,Navarra,66,"0,097",79,"0,116",.,.
+Quiroga,QUIROGA,Ourense,249,"0,816",216,"0,708",.,.
+Quiroga,QUIROGA,Palencia,14,"0,088",11,"0,069",.,.
+Quiroga,QUIROGA,"Palmas, Las",116,"0,099",89,"0,076",.,.
+Quiroga,QUIROGA,Pontevedra,253,"0,267",252,"0,266",.,.
+Quiroga,QUIROGA,"Rioja, La",46,"0,141",49,"0,150",.,.
+Quiroga,QUIROGA,Salamanca,29,"0,088",26,"0,079",.,.
+Quiroga,QUIROGA,Santa Cruz de Tenerife,82,"0,075",88,"0,081",.,.
+Quiroga,QUIROGA,Segovia,11,"0,070",16,"0,101",.,.
+Quiroga,QUIROGA,Sevilla,150,"0,076",149,"0,075",.,.
+Quiroga,QUIROGA,Soria,5,"0,055",.,.,.,.
+Quiroga,QUIROGA,Tarragona,109,"0,124",130,"0,148",.,.
+Quiroga,QUIROGA,Teruel,12,"0,088",5,"0,037",.,.
+Quiroga,QUIROGA,Toledo,83,"0,110",107,"0,142",.,.
+Quiroga,QUIROGA,Valencia/València,260,"0,094",190,"0,069",.,.
+Quiroga,QUIROGA,Valladolid,75,"0,142",99,"0,187",.,.
+Quiroga,QUIROGA,Zamora,23,"0,139",10,"0,060",.,.
+Quiroga,QUIROGA,Zaragoza,43,"0,043",51,"0,051",.,.
+Carrizo,CARRIZO,Albacete,58,"0,148",60,"0,154",.,.
+Carrizo,CARRIZO,Alicante/Alacant,129,"0,063",87,"0,043",.,.
+Carrizo,CARRIZO,Almería,34,"0,044",25,"0,032",.,.
+Carrizo,CARRIZO,Araba/Álava,11,"0,032",12,"0,035",.,.
+Carrizo,CARRIZO,Asturias,89,"0,088",56,"0,055",.,.
+Carrizo,CARRIZO,Badajoz,34,"0,051",46,"0,069",.,.
+Carrizo,CARRIZO,"Balears, Illes",88,"0,070",64,"0,051",.,.
+Carrizo,CARRIZO,Barcelona,231,"0,039",180,"0,030",.,.
+Carrizo,CARRIZO,Bizkaia,45,"0,039",29,"0,025",.,.
+Carrizo,CARRIZO,Burgos,17,"0,047",15,"0,041",.,.
+Carrizo,CARRIZO,Cáceres,25,"0,064",25,"0,064",.,.
+Carrizo,CARRIZO,Cádiz,8,"0,006",7,"0,006",.,.
+Carrizo,CARRIZO,Cantabria,8,"0,013",8,"0,013",.,.
+Carrizo,CARRIZO,Castellón/Castelló,11,"0,018",11,"0,018",.,.
+Carrizo,CARRIZO,Ciudad Real,23,"0,046",21,"0,042",.,.
+Carrizo,CARRIZO,Córdoba,16,"0,021",7,"0,009",.,.
+Carrizo,CARRIZO,"Coruña, A",13,"0,011",21,"0,018",.,.
+Carrizo,CARRIZO,Cuenca,20,"0,100",38,"0,190",.,.
+Carrizo,CARRIZO,Gipuzkoa,60,"0,082",33,"0,045",.,.
+Carrizo,CARRIZO,Girona,32,"0,039",15,"0,018",.,.
+Carrizo,CARRIZO,Granada,22,"0,023",25,"0,026",.,.
+Carrizo,CARRIZO,Guadalajara,.,.,10,"0,035",.,.
+Carrizo,CARRIZO,Huelva,11,"0,020",10,"0,019",.,.
+Carrizo,CARRIZO,Jaén,9,"0,015",6,"0,010",.,.
+Carrizo,CARRIZO,León,179,"0,400",220,"0,491",.,.
+Carrizo,CARRIZO,Madrid,356,"0,050",355,"0,050",.,.
+Carrizo,CARRIZO,Málaga,64,"0,036",35,"0,020",.,.
+Carrizo,CARRIZO,Murcia,35,"0,022",42,"0,026",.,.
+Carrizo,CARRIZO,Navarra,12,"0,018",9,"0,013",.,.
+Carrizo,CARRIZO,Ourense,13,"0,043",12,"0,039",.,.
+Carrizo,CARRIZO,Palencia,.,.,5,"0,032",.,.
+Carrizo,CARRIZO,"Palmas, Las",14,"0,012",21,"0,018",.,.
+Carrizo,CARRIZO,Pontevedra,30,"0,032",42,"0,044",.,.
+Carrizo,CARRIZO,"Rioja, La",7,"0,021",.,.,.,.
+Carrizo,CARRIZO,Salamanca,13,"0,040",12,"0,037",.,.
+Carrizo,CARRIZO,Santa Cruz de Tenerife,30,"0,028",19,"0,017",.,.
+Carrizo,CARRIZO,Segovia,5,"0,032",.,.,.,.
+Carrizo,CARRIZO,Sevilla,14,"0,007",13,"0,007",.,.
+Carrizo,CARRIZO,Tarragona,45,"0,051",31,"0,035",.,.
+Carrizo,CARRIZO,Toledo,46,"0,061",32,"0,042",.,.
+Carrizo,CARRIZO,Valencia/València,80,"0,029",70,"0,025",.,.
+Carrizo,CARRIZO,Valladolid,7,"0,013",14,"0,026",.,.
+Carrizo,CARRIZO,Zaragoza,35,"0,035",19,"0,019",.,.
+Carrizo,CARRIZO,Melilla,7,"0,080",6,"0,069",.,.
+Coronel,CORONEL,Albacete,23,"0,059",23,"0,059",.,.
+Coronel,CORONEL,Alicante/Alacant,201,"0,099",117,"0,058",7,"0,003"
+Coronel,CORONEL,Almería,59,"0,077",49,"0,064",.,.
+Coronel,CORONEL,Araba/Álava,33,"0,097",27,"0,079",.,.
+Coronel,CORONEL,Asturias,45,"0,044",55,"0,054",.,.
+Coronel,CORONEL,Ávila,10,"0,062",17,"0,106",.,.
+Coronel,CORONEL,Badajoz,76,"0,114",68,"0,102",.,.
+Coronel,CORONEL,"Balears, Illes",131,"0,105",160,"0,128",.,.
+Coronel,CORONEL,Barcelona,649,"0,109",575,"0,096",.,.
+Coronel,CORONEL,Bizkaia,63,"0,054",91,"0,078",.,.
+Coronel,CORONEL,Burgos,11,"0,030",.,.,.,.
+Coronel,CORONEL,Cáceres,8,"0,021",7,"0,018",.,.
+Coronel,CORONEL,Cádiz,83,"0,066",58,"0,046",.,.
+Coronel,CORONEL,Cantabria,24,"0,040",35,"0,059",.,.
+Coronel,CORONEL,Castellón/Castelló,33,"0,053",30,"0,048",.,.
+Coronel,CORONEL,Ciudad Real,112,"0,226",72,"0,145",.,.
+Coronel,CORONEL,Córdoba,41,"0,053",31,"0,040",6,"0,008"
+Coronel,CORONEL,"Coruña, A",30,"0,026",28,"0,025",.,.
+Coronel,CORONEL,Cuenca,11,"0,055",6,"0,030",.,.
+Coronel,CORONEL,Gipuzkoa,23,"0,031",30,"0,041",.,.
+Coronel,CORONEL,Girona,56,"0,067",36,"0,043",.,.
+Coronel,CORONEL,Granada,31,"0,033",22,"0,023",.,.
+Coronel,CORONEL,Guadalajara,31,"0,108",21,"0,073",.,.
+Coronel,CORONEL,Huelva,800,"1,485",816,"1,515",26,"0,048"
+Coronel,CORONEL,Huesca,6,"0,026",6,"0,026",.,.
+Coronel,CORONEL,Jaén,29,"0,047",32,"0,052",.,.
+Coronel,CORONEL,León,12,"0,027",13,"0,029",.,.
+Coronel,CORONEL,Lleida,8,"0,017",17,"0,037",.,.
+Coronel,CORONEL,Madrid,1.233,"0,173",1.092,"0,154",15,"0,002"
+Coronel,CORONEL,Málaga,181,"0,101",144,"0,080",.,.
+Coronel,CORONEL,Murcia,220,"0,139",209,"0,132",8,"0,005"
+Coronel,CORONEL,Navarra,53,"0,078",45,"0,066",.,.
+Coronel,CORONEL,Ourense,11,"0,036",.,.,.,.
+Coronel,CORONEL,Palencia,12,"0,076",5,"0,032",.,.
+Coronel,CORONEL,"Palmas, Las",53,"0,045",54,"0,046",.,.
+Coronel,CORONEL,Pontevedra,59,"0,062",43,"0,045",.,.
+Coronel,CORONEL,"Rioja, La",13,"0,040",9,"0,028",.,.
+Coronel,CORONEL,Salamanca,10,"0,030",17,"0,052",.,.
+Coronel,CORONEL,Santa Cruz de Tenerife,57,"0,052",55,"0,051",.,.
+Coronel,CORONEL,Segovia,9,"0,057",5,"0,032",.,.
+Coronel,CORONEL,Sevilla,256,"0,129",249,"0,126",.,.
+Coronel,CORONEL,Soria,6,"0,067",8,"0,089",.,.
+Coronel,CORONEL,Tarragona,46,"0,053",35,"0,040",.,.
+Coronel,CORONEL,Toledo,62,"0,082",79,"0,105",.,.
+Coronel,CORONEL,Valencia/València,194,"0,070",175,"0,063",.,.
+Coronel,CORONEL,Valladolid,11,"0,021",13,"0,025",.,.
+Coronel,CORONEL,Zamora,6,"0,036",.,.,.,.
+Coronel,CORONEL,Zaragoza,52,"0,052",53,"0,053",.,.
+Cáceres,CACERES,Albacete,71,"0,182",64,"0,164",.,.
+Cáceres,CACERES,Alicante/Alacant,537,"0,264",574,"0,282",14,"0,007"
+Cáceres,CACERES,Almería,279,"0,362",272,"0,353",.,.
+Cáceres,CACERES,Araba/Álava,73,"0,213",65,"0,190",.,.
+Cáceres,CACERES,Asturias,168,"0,165",169,"0,166",.,.
+Cáceres,CACERES,Ávila,43,"0,268",56,"0,348",.,.
+Cáceres,CACERES,Badajoz,990,"1,488",991,"1,490",.,.
+Cáceres,CACERES,"Balears, Illes",582,"0,466",482,"0,386",.,.
+Cáceres,CACERES,Barcelona,2.567,"0,431",2.493,"0,418",34,"0,006"
+Cáceres,CACERES,Bizkaia,412,"0,353",407,"0,349",.,.
+Cáceres,CACERES,Burgos,86,"0,237",109,"0,301",.,.
+Cáceres,CACERES,Cáceres,485,"1,249",459,"1,182",.,.
+Cáceres,CACERES,Cádiz,567,"0,449",597,"0,473",.,.
+Cáceres,CACERES,Cantabria,95,"0,160",106,"0,179",7,"0,012"
+Cáceres,CACERES,Castellón/Castelló,115,"0,183",92,"0,147",.,.
+Cáceres,CACERES,Ciudad Real,98,"0,198",140,"0,283",.,.
+Cáceres,CACERES,Córdoba,550,"0,711",532,"0,688",7,"0,009"
+Cáceres,CACERES,"Coruña, A",108,"0,095",87,"0,077",.,.
+Cáceres,CACERES,Cuenca,32,"0,160",35,"0,175",.,.
+Cáceres,CACERES,Gipuzkoa,276,"0,376",277,"0,378",14,"0,019"
+Cáceres,CACERES,Girona,487,"0,586",442,"0,532",.,.
+Cáceres,CACERES,Granada,591,"0,625",637,"0,674",.,.
+Cáceres,CACERES,Guadalajara,122,"0,427",115,"0,402",.,.
+Cáceres,CACERES,Huelva,770,"1,429",815,"1,513",.,.
+Cáceres,CACERES,Huesca,71,"0,309",72,"0,313",.,.
+Cáceres,CACERES,Jaén,118,"0,191",165,"0,267",.,.
+Cáceres,CACERES,León,42,"0,094",42,"0,094",.,.
+Cáceres,CACERES,Lleida,73,"0,159",96,"0,210",.,.
+Cáceres,CACERES,Lugo,24,"0,074",28,"0,086",.,.
+Cáceres,CACERES,Madrid,3.757,"0,528",3.697,"0,520",35,"0,005"
+Cáceres,CACERES,Málaga,785,"0,438",781,"0,436",7,"0,004"
+Cáceres,CACERES,Murcia,452,"0,285",493,"0,311",6,"0,004"
+Cáceres,CACERES,Navarra,147,"0,215",144,"0,211",.,.
+Cáceres,CACERES,Ourense,23,"0,075",43,"0,141",.,.
+Cáceres,CACERES,Palencia,21,"0,132",17,"0,107",.,.
+Cáceres,CACERES,"Palmas, Las",1.106,"0,944",1.067,"0,911",.,.
+Cáceres,CACERES,Pontevedra,126,"0,133",88,"0,093",.,.
+Cáceres,CACERES,"Rioja, La",75,"0,229",55,"0,168",.,.
+Cáceres,CACERES,Salamanca,168,"0,511",188,"0,572",6,"0,018"
+Cáceres,CACERES,Santa Cruz de Tenerife,854,"0,785",905,"0,832",11,"0,010"
+Cáceres,CACERES,Segovia,123,"0,777",109,"0,689",.,.
+Cáceres,CACERES,Sevilla,1.384,"0,700",1.285,"0,650",12,"0,006"
+Cáceres,CACERES,Soria,19,"0,211",20,"0,222",.,.
+Cáceres,CACERES,Tarragona,208,"0,238",222,"0,254",.,.
+Cáceres,CACERES,Teruel,14,"0,103",13,"0,096",.,.
+Cáceres,CACERES,Toledo,426,"0,564",455,"0,603",.,.
+Cáceres,CACERES,Valencia/València,620,"0,224",684,"0,247",11,"0,004"
+Cáceres,CACERES,Valladolid,221,"0,418",251,"0,475",.,.
+Cáceres,CACERES,Zamora,14,"0,085",21,"0,127",.,.
+Cáceres,CACERES,Zaragoza,214,"0,214",190,"0,190",.,.
+Cáceres,CACERES,Ceuta,15,"0,179",28,"0,335",.,.
+Cáceres,CACERES,Melilla,7,"0,080",9,"0,103",.,.
+Córdoba,CORDOBA,Albacete,456,"1,167",421,"1,077",.,.
+Córdoba,CORDOBA,Alicante/Alacant,1.061,"0,522",1.071,"0,527",12,"0,006"
+Córdoba,CORDOBA,Almería,217,"0,282",228,"0,296",6,"0,008"
+Córdoba,CORDOBA,Araba/Álava,67,"0,196",77,"0,225",.,.
+Córdoba,CORDOBA,Asturias,138,"0,136",132,"0,130",.,.
+Córdoba,CORDOBA,Ávila,24,"0,149",28,"0,174",.,.
+Córdoba,CORDOBA,Badajoz,164,"0,247",157,"0,236",.,.
+Córdoba,CORDOBA,"Balears, Illes",437,"0,350",450,"0,360",.,.
+Córdoba,CORDOBA,Barcelona,2.093,"0,351",2.160,"0,362",9,"0,002"
+Córdoba,CORDOBA,Bizkaia,264,"0,226",241,"0,206",.,.
+Córdoba,CORDOBA,Burgos,93,"0,256",93,"0,256",.,.
+Córdoba,CORDOBA,Cáceres,63,"0,162",66,"0,170",.,.
+Córdoba,CORDOBA,Cádiz,613,"0,486",633,"0,502",.,.
+Córdoba,CORDOBA,Cantabria,83,"0,140",94,"0,158",.,.
+Córdoba,CORDOBA,Castellón/Castelló,123,"0,196",138,"0,220",.,.
+Córdoba,CORDOBA,Ciudad Real,733,"1,481",684,"1,382",9,"0,018"
+Córdoba,CORDOBA,Córdoba,1.970,"2,548",1.917,"2,479",12,"0,016"
+Córdoba,CORDOBA,"Coruña, A",65,"0,057",57,"0,050",.,.
+Córdoba,CORDOBA,Cuenca,240,"1,201",194,"0,971",13,"0,065"
+Córdoba,CORDOBA,Gipuzkoa,125,"0,170",127,"0,173",.,.
+Córdoba,CORDOBA,Girona,319,"0,384",292,"0,352",5,"0,006"
+Córdoba,CORDOBA,Granada,962,"1,017",813,"0,860",47,"0,050"
+Córdoba,CORDOBA,Guadalajara,114,"0,399",119,"0,416",.,.
+Córdoba,CORDOBA,Huelva,66,"0,122",64,"0,119",.,.
+Córdoba,CORDOBA,Huesca,37,"0,161",36,"0,156",.,.
+Córdoba,CORDOBA,Jaén,384,"0,621",369,"0,597",.,.
+Córdoba,CORDOBA,León,84,"0,187",63,"0,141",.,.
+Córdoba,CORDOBA,Lleida,66,"0,144",76,"0,166",.,.
+Córdoba,CORDOBA,Lugo,20,"0,061",27,"0,083",.,.
+Córdoba,CORDOBA,Madrid,2.551,"0,359",2.524,"0,355",17,"0,002"
+Córdoba,CORDOBA,Málaga,1.468,"0,820",1.540,"0,860",36,"0,020"
+Córdoba,CORDOBA,Murcia,652,"0,411",612,"0,386",.,.
+Córdoba,CORDOBA,Navarra,186,"0,272",204,"0,298",7,"0,010"
+Córdoba,CORDOBA,Ourense,20,"0,066",19,"0,062",.,.
+Córdoba,CORDOBA,Palencia,7,"0,044",24,"0,151",.,.
+Córdoba,CORDOBA,"Palmas, Las",189,"0,161",181,"0,154",.,.
+Córdoba,CORDOBA,Pontevedra,88,"0,093",50,"0,053",.,.
+Córdoba,CORDOBA,"Rioja, La",77,"0,236",112,"0,343",.,.
+Córdoba,CORDOBA,Salamanca,20,"0,061",36,"0,110",.,.
+Córdoba,CORDOBA,Santa Cruz de Tenerife,272,"0,250",253,"0,233",.,.
+Córdoba,CORDOBA,Segovia,19,"0,120",10,"0,063",.,.
+Córdoba,CORDOBA,Sevilla,627,"0,317",681,"0,344",.,.
+Córdoba,CORDOBA,Soria,15,"0,166",39,"0,432",.,.
+Córdoba,CORDOBA,Tarragona,295,"0,337",319,"0,364",.,.
+Córdoba,CORDOBA,Teruel,30,"0,220",27,"0,198",.,.
+Córdoba,CORDOBA,Toledo,208,"0,275",224,"0,297",.,.
+Córdoba,CORDOBA,Valencia/València,1.097,"0,397",1.058,"0,383",.,.
+Córdoba,CORDOBA,Valladolid,51,"0,096",57,"0,108",.,.
+Córdoba,CORDOBA,Zamora,12,"0,072",10,"0,060",.,.
+Córdoba,CORDOBA,Zaragoza,159,"0,159",137,"0,137",.,.
+Córdoba,CORDOBA,Ceuta,34,"0,407",43,"0,515",.,.
+Córdoba,CORDOBA,Melilla,18,"0,207",21,"0,241",.,.
+Godoy,GODOY,Albacete,51,"0,131",49,"0,125",.,.
+Godoy,GODOY,Alicante/Alacant,345,"0,170",367,"0,180",.,.
+Godoy,GODOY,Almería,486,"0,631",480,"0,623",.,.
+Godoy,GODOY,Araba/Álava,70,"0,205",79,"0,231",.,.
+Godoy,GODOY,Asturias,85,"0,084",84,"0,083",.,.
+Godoy,GODOY,Ávila,15,"0,093",15,"0,093",.,.
+Godoy,GODOY,Badajoz,520,"0,782",572,"0,860",5,"0,008"
+Godoy,GODOY,"Balears, Illes",391,"0,313",318,"0,254",.,.
+Godoy,GODOY,Barcelona,1.762,"0,296",1.620,"0,272",19,"0,003"
+Godoy,GODOY,Bizkaia,334,"0,286",304,"0,260",5,"0,004"
+Godoy,GODOY,Burgos,36,"0,099",31,"0,085",.,.
+Godoy,GODOY,Cáceres,123,"0,317",126,"0,325",.,.
+Godoy,GODOY,Cádiz,346,"0,274",354,"0,281",.,.
+Godoy,GODOY,Cantabria,46,"0,077",76,"0,128",.,.
+Godoy,GODOY,Castellón/Castelló,108,"0,172",91,"0,145",.,.
+Godoy,GODOY,Ciudad Real,80,"0,162",127,"0,257",.,.
+Godoy,GODOY,Córdoba,330,"0,427",405,"0,524",.,.
+Godoy,GODOY,"Coruña, A",107,"0,094",98,"0,086",.,.
+Godoy,GODOY,Cuenca,57,"0,285",59,"0,295",.,.
+Godoy,GODOY,Gipuzkoa,304,"0,415",315,"0,430",18,"0,025"
+Godoy,GODOY,Girona,291,"0,350",277,"0,334",.,.
+Godoy,GODOY,Granada,210,"0,222",215,"0,227",.,.
+Godoy,GODOY,Guadalajara,45,"0,157",53,"0,185",.,.
+Godoy,GODOY,Huelva,99,"0,184",95,"0,176",.,.
+Godoy,GODOY,Huesca,9,"0,039",15,"0,065",.,.
+Godoy,GODOY,Jaén,407,"0,658",435,"0,704",19,"0,031"
+Godoy,GODOY,León,17,"0,038",31,"0,069",.,.
+Godoy,GODOY,Lleida,119,"0,260",81,"0,177",.,.
+Godoy,GODOY,Lugo,7,"0,021",15,"0,046",.,.
+Godoy,GODOY,Madrid,2.190,"0,308",2.031,"0,285",36,"0,005"
+Godoy,GODOY,Málaga,1.258,"0,702",1.232,"0,688",14,"0,008"
+Godoy,GODOY,Murcia,205,"0,129",238,"0,150",.,.
+Godoy,GODOY,Navarra,81,"0,118",69,"0,101",.,.
+Godoy,GODOY,Ourense,54,"0,177",54,"0,177",.,.
+Godoy,GODOY,Palencia,20,"0,126",11,"0,069",.,.
+Godoy,GODOY,"Palmas, Las",1.868,"1,594",1.770,"1,511",29,"0,025"
+Godoy,GODOY,Pontevedra,151,"0,159",155,"0,164",.,.
+Godoy,GODOY,"Rioja, La",45,"0,138",38,"0,116",.,.
+Godoy,GODOY,Salamanca,35,"0,107",41,"0,125",.,.
+Godoy,GODOY,Santa Cruz de Tenerife,182,"0,167",172,"0,158",.,.
+Godoy,GODOY,Segovia,6,"0,038",10,"0,063",.,.
+Godoy,GODOY,Sevilla,584,"0,295",500,"0,253",.,.
+Godoy,GODOY,Soria,5,"0,055",7,"0,078",.,.
+Godoy,GODOY,Tarragona,181,"0,207",175,"0,200",.,.
+Godoy,GODOY,Teruel,15,"0,110",14,"0,103",.,.
+Godoy,GODOY,Toledo,163,"0,216",146,"0,193",.,.
+Godoy,GODOY,Valencia/València,571,"0,207",603,"0,218",6,"0,002"
+Godoy,GODOY,Valladolid,46,"0,087",35,"0,066",.,.
+Godoy,GODOY,Zamora,.,.,18,"0,109",.,.
+Godoy,GODOY,Zaragoza,147,"0,147",147,"0,147",.,.
+Godoy,GODOY,Ceuta,20,"0,239",28,"0,335",.,.
+Godoy,GODOY,Melilla,.,.,10,"0,115",.,.
+Ledesma,LEDESMA,Albacete,33,"0,084",30,"0,077",.,.
+Ledesma,LEDESMA,Alicante/Alacant,180,"0,089",159,"0,078",.,.
+Ledesma,LEDESMA,Almería,119,"0,154",145,"0,188",.,.
+Ledesma,LEDESMA,Araba/Álava,35,"0,102",55,"0,161",.,.
+Ledesma,LEDESMA,Asturias,97,"0,096",112,"0,110",.,.
+Ledesma,LEDESMA,Ávila,6,"0,037",8,"0,050",.,.
+Ledesma,LEDESMA,Badajoz,568,"0,854",476,"0,716",7,"0,011"
+Ledesma,LEDESMA,"Balears, Illes",328,"0,262",268,"0,214",.,.
+Ledesma,LEDESMA,Barcelona,964,"0,162",944,"0,158",.,.
+Ledesma,LEDESMA,Bizkaia,302,"0,259",254,"0,218",.,.
+Ledesma,LEDESMA,Burgos,34,"0,094",40,"0,110",.,.
+Ledesma,LEDESMA,Cáceres,43,"0,111",35,"0,090",.,.
+Ledesma,LEDESMA,Cádiz,271,"0,215",284,"0,225",.,.
+Ledesma,LEDESMA,Cantabria,29,"0,049",40,"0,067",.,.
+Ledesma,LEDESMA,Castellón/Castelló,47,"0,075",28,"0,045",.,.
+Ledesma,LEDESMA,Ciudad Real,77,"0,156",82,"0,166",.,.
+Ledesma,LEDESMA,Córdoba,224,"0,290",210,"0,272",.,.
+Ledesma,LEDESMA,"Coruña, A",42,"0,037",48,"0,042",.,.
+Ledesma,LEDESMA,Cuenca,8,"0,040",12,"0,060",.,.
+Ledesma,LEDESMA,Gipuzkoa,104,"0,142",109,"0,149",.,.
+Ledesma,LEDESMA,Girona,118,"0,142",87,"0,105",.,.
+Ledesma,LEDESMA,Granada,125,"0,132",116,"0,123",.,.
+Ledesma,LEDESMA,Guadalajara,50,"0,175",41,"0,143",.,.
+Ledesma,LEDESMA,Huelva,35,"0,065",37,"0,069",.,.
+Ledesma,LEDESMA,Huesca,15,"0,065",24,"0,104",.,.
+Ledesma,LEDESMA,Jaén,88,"0,142",97,"0,157",.,.
+Ledesma,LEDESMA,León,42,"0,094",21,"0,047",.,.
+Ledesma,LEDESMA,Lleida,56,"0,122",57,"0,124",.,.
+Ledesma,LEDESMA,Lugo,17,"0,052",16,"0,049",.,.
+Ledesma,LEDESMA,Madrid,1.668,"0,234",1.746,"0,245",18,"0,003"
+Ledesma,LEDESMA,Málaga,656,"0,366",575,"0,321",7,"0,004"
+Ledesma,LEDESMA,Murcia,68,"0,043",71,"0,045",.,.
+Ledesma,LEDESMA,Navarra,70,"0,102",105,"0,154",.,.
+Ledesma,LEDESMA,Ourense,13,"0,043",14,"0,046",.,.
+Ledesma,LEDESMA,Palencia,7,"0,044",10,"0,063",.,.
+Ledesma,LEDESMA,"Palmas, Las",85,"0,073",90,"0,077",.,.
+Ledesma,LEDESMA,Pontevedra,31,"0,033",31,"0,033",.,.
+Ledesma,LEDESMA,"Rioja, La",87,"0,266",91,"0,278",.,.
+Ledesma,LEDESMA,Salamanca,217,"0,661",234,"0,712",.,.
+Ledesma,LEDESMA,Santa Cruz de Tenerife,836,"0,769",840,"0,773",11,"0,010"
+Ledesma,LEDESMA,Segovia,17,"0,107",21,"0,133",.,.
+Ledesma,LEDESMA,Sevilla,780,"0,394",873,"0,441",.,.
+Ledesma,LEDESMA,Soria,49,"0,543",44,"0,488",.,.
+Ledesma,LEDESMA,Tarragona,119,"0,136",101,"0,115",.,.
+Ledesma,LEDESMA,Teruel,12,"0,088",17,"0,125",.,.
+Ledesma,LEDESMA,Toledo,194,"0,257",210,"0,278",11,"0,015"
+Ledesma,LEDESMA,Valencia/València,228,"0,082",192,"0,069",.,.
+Ledesma,LEDESMA,Valladolid,70,"0,132",82,"0,155",.,.
+Ledesma,LEDESMA,Zamora,81,"0,489",69,"0,417",.,.
+Ledesma,LEDESMA,Zaragoza,333,"0,334",270,"0,270",.,.
+Ledesma,LEDESMA,Ceuta,5,"0,060",14,"0,168",.,.
+Villalba,VILLALBA,Albacete,183,"0,468",190,"0,486",.,.
+Villalba,VILLALBA,Alicante/Alacant,595,"0,293",566,"0,278",.,.
+Villalba,VILLALBA,Almería,137,"0,178",108,"0,140",.,.
+Villalba,VILLALBA,Araba/Álava,96,"0,281",70,"0,205",.,.
+Villalba,VILLALBA,Asturias,174,"0,171",191,"0,188",.,.
+Villalba,VILLALBA,Ávila,17,"0,106",42,"0,261",.,.
+Villalba,VILLALBA,Badajoz,292,"0,439",251,"0,377",7,"0,011"
+Villalba,VILLALBA,"Balears, Illes",413,"0,330",382,"0,306",.,.
+Villalba,VILLALBA,Barcelona,2.193,"0,368",2.203,"0,370",34,"0,006"
+Villalba,VILLALBA,Bizkaia,419,"0,359",439,"0,376",.,.
+Villalba,VILLALBA,Burgos,45,"0,124",53,"0,146",.,.
+Villalba,VILLALBA,Cáceres,97,"0,250",87,"0,224",.,.
+Villalba,VILLALBA,Cádiz,972,"0,771",940,"0,745",.,.
+Villalba,VILLALBA,Cantabria,125,"0,211",133,"0,224",.,.
+Villalba,VILLALBA,Castellón/Castelló,396,"0,631",414,"0,660",5,"0,008"
+Villalba,VILLALBA,Ciudad Real,107,"0,216",102,"0,206",.,.
+Villalba,VILLALBA,Córdoba,606,"0,784",593,"0,767",.,.
+Villalba,VILLALBA,"Coruña, A",115,"0,101",121,"0,107",.,.
+Villalba,VILLALBA,Cuenca,228,"1,141",190,"0,951",.,.
+Villalba,VILLALBA,Gipuzkoa,99,"0,135",86,"0,117",.,.
+Villalba,VILLALBA,Girona,216,"0,260",151,"0,182",.,.
+Villalba,VILLALBA,Granada,332,"0,351",370,"0,391",.,.
+Villalba,VILLALBA,Guadalajara,192,"0,672",210,"0,735",.,.
+Villalba,VILLALBA,Huelva,111,"0,206",106,"0,197",.,.
+Villalba,VILLALBA,Huesca,61,"0,265",44,"0,191",.,.
+Villalba,VILLALBA,Jaén,99,"0,160",79,"0,128",.,.
+Villalba,VILLALBA,León,65,"0,145",74,"0,165",.,.
+Villalba,VILLALBA,Lleida,102,"0,223",91,"0,199",5,"0,011"
+Villalba,VILLALBA,Lugo,75,"0,230",59,"0,181",.,.
+Villalba,VILLALBA,Madrid,3.701,"0,520",3.392,"0,477",43,"0,006"
+Villalba,VILLALBA,Málaga,2.120,"1,184",2.221,"1,240",26,"0,015"
+Villalba,VILLALBA,Murcia,570,"0,359",648,"0,408",8,"0,005"
+Villalba,VILLALBA,Navarra,92,"0,135",115,"0,168",.,.
+Villalba,VILLALBA,Ourense,11,"0,036",14,"0,046",.,.
+Villalba,VILLALBA,Palencia,158,"0,996",125,"0,788",.,.
+Villalba,VILLALBA,"Palmas, Las",413,"0,353",484,"0,413",.,.
+Villalba,VILLALBA,Pontevedra,101,"0,107",67,"0,071",.,.
+Villalba,VILLALBA,"Rioja, La",43,"0,132",26,"0,080",.,.
+Villalba,VILLALBA,Salamanca,23,"0,070",27,"0,082",.,.
+Villalba,VILLALBA,Santa Cruz de Tenerife,266,"0,245",260,"0,239",.,.
+Villalba,VILLALBA,Segovia,29,"0,183",23,"0,145",.,.
+Villalba,VILLALBA,Sevilla,1.384,"0,700",1.328,"0,671",6,"0,003"
+Villalba,VILLALBA,Soria,21,"0,233",9,"0,100",.,.
+Villalba,VILLALBA,Tarragona,379,"0,433",382,"0,436",11,"0,013"
+Villalba,VILLALBA,Teruel,182,"1,337",196,"1,440",.,.
+Villalba,VILLALBA,Toledo,461,"0,611",508,"0,673",6,"0,008"
+Villalba,VILLALBA,Valencia/València,1.928,"0,698",1.799,"0,651",9,"0,003"
+Villalba,VILLALBA,Valladolid,216,"0,409",209,"0,395",.,.
+Villalba,VILLALBA,Zamora,62,"0,374",53,"0,320",.,.
+Villalba,VILLALBA,Zaragoza,613,"0,614",599,"0,600",.,.
+Villalba,VILLALBA,Ceuta,30,"0,359",59,"0,706",.,.
+Villalba,VILLALBA,Melilla,17,"0,195",15,"0,172",.,.
+Correa,CORREA,Albacete,137,"0,351",101,"0,258",.,.
+Correa,CORREA,Alicante/Alacant,636,"0,313",642,"0,316",5,"0,002"
+Correa,CORREA,Almería,230,"0,298",183,"0,237",.,.
+Correa,CORREA,Araba/Álava,99,"0,290",95,"0,278",.,.
+Correa,CORREA,Asturias,204,"0,201",194,"0,191",7,"0,007"
+Correa,CORREA,Ávila,40,"0,249",30,"0,187",.,.
+Correa,CORREA,Badajoz,715,"1,075",756,"1,137",.,.
+Correa,CORREA,"Balears, Illes",599,"0,479",547,"0,438",9,"0,007"
+Correa,CORREA,Barcelona,2.299,"0,386",2.199,"0,369",19,"0,003"
+Correa,CORREA,Bizkaia,454,"0,389",419,"0,359",.,.
+Correa,CORREA,Burgos,80,"0,221",69,"0,190",.,.
+Correa,CORREA,Cáceres,160,"0,412",153,"0,394",.,.
+Correa,CORREA,Cádiz,509,"0,404",476,"0,377",.,.
+Correa,CORREA,Cantabria,180,"0,303",171,"0,288",.,.
+Correa,CORREA,Castellón/Castelló,156,"0,249",129,"0,206",.,.
+Correa,CORREA,Ciudad Real,73,"0,148",55,"0,111",.,.
+Correa,CORREA,Córdoba,78,"0,101",91,"0,118",.,.
+Correa,CORREA,"Coruña, A",327,"0,288",311,"0,274",.,.
+Correa,CORREA,Cuenca,38,"0,190",46,"0,230",.,.
+Correa,CORREA,Gipuzkoa,183,"0,250",158,"0,216",.,.
+Correa,CORREA,Girona,260,"0,313",266,"0,320",.,.
+Correa,CORREA,Granada,1.166,"1,233",1.100,"1,163",30,"0,032"
+Correa,CORREA,Guadalajara,100,"0,350",121,"0,423",.,.
+Correa,CORREA,Huelva,730,"1,355",739,"1,372",.,.
+Correa,CORREA,Huesca,42,"0,183",45,"0,196",.,.
+Correa,CORREA,Jaén,42,"0,068",58,"0,094",.,.
+Correa,CORREA,León,73,"0,163",92,"0,205",.,.
+Correa,CORREA,Lleida,95,"0,207",98,"0,214",.,.
+Correa,CORREA,Lugo,75,"0,230",87,"0,267",.,.
+Correa,CORREA,Madrid,3.008,"0,423",2.941,"0,413",42,"0,006"
+Correa,CORREA,Málaga,734,"0,410",698,"0,390",12,"0,007"
+Correa,CORREA,Murcia,441,"0,278",430,"0,271",7,"0,004"
+Correa,CORREA,Navarra,229,"0,335",237,"0,347",.,.
+Correa,CORREA,Ourense,142,"0,465",116,"0,380",5,"0,016"
+Correa,CORREA,Palencia,26,"0,164",31,"0,195",.,.
+Correa,CORREA,"Palmas, Las",830,"0,708",831,"0,709",6,"0,005"
+Correa,CORREA,Pontevedra,884,"0,933",822,"0,867",6,"0,006"
+Correa,CORREA,"Rioja, La",96,"0,294",82,"0,251",.,.
+Correa,CORREA,Salamanca,58,"0,177",68,"0,207",.,.
+Correa,CORREA,Santa Cruz de Tenerife,2.304,"2,119",2.511,"2,309",74,"0,068"
+Correa,CORREA,Segovia,51,"0,322",50,"0,316",.,.
+Correa,CORREA,Sevilla,1.085,"0,549",955,"0,483",.,.
+Correa,CORREA,Soria,13,"0,144",15,"0,166",.,.
+Correa,CORREA,Tarragona,255,"0,291",276,"0,315",.,.
+Correa,CORREA,Teruel,35,"0,257",25,"0,184",.,.
+Correa,CORREA,Toledo,230,"0,305",268,"0,355",.,.
+Correa,CORREA,Valencia/València,917,"0,332",887,"0,321",6,"0,002"
+Correa,CORREA,Valladolid,159,"0,301",125,"0,236",.,.
+Correa,CORREA,Zamora,61,"0,368",71,"0,429",.,.
+Correa,CORREA,Zaragoza,230,"0,230",260,"0,260",.,.
+Correa,CORREA,Ceuta,13,"0,156",15,"0,179",.,.
+Correa,CORREA,Melilla,19,"0,218",12,"0,138",.,.
+Duarte,DUARTE,Albacete,61,"0,156",71,"0,182",.,.
+Duarte,DUARTE,Alicante/Alacant,404,"0,199",419,"0,206",.,.
+Duarte,DUARTE,Almería,271,"0,352",221,"0,287",7,"0,009"
+Duarte,DUARTE,Araba/Álava,122,"0,357",137,"0,401",.,.
+Duarte,DUARTE,Asturias,415,"0,409",350,"0,345",.,.
+Duarte,DUARTE,Ávila,65,"0,404",30,"0,187",.,.
+Duarte,DUARTE,Badajoz,331,"0,498",275,"0,413",.,.
+Duarte,DUARTE,"Balears, Illes",383,"0,306",352,"0,282",.,.
+Duarte,DUARTE,Barcelona,2.109,"0,354",2.050,"0,344",20,"0,003"
+Duarte,DUARTE,Bizkaia,340,"0,291",359,"0,308",6,"0,005"
+Duarte,DUARTE,Burgos,86,"0,237",61,"0,168",.,.
+Duarte,DUARTE,Cáceres,226,"0,582",208,"0,536",.,.
+Duarte,DUARTE,Cádiz,917,"0,727",1.027,"0,814",6,"0,005"
+Duarte,DUARTE,Cantabria,119,"0,200",117,"0,197",.,.
+Duarte,DUARTE,Castellón/Castelló,91,"0,145",97,"0,155",.,.
+Duarte,DUARTE,Ciudad Real,72,"0,145",61,"0,123",.,.
+Duarte,DUARTE,Córdoba,191,"0,247",180,"0,233",.,.
+Duarte,DUARTE,"Coruña, A",426,"0,375",423,"0,372",5,"0,004"
+Duarte,DUARTE,Cuenca,33,"0,165",26,"0,130",.,.
+Duarte,DUARTE,Gipuzkoa,186,"0,254",204,"0,278",.,.
+Duarte,DUARTE,Girona,201,"0,242",198,"0,238",.,.
+Duarte,DUARTE,Granada,308,"0,326",262,"0,277",.,.
+Duarte,DUARTE,Guadalajara,80,"0,280",95,"0,332",.,.
+Duarte,DUARTE,Huelva,204,"0,379",228,"0,423",.,.
+Duarte,DUARTE,Huesca,63,"0,274",62,"0,269",.,.
+Duarte,DUARTE,Jaén,51,"0,083",56,"0,091",.,.
+Duarte,DUARTE,León,118,"0,263",117,"0,261",.,.
+Duarte,DUARTE,Lleida,78,"0,170",91,"0,199",.,.
+Duarte,DUARTE,Lugo,118,"0,362",96,"0,294",.,.
+Duarte,DUARTE,Madrid,2.483,"0,349",2.413,"0,339",36,"0,005"
+Duarte,DUARTE,Málaga,1.278,"0,713",1.130,"0,631",11,"0,006"
+Duarte,DUARTE,Murcia,333,"0,210",301,"0,190",.,.
+Duarte,DUARTE,Navarra,128,"0,187",166,"0,243",.,.
+Duarte,DUARTE,Ourense,88,"0,288",100,"0,328",.,.
+Duarte,DUARTE,Palencia,31,"0,195",29,"0,183",.,.
+Duarte,DUARTE,"Palmas, Las",486,"0,415",608,"0,519",.,.
+Duarte,DUARTE,Pontevedra,570,"0,601",589,"0,621",7,"0,007"
+Duarte,DUARTE,"Rioja, La",93,"0,285",90,"0,275",.,.
+Duarte,DUARTE,Salamanca,99,"0,301",64,"0,195",.,.
+Duarte,DUARTE,Santa Cruz de Tenerife,250,"0,230",229,"0,211",5,"0,005"
+Duarte,DUARTE,Segovia,30,"0,190",32,"0,202",.,.
+Duarte,DUARTE,Sevilla,903,"0,457",829,"0,419",8,"0,004"
+Duarte,DUARTE,Soria,14,"0,155",19,"0,211",.,.
+Duarte,DUARTE,Tarragona,220,"0,251",204,"0,233",.,.
+Duarte,DUARTE,Teruel,18,"0,132",18,"0,132",.,.
+Duarte,DUARTE,Toledo,168,"0,222",173,"0,229",.,.
+Duarte,DUARTE,Valencia/València,514,"0,186",583,"0,211",8,"0,003"
+Duarte,DUARTE,Valladolid,54,"0,102",55,"0,104",.,.
+Duarte,DUARTE,Zamora,17,"0,103",19,"0,115",.,.
+Duarte,DUARTE,Zaragoza,377,"0,378",314,"0,314",5,"0,005"
+Duarte,DUARTE,Ceuta,69,"0,826",64,"0,766",.,.
+Duarte,DUARTE,Melilla,11,"0,126",11,"0,126",.,.
+Escobar,ESCOBAR,Albacete,462,"1,182",484,"1,239",.,.
+Escobar,ESCOBAR,Alicante/Alacant,974,"0,479",1.067,"0,525",5,"0,002"
+Escobar,ESCOBAR,Almería,998,"1,295",1.018,"1,321",23,"0,030"
+Escobar,ESCOBAR,Araba/Álava,129,"0,377",168,"0,491",5,"0,015"
+Escobar,ESCOBAR,Asturias,364,"0,359",314,"0,309",.,.
+Escobar,ESCOBAR,Ávila,51,"0,317",53,"0,330",.,.
+Escobar,ESCOBAR,Badajoz,883,"1,328",806,"1,212",10,"0,015"
+Escobar,ESCOBAR,"Balears, Illes",875,"0,700",850,"0,680",9,"0,007"
+Escobar,ESCOBAR,Barcelona,3.745,"0,628",3.665,"0,615",30,"0,005"
+Escobar,ESCOBAR,Bizkaia,538,"0,461",473,"0,405",.,.
+Escobar,ESCOBAR,Burgos,101,"0,278",88,"0,243",.,.
+Escobar,ESCOBAR,Cáceres,131,"0,337",145,"0,374",.,.
+Escobar,ESCOBAR,Cádiz,811,"0,643",722,"0,572",.,.
+Escobar,ESCOBAR,Cantabria,179,"0,302",141,"0,238",.,.
+Escobar,ESCOBAR,Castellón/Castelló,251,"0,400",243,"0,387",.,.
+Escobar,ESCOBAR,Ciudad Real,584,"1,180",582,"1,176",.,.
+Escobar,ESCOBAR,Córdoba,558,"0,722",595,"0,770",.,.
+Escobar,ESCOBAR,"Coruña, A",165,"0,145",174,"0,153",.,.
+Escobar,ESCOBAR,Cuenca,210,"1,051",197,"0,986",.,.
+Escobar,ESCOBAR,Gipuzkoa,208,"0,284",187,"0,255",.,.
+Escobar,ESCOBAR,Girona,403,"0,485",449,"0,541",.,.
+Escobar,ESCOBAR,Granada,940,"0,994",1.023,"1,082",8,"0,008"
+Escobar,ESCOBAR,Guadalajara,172,"0,602",118,"0,413",.,.
+Escobar,ESCOBAR,Huelva,680,"1,262",757,"1,405",9,"0,017"
+Escobar,ESCOBAR,Huesca,113,"0,491",102,"0,443",.,.
+Escobar,ESCOBAR,Jaén,220,"0,356",283,"0,458",.,.
+Escobar,ESCOBAR,León,143,"0,319",117,"0,261",.,.
+Escobar,ESCOBAR,Lleida,120,"0,262",113,"0,247",.,.
+Escobar,ESCOBAR,Lugo,58,"0,178",49,"0,150",.,.
+Escobar,ESCOBAR,Madrid,6.001,"0,844",5.853,"0,823",50,"0,007"
+Escobar,ESCOBAR,Málaga,1.866,"1,042",1.876,"1,047",35,"0,020"
+Escobar,ESCOBAR,Murcia,671,"0,423",650,"0,410",9,"0,006"
+Escobar,ESCOBAR,Navarra,255,"0,373",231,"0,338",.,.
+Escobar,ESCOBAR,Ourense,68,"0,223",62,"0,203",.,.
+Escobar,ESCOBAR,Palencia,72,"0,454",88,"0,554",.,.
+Escobar,ESCOBAR,"Palmas, Las",447,"0,382",400,"0,341",.,.
+Escobar,ESCOBAR,Pontevedra,162,"0,171",140,"0,148",.,.
+Escobar,ESCOBAR,"Rioja, La",111,"0,340",102,"0,312",.,.
+Escobar,ESCOBAR,Salamanca,89,"0,271",78,"0,237",.,.
+Escobar,ESCOBAR,Santa Cruz de Tenerife,912,"0,839",889,"0,818",9,"0,008"
+Escobar,ESCOBAR,Segovia,149,"0,942",153,"0,967",7,"0,044"
+Escobar,ESCOBAR,Sevilla,1.815,"0,918",1.845,"0,933",5,"0,003"
+Escobar,ESCOBAR,Soria,37,"0,410",48,"0,532",.,.
+Escobar,ESCOBAR,Tarragona,457,"0,522",389,"0,444",.,.
+Escobar,ESCOBAR,Teruel,49,"0,360",41,"0,301",.,.
+Escobar,ESCOBAR,Toledo,921,"1,220",991,"1,312",6,"0,008"
+Escobar,ESCOBAR,Valencia/València,1.728,"0,625",1.618,"0,585",18,"0,007"
+Escobar,ESCOBAR,Valladolid,152,"0,288",187,"0,354",.,.
+Escobar,ESCOBAR,Zamora,43,"0,260",51,"0,308",.,.
+Escobar,ESCOBAR,Zaragoza,329,"0,330",351,"0,352",.,.
+Escobar,ESCOBAR,Ceuta,14,"0,168",25,"0,299",.,.
+Escobar,ESCOBAR,Melilla,79,"0,907",48,"0,551",.,.
+Figueroa,FIGUEROA,Albacete,43,"0,110",52,"0,133",.,.
+Figueroa,FIGUEROA,Alicante/Alacant,352,"0,173",347,"0,171",5,"0,002"
+Figueroa,FIGUEROA,Almería,208,"0,270",192,"0,249",.,.
+Figueroa,FIGUEROA,Araba/Álava,46,"0,135",52,"0,152",.,.
+Figueroa,FIGUEROA,Asturias,137,"0,135",118,"0,116",.,.
+Figueroa,FIGUEROA,Ávila,20,"0,124",29,"0,180",.,.
+Figueroa,FIGUEROA,Badajoz,108,"0,162",113,"0,170",.,.
+Figueroa,FIGUEROA,"Balears, Illes",354,"0,283",332,"0,266",.,.
+Figueroa,FIGUEROA,Barcelona,1.751,"0,294",1.744,"0,293",11,"0,002"
+Figueroa,FIGUEROA,Bizkaia,150,"0,129",191,"0,164",.,.
+Figueroa,FIGUEROA,Burgos,41,"0,113",43,"0,119",.,.
+Figueroa,FIGUEROA,Cáceres,56,"0,144",42,"0,108",.,.
+Figueroa,FIGUEROA,Cádiz,385,"0,305",402,"0,319",.,.
+Figueroa,FIGUEROA,Cantabria,81,"0,136",73,"0,123",.,.
+Figueroa,FIGUEROA,Castellón/Castelló,100,"0,159",98,"0,156",.,.
+Figueroa,FIGUEROA,Ciudad Real,77,"0,156",71,"0,143",.,.
+Figueroa,FIGUEROA,Córdoba,161,"0,208",178,"0,230",.,.
+Figueroa,FIGUEROA,"Coruña, A",777,"0,684",724,"0,638",5,"0,004"
+Figueroa,FIGUEROA,Cuenca,36,"0,180",31,"0,155",.,.
+Figueroa,FIGUEROA,Gipuzkoa,206,"0,281",201,"0,274",.,.
+Figueroa,FIGUEROA,Girona,209,"0,252",215,"0,259",.,.
+Figueroa,FIGUEROA,Granada,228,"0,241",235,"0,248",.,.
+Figueroa,FIGUEROA,Guadalajara,70,"0,245",85,"0,297",.,.
+Figueroa,FIGUEROA,Huelva,71,"0,132",88,"0,163",.,.
+Figueroa,FIGUEROA,Huesca,28,"0,122",26,"0,113",.,.
+Figueroa,FIGUEROA,Jaén,120,"0,194",128,"0,207",.,.
+Figueroa,FIGUEROA,León,48,"0,107",49,"0,109",.,.
+Figueroa,FIGUEROA,Lleida,62,"0,135",67,"0,146",.,.
+Figueroa,FIGUEROA,Lugo,137,"0,420",91,"0,279",.,.
+Figueroa,FIGUEROA,Madrid,2.682,"0,377",2.536,"0,356",33,"0,005"
+Figueroa,FIGUEROA,Málaga,400,"0,223",416,"0,232",.,.
+Figueroa,FIGUEROA,Murcia,203,"0,128",211,"0,133",.,.
+Figueroa,FIGUEROA,Navarra,164,"0,240",149,"0,218",.,.
+Figueroa,FIGUEROA,Ourense,59,"0,193",52,"0,170",.,.
+Figueroa,FIGUEROA,Palencia,12,"0,076",24,"0,151",.,.
+Figueroa,FIGUEROA,"Palmas, Las",791,"0,675",712,"0,608",9,"0,008"
+Figueroa,FIGUEROA,Pontevedra,1.610,"1,699",1.746,"1,842",34,"0,036"
+Figueroa,FIGUEROA,"Rioja, La",44,"0,135",33,"0,101",.,.
+Figueroa,FIGUEROA,Salamanca,30,"0,091",30,"0,091",.,.
+Figueroa,FIGUEROA,Santa Cruz de Tenerife,807,"0,742",883,"0,812",9,"0,008"
+Figueroa,FIGUEROA,Segovia,40,"0,253",49,"0,310",.,.
+Figueroa,FIGUEROA,Sevilla,750,"0,379",708,"0,358",.,.
+Figueroa,FIGUEROA,Soria,16,"0,177",7,"0,078",.,.
+Figueroa,FIGUEROA,Tarragona,161,"0,184",163,"0,186",.,.
+Figueroa,FIGUEROA,Teruel,12,"0,088",15,"0,110",.,.
+Figueroa,FIGUEROA,Toledo,254,"0,336",228,"0,302",.,.
+Figueroa,FIGUEROA,Valencia/València,563,"0,204",561,"0,203",.,.
+Figueroa,FIGUEROA,Valladolid,113,"0,214",137,"0,259",.,.
+Figueroa,FIGUEROA,Zamora,37,"0,223",30,"0,181",.,.
+Figueroa,FIGUEROA,Zaragoza,165,"0,165",182,"0,182",.,.
+Figueroa,FIGUEROA,Ceuta,28,"0,335",18,"0,215",.,.
+Figueroa,FIGUEROA,Melilla,6,"0,069",7,"0,080",.,.
+Guzmán,GUZMAN,Albacete,129,"0,330",146,"0,374",.,.
+Guzmán,GUZMAN,Alicante/Alacant,973,"0,478",895,"0,440",16,"0,008"
+Guzmán,GUZMAN,Almería,396,"0,514",393,"0,510",.,.
+Guzmán,GUZMAN,Araba/Álava,185,"0,541",203,"0,594",.,.
+Guzmán,GUZMAN,Asturias,282,"0,278",274,"0,270",5,"0,005"
+Guzmán,GUZMAN,Ávila,108,"0,672",120,"0,747",.,.
+Guzmán,GUZMAN,Badajoz,383,"0,576",465,"0,699",13,"0,020"
+Guzmán,GUZMAN,"Balears, Illes",775,"0,620",808,"0,646",12,"0,010"
+Guzmán,GUZMAN,Barcelona,4.284,"0,719",4.389,"0,736",45,"0,008"
+Guzmán,GUZMAN,Bizkaia,643,"0,551",584,"0,500",.,.
+Guzmán,GUZMAN,Burgos,139,"0,383",119,"0,328",6,"0,017"
+Guzmán,GUZMAN,Cáceres,244,"0,629",254,"0,654",.,.
+Guzmán,GUZMAN,Cádiz,1.260,"0,999",1.355,"1,074",12,"0,010"
+Guzmán,GUZMAN,Cantabria,223,"0,376",194,"0,327",10,"0,017"
+Guzmán,GUZMAN,Castellón/Castelló,451,"0,719",388,"0,618",.,.
+Guzmán,GUZMAN,Ciudad Real,439,"0,887",486,"0,982",5,"0,010"
+Guzmán,GUZMAN,Córdoba,604,"0,781",668,"0,864",8,"0,010"
+Guzmán,GUZMAN,"Coruña, A",399,"0,351",486,"0,428",9,"0,008"
+Guzmán,GUZMAN,Cuenca,47,"0,235",62,"0,310",.,.
+Guzmán,GUZMAN,Gipuzkoa,268,"0,366",277,"0,378",.,.
+Guzmán,GUZMAN,Girona,423,"0,509",421,"0,507",.,.
+Guzmán,GUZMAN,Granada,912,"0,964",1.052,"1,112",15,"0,016"
+Guzmán,GUZMAN,Guadalajara,202,"0,707",163,"0,570",.,.
+Guzmán,GUZMAN,Huelva,449,"0,833",440,"0,817",.,.
+Guzmán,GUZMAN,Huesca,73,"0,317",77,"0,335",.,.
+Guzmán,GUZMAN,Jaén,876,"1,417",935,"1,513",20,"0,032"
+Guzmán,GUZMAN,León,145,"0,324",111,"0,248",.,.
+Guzmán,GUZMAN,Lleida,160,"0,349",176,"0,384",.,.
+Guzmán,GUZMAN,Lugo,105,"0,322",104,"0,319",.,.
+Guzmán,GUZMAN,Madrid,6.487,"0,912",6.167,"0,867",88,"0,012"
+Guzmán,GUZMAN,Málaga,2.776,"1,550",2.744,"1,532",61,"0,034"
+Guzmán,GUZMAN,Murcia,949,"0,598",975,"0,614",12,"0,008"
+Guzmán,GUZMAN,Navarra,294,"0,430",312,"0,456",8,"0,012"
+Guzmán,GUZMAN,Ourense,164,"0,537",143,"0,468",.,.
+Guzmán,GUZMAN,Palencia,74,"0,466",49,"0,309",.,.
+Guzmán,GUZMAN,"Palmas, Las",782,"0,667",773,"0,660",.,.
+Guzmán,GUZMAN,Pontevedra,287,"0,303",256,"0,270",.,.
+Guzmán,GUZMAN,"Rioja, La",102,"0,312",124,"0,379",.,.
+Guzmán,GUZMAN,Salamanca,108,"0,329",145,"0,441",.,.
+Guzmán,GUZMAN,Santa Cruz de Tenerife,765,"0,704",838,"0,771",8,"0,007"
+Guzmán,GUZMAN,Segovia,68,"0,430",46,"0,291",.,.
+Guzmán,GUZMAN,Sevilla,1.740,"0,880",1.646,"0,832",23,"0,012"
+Guzmán,GUZMAN,Soria,33,"0,366",41,"0,455",.,.
+Guzmán,GUZMAN,Tarragona,541,"0,618",486,"0,555",6,"0,007"
+Guzmán,GUZMAN,Teruel,40,"0,294",28,"0,206",.,.
+Guzmán,GUZMAN,Toledo,1.037,"1,373",1.033,"1,368",24,"0,032"
+Guzmán,GUZMAN,Valencia/València,1.719,"0,622",1.693,"0,613",20,"0,007"
+Guzmán,GUZMAN,Valladolid,194,"0,367",170,"0,322",.,.
+Guzmán,GUZMAN,Zamora,23,"0,139",38,"0,230",.,.
+Guzmán,GUZMAN,Zaragoza,453,"0,454",387,"0,388",.,.
+Guzmán,GUZMAN,Ceuta,55,"0,658",34,"0,407",.,.
+Guzmán,GUZMAN,Melilla,34,"0,391",34,"0,391",.,.
+Juárez,JUAREZ,Albacete,430,"1,100",372,"0,952",16,"0,041"
+Juárez,JUAREZ,Alicante/Alacant,1.201,"0,591",1.113,"0,547",11,"0,005"
+Juárez,JUAREZ,Almería,531,"0,689",603,"0,783",9,"0,012"
+Juárez,JUAREZ,Araba/Álava,59,"0,173",78,"0,228",.,.
+Juárez,JUAREZ,Asturias,120,"0,118",169,"0,166",.,.
+Juárez,JUAREZ,Ávila,100,"0,622",90,"0,560",.,.
+Juárez,JUAREZ,Badajoz,149,"0,224",138,"0,207",.,.
+Juárez,JUAREZ,"Balears, Illes",336,"0,269",285,"0,228",.,.
+Juárez,JUAREZ,Barcelona,2.329,"0,391",2.311,"0,388",21,"0,004"
+Juárez,JUAREZ,Bizkaia,302,"0,259",294,"0,252",.,.
+Juárez,JUAREZ,Burgos,140,"0,386",111,"0,306",.,.
+Juárez,JUAREZ,Cáceres,133,"0,343",175,"0,451",.,.
+Juárez,JUAREZ,Cádiz,169,"0,134",132,"0,105",.,.
+Juárez,JUAREZ,Cantabria,215,"0,362",184,"0,310",.,.
+Juárez,JUAREZ,Castellón/Castelló,405,"0,645",483,"0,770",9,"0,014"
+Juárez,JUAREZ,Ciudad Real,376,"0,760",466,"0,942",6,"0,012"
+Juárez,JUAREZ,Córdoba,274,"0,354",279,"0,361",.,.
+Juárez,JUAREZ,"Coruña, A",61,"0,054",63,"0,055",.,.
+Juárez,JUAREZ,Cuenca,30,"0,150",42,"0,210",.,.
+Juárez,JUAREZ,Gipuzkoa,148,"0,202",180,"0,246",.,.
+Juárez,JUAREZ,Girona,249,"0,300",255,"0,307",.,.
+Juárez,JUAREZ,Granada,617,"0,652",628,"0,664",.,.
+Juárez,JUAREZ,Guadalajara,137,"0,479",151,"0,528",.,.
+Juárez,JUAREZ,Huelva,34,"0,063",27,"0,050",.,.
+Juárez,JUAREZ,Huesca,60,"0,261",35,"0,152",.,.
+Juárez,JUAREZ,Jaén,540,"0,874",518,"0,838",.,.
+Juárez,JUAREZ,León,319,"0,712",414,"0,924",6,"0,013"
+Juárez,JUAREZ,Lleida,147,"0,321",107,"0,234",.,.
+Juárez,JUAREZ,Lugo,20,"0,061",25,"0,077",.,.
+Juárez,JUAREZ,Madrid,3.443,"0,484",3.371,"0,474",29,"0,004"
+Juárez,JUAREZ,Málaga,472,"0,264",426,"0,238",.,.
+Juárez,JUAREZ,Murcia,727,"0,458",764,"0,481",8,"0,005"
+Juárez,JUAREZ,Navarra,135,"0,197",136,"0,199",.,.
+Juárez,JUAREZ,Ourense,8,"0,026",14,"0,046",.,.
+Juárez,JUAREZ,Palencia,123,"0,775",117,"0,737",.,.
+Juárez,JUAREZ,"Palmas, Las",97,"0,083",110,"0,094",.,.
+Juárez,JUAREZ,Pontevedra,81,"0,085",53,"0,056",.,.
+Juárez,JUAREZ,"Rioja, La",62,"0,190",29,"0,089",.,.
+Juárez,JUAREZ,Salamanca,67,"0,204",58,"0,177",.,.
+Juárez,JUAREZ,Santa Cruz de Tenerife,76,"0,070",67,"0,062",.,.
+Juárez,JUAREZ,Segovia,61,"0,385",59,"0,373",.,.
+Juárez,JUAREZ,Sevilla,318,"0,161",249,"0,126",.,.
+Juárez,JUAREZ,Soria,.,.,9,"0,100",.,.
+Juárez,JUAREZ,Tarragona,230,"0,263",253,"0,289",.,.
+Juárez,JUAREZ,Teruel,33,"0,242",35,"0,257",.,.
+Juárez,JUAREZ,Toledo,809,"1,071",759,"1,005",8,"0,011"
+Juárez,JUAREZ,Valencia/València,959,"0,347",931,"0,337",6,"0,002"
+Juárez,JUAREZ,Valladolid,424,"0,802",394,"0,745",.,.
+Juárez,JUAREZ,Zamora,201,"1,214",177,"1,069",.,.
+Juárez,JUAREZ,Zaragoza,194,"0,194",198,"0,198",.,.
+Juárez,JUAREZ,Ceuta,14,"0,168",17,"0,203",.,.
+Juárez,JUAREZ,Melilla,17,"0,195",10,"0,115",.,.
+Peralta,PERALTA,Albacete,124,"0,317",110,"0,282",.,.
+Peralta,PERALTA,Alicante/Alacant,374,"0,184",350,"0,172",.,.
+Peralta,PERALTA,Almería,412,"0,535",421,"0,546",.,.
+Peralta,PERALTA,Araba/Álava,39,"0,114",43,"0,126",.,.
+Peralta,PERALTA,Asturias,167,"0,165",152,"0,150",.,.
+Peralta,PERALTA,Ávila,63,"0,392",54,"0,336",.,.
+Peralta,PERALTA,Badajoz,83,"0,125",94,"0,141",.,.
+Peralta,PERALTA,"Balears, Illes",519,"0,415",412,"0,330",.,.
+Peralta,PERALTA,Barcelona,2.350,"0,394",2.297,"0,385",20,"0,003"
+Peralta,PERALTA,Bizkaia,295,"0,253",298,"0,255",.,.
+Peralta,PERALTA,Burgos,68,"0,188",74,"0,204",.,.
+Peralta,PERALTA,Cáceres,32,"0,082",48,"0,124",.,.
+Peralta,PERALTA,Cádiz,859,"0,681",857,"0,679",7,"0,006"
+Peralta,PERALTA,Cantabria,137,"0,231",147,"0,248",.,.
+Peralta,PERALTA,Castellón/Castelló,192,"0,306",179,"0,285",8,"0,013"
+Peralta,PERALTA,Ciudad Real,258,"0,521",232,"0,469",.,.
+Peralta,PERALTA,Córdoba,133,"0,172",148,"0,191",.,.
+Peralta,PERALTA,"Coruña, A",113,"0,100",73,"0,064",.,.
+Peralta,PERALTA,Cuenca,122,"0,610",57,"0,285",.,.
+Peralta,PERALTA,Gipuzkoa,144,"0,196",136,"0,186",.,.
+Peralta,PERALTA,Girona,281,"0,338",237,"0,285",.,.
+Peralta,PERALTA,Granada,558,"0,590",622,"0,658",.,.
+Peralta,PERALTA,Guadalajara,72,"0,252",70,"0,245",.,.
+Peralta,PERALTA,Huelva,36,"0,067",37,"0,069",.,.
+Peralta,PERALTA,Huesca,271,"1,178",278,"1,208",12,"0,052"
+Peralta,PERALTA,Jaén,341,"0,552",283,"0,458",5,"0,008"
+Peralta,PERALTA,León,46,"0,103",32,"0,071",.,.
+Peralta,PERALTA,Lleida,177,"0,386",185,"0,404",.,.
+Peralta,PERALTA,Lugo,43,"0,132",42,"0,129",.,.
+Peralta,PERALTA,Madrid,2.645,"0,372",2.501,"0,352",36,"0,005"
+Peralta,PERALTA,Málaga,860,"0,480",840,"0,469",13,"0,007"
+Peralta,PERALTA,Murcia,383,"0,241",427,"0,269",7,"0,004"
+Peralta,PERALTA,Navarra,266,"0,389",236,"0,345",.,.
+Peralta,PERALTA,Ourense,42,"0,138",51,"0,167",8,"0,026"
+Peralta,PERALTA,Palencia,13,"0,082",24,"0,151",.,.
+Peralta,PERALTA,"Palmas, Las",225,"0,192",212,"0,181",.,.
+Peralta,PERALTA,Pontevedra,63,"0,066",86,"0,091",.,.
+Peralta,PERALTA,"Rioja, La",81,"0,248",59,"0,181",.,.
+Peralta,PERALTA,Salamanca,109,"0,332",103,"0,314",.,.
+Peralta,PERALTA,Santa Cruz de Tenerife,94,"0,086",97,"0,089",.,.
+Peralta,PERALTA,Segovia,38,"0,240",34,"0,215",.,.
+Peralta,PERALTA,Sevilla,460,"0,233",514,"0,260",.,.
+Peralta,PERALTA,Soria,18,"0,200",18,"0,200",.,.
+Peralta,PERALTA,Tarragona,252,"0,288",252,"0,288",9,"0,010"
+Peralta,PERALTA,Teruel,143,"1,051",108,"0,794",7,"0,051"
+Peralta,PERALTA,Toledo,168,"0,222",175,"0,232",.,.
+Peralta,PERALTA,Valencia/València,729,"0,264",784,"0,284",5,"0,002"
+Peralta,PERALTA,Valladolid,96,"0,182",95,"0,180",.,.
+Peralta,PERALTA,Zamora,70,"0,423",32,"0,193",.,.
+Peralta,PERALTA,Zaragoza,556,"0,557",536,"0,537",.,.
+Peralta,PERALTA,Ceuta,24,"0,287",17,"0,203",.,.
+Peralta,PERALTA,Melilla,8,"0,092",9,"0,103",.,.
+Mansilla,MANSILLA,Albacete,160,"0,409",149,"0,381",.,.
+Mansilla,MANSILLA,Alicante/Alacant,174,"0,086",174,"0,086",.,.
+Mansilla,MANSILLA,Almería,32,"0,042",30,"0,039",.,.
+Mansilla,MANSILLA,Araba/Álava,35,"0,102",53,"0,155",.,.
+Mansilla,MANSILLA,Asturias,84,"0,083",61,"0,060",.,.
+Mansilla,MANSILLA,Ávila,7,"0,044",.,.,.,.
+Mansilla,MANSILLA,Badajoz,402,"0,604",444,"0,668",10,"0,015"
+Mansilla,MANSILLA,"Balears, Illes",172,"0,138",137,"0,110",.,.
+Mansilla,MANSILLA,Barcelona,812,"0,136",814,"0,137",8,"0,001"
+Mansilla,MANSILLA,Bizkaia,97,"0,083",140,"0,120",.,.
+Mansilla,MANSILLA,Burgos,77,"0,212",82,"0,226",.,.
+Mansilla,MANSILLA,Cáceres,14,"0,036",26,"0,067",.,.
+Mansilla,MANSILLA,Cádiz,43,"0,034",19,"0,015",.,.
+Mansilla,MANSILLA,Cantabria,40,"0,067",54,"0,091",.,.
+Mansilla,MANSILLA,Castellón/Castelló,56,"0,089",71,"0,113",.,.
+Mansilla,MANSILLA,Ciudad Real,324,"0,655",293,"0,592",.,.
+Mansilla,MANSILLA,Córdoba,239,"0,309",328,"0,424",.,.
+Mansilla,MANSILLA,"Coruña, A",106,"0,093",126,"0,111",.,.
+Mansilla,MANSILLA,Cuenca,51,"0,255",32,"0,160",.,.
+Mansilla,MANSILLA,Gipuzkoa,43,"0,059",65,"0,089",7,"0,010"
+Mansilla,MANSILLA,Girona,35,"0,042",54,"0,065",.,.
+Mansilla,MANSILLA,Granada,91,"0,096",75,"0,079",5,"0,005"
+Mansilla,MANSILLA,Guadalajara,66,"0,231",62,"0,217",.,.
+Mansilla,MANSILLA,Huelva,33,"0,061",16,"0,030",.,.
+Mansilla,MANSILLA,Huesca,21,"0,091",28,"0,122",.,.
+Mansilla,MANSILLA,Jaén,86,"0,139",107,"0,173",.,.
+Mansilla,MANSILLA,León,115,"0,257",121,"0,270",.,.
+Mansilla,MANSILLA,Lleida,42,"0,092",36,"0,079",.,.
+Mansilla,MANSILLA,Lugo,5,"0,015",5,"0,015",.,.
+Mansilla,MANSILLA,Madrid,1.470,"0,207",1.476,"0,207",22,"0,003"
+Mansilla,MANSILLA,Málaga,113,"0,063",74,"0,041",.,.
+Mansilla,MANSILLA,Murcia,80,"0,050",93,"0,059",.,.
+Mansilla,MANSILLA,Navarra,29,"0,042",23,"0,034",.,.
+Mansilla,MANSILLA,Palencia,16,"0,101",29,"0,183",.,.
+Mansilla,MANSILLA,"Palmas, Las",31,"0,026",27,"0,023",.,.
+Mansilla,MANSILLA,Pontevedra,34,"0,036",21,"0,022",.,.
+Mansilla,MANSILLA,"Rioja, La",22,"0,067",21,"0,064",.,.
+Mansilla,MANSILLA,Salamanca,10,"0,030",15,"0,046",.,.
+Mansilla,MANSILLA,Santa Cruz de Tenerife,37,"0,034",26,"0,024",.,.
+Mansilla,MANSILLA,Sevilla,79,"0,040",55,"0,028",.,.
+Mansilla,MANSILLA,Tarragona,127,"0,145",95,"0,109",.,.
+Mansilla,MANSILLA,Teruel,30,"0,220",15,"0,110",.,.
+Mansilla,MANSILLA,Toledo,112,"0,148",119,"0,158",.,.
+Mansilla,MANSILLA,Valencia/València,293,"0,106",298,"0,108",5,"0,002"
+Mansilla,MANSILLA,Valladolid,96,"0,182",80,"0,151",.,.
+Mansilla,MANSILLA,Zamora,19,"0,115",26,"0,157",.,.
+Mansilla,MANSILLA,Zaragoza,61,"0,061",74,"0,074",.,.
+Mansilla,MANSILLA,Melilla,9,"0,103",6,"0,069",.,.
+Ayala,AYALA,Albacete,96,"0,246",88,"0,225",.,.
+Ayala,AYALA,Alicante/Alacant,696,"0,342",717,"0,353",.,.
+Ayala,AYALA,Almería,590,"0,766",569,"0,738",.,.
+Ayala,AYALA,Araba/Álava,217,"0,635",249,"0,728",.,.
+Ayala,AYALA,Asturias,190,"0,187",161,"0,159",5,"0,005"
+Ayala,AYALA,Ávila,34,"0,212",26,"0,162",.,.
+Ayala,AYALA,Badajoz,73,"0,110",62,"0,093",6,"0,009"
+Ayala,AYALA,"Balears, Illes",478,"0,382",458,"0,366",.,.
+Ayala,AYALA,Barcelona,2.753,"0,462",2.731,"0,458",21,"0,004"
+Ayala,AYALA,Bizkaia,513,"0,440",516,"0,442",13,"0,011"
+Ayala,AYALA,Burgos,316,"0,871",291,"0,802",5,"0,014"
+Ayala,AYALA,Cáceres,80,"0,206",82,"0,211",.,.
+Ayala,AYALA,Cádiz,517,"0,410",496,"0,393",7,"0,006"
+Ayala,AYALA,Cantabria,101,"0,170",111,"0,187",.,.
+Ayala,AYALA,Castellón/Castelló,125,"0,199",115,"0,183",.,.
+Ayala,AYALA,Ciudad Real,123,"0,249",83,"0,168",.,.
+Ayala,AYALA,Córdoba,406,"0,525",440,"0,569",.,.
+Ayala,AYALA,"Coruña, A",120,"0,106",132,"0,116",.,.
+Ayala,AYALA,Cuenca,71,"0,355",71,"0,355",.,.
+Ayala,AYALA,Gipuzkoa,194,"0,265",177,"0,241",.,.
+Ayala,AYALA,Girona,249,"0,300",262,"0,315",9,"0,011"
+Ayala,AYALA,Granada,305,"0,322",286,"0,302",.,.
+Ayala,AYALA,Guadalajara,81,"0,283",93,"0,325",.,.
+Ayala,AYALA,Huelva,72,"0,134",73,"0,135",.,.
+Ayala,AYALA,Huesca,71,"0,309",60,"0,261",.,.
+Ayala,AYALA,Jaén,119,"0,193",118,"0,191",.,.
+Ayala,AYALA,León,56,"0,125",50,"0,112",.,.
+Ayala,AYALA,Lleida,149,"0,325",152,"0,332",.,.
+Ayala,AYALA,Lugo,26,"0,080",38,"0,117",.,.
+Ayala,AYALA,Madrid,3.225,"0,453",3.151,"0,443",42,"0,006"
+Ayala,AYALA,Málaga,858,"0,479",840,"0,469",.,.
+Ayala,AYALA,Murcia,2.158,"1,360",1.908,"1,202",19,"0,012"
+Ayala,AYALA,Navarra,370,"0,541",321,"0,469",.,.
+Ayala,AYALA,Ourense,28,"0,092",25,"0,082",.,.
+Ayala,AYALA,Palencia,14,"0,088",21,"0,132",.,.
+Ayala,AYALA,"Palmas, Las",300,"0,256",266,"0,227",.,.
+Ayala,AYALA,Pontevedra,73,"0,077",89,"0,094",.,.
+Ayala,AYALA,"Rioja, La",213,"0,652",184,"0,563",.,.
+Ayala,AYALA,Salamanca,37,"0,113",30,"0,091",.,.
+Ayala,AYALA,Santa Cruz de Tenerife,282,"0,259",248,"0,228",.,.
+Ayala,AYALA,Segovia,20,"0,126",19,"0,120",.,.
+Ayala,AYALA,Sevilla,1.006,"0,509",1.021,"0,516",9,"0,005"
+Ayala,AYALA,Soria,24,"0,266",24,"0,266",.,.
+Ayala,AYALA,Tarragona,276,"0,315",240,"0,274",.,.
+Ayala,AYALA,Teruel,25,"0,184",15,"0,110",.,.
+Ayala,AYALA,Toledo,203,"0,269",227,"0,301",.,.
+Ayala,AYALA,Valencia/València,782,"0,283",763,"0,276",16,"0,006"
+Ayala,AYALA,Valladolid,175,"0,331",137,"0,259",.,.
+Ayala,AYALA,Zamora,5,"0,030",9,"0,054",.,.
+Ayala,AYALA,Zaragoza,282,"0,282",271,"0,271",.,.
+Ayala,AYALA,Ceuta,49,"0,586",33,"0,395",.,.
+Ayala,AYALA,Melilla,34,"0,391",35,"0,402",.,.
+Barrios,BARRIOS,Albacete,47,"0,120",48,"0,123",.,.
+Barrios,BARRIOS,Alicante/Alacant,388,"0,191",423,"0,208",6,"0,003"
+Barrios,BARRIOS,Almería,146,"0,189",118,"0,153",.,.
+Barrios,BARRIOS,Araba/Álava,88,"0,257",96,"0,281",.,.
+Barrios,BARRIOS,Asturias,254,"0,250",253,"0,249",.,.
+Barrios,BARRIOS,Ávila,51,"0,317",49,"0,305",.,.
+Barrios,BARRIOS,Badajoz,256,"0,385",158,"0,238",.,.
+Barrios,BARRIOS,"Balears, Illes",387,"0,310",347,"0,278",.,.
+Barrios,BARRIOS,Barcelona,1.645,"0,276",1.662,"0,279",15,"0,003"
+Barrios,BARRIOS,Bizkaia,476,"0,408",433,"0,371",.,.
+Barrios,BARRIOS,Burgos,181,"0,499",147,"0,405",.,.
+Barrios,BARRIOS,Cáceres,226,"0,582",214,"0,551",7,"0,018"
+Barrios,BARRIOS,Cádiz,1.091,"0,865",1.242,"0,985",17,"0,013"
+Barrios,BARRIOS,Cantabria,99,"0,167",147,"0,248",.,.
+Barrios,BARRIOS,Castellón/Castelló,138,"0,220",124,"0,198",.,.
+Barrios,BARRIOS,Ciudad Real,160,"0,323",197,"0,398",.,.
+Barrios,BARRIOS,Córdoba,302,"0,391",302,"0,391",.,.
+Barrios,BARRIOS,"Coruña, A",138,"0,122",149,"0,131",.,.
+Barrios,BARRIOS,Cuenca,109,"0,545",131,"0,655",.,.
+Barrios,BARRIOS,Gipuzkoa,136,"0,186",120,"0,164",.,.
+Barrios,BARRIOS,Girona,161,"0,194",159,"0,191",.,.
+Barrios,BARRIOS,Granada,216,"0,228",252,"0,266",.,.
+Barrios,BARRIOS,Guadalajara,111,"0,388",97,"0,339",.,.
+Barrios,BARRIOS,Huelva,244,"0,453",232,"0,431",.,.
+Barrios,BARRIOS,Huesca,50,"0,217",41,"0,178",.,.
+Barrios,BARRIOS,Jaén,200,"0,324",199,"0,322",.,.
+Barrios,BARRIOS,León,254,"0,567",272,"0,607",.,.
+Barrios,BARRIOS,Lleida,63,"0,137",73,"0,159",.,.
+Barrios,BARRIOS,Lugo,48,"0,147",40,"0,123",.,.
+Barrios,BARRIOS,Madrid,3.826,"0,538",3.854,"0,542",27,"0,004"
+Barrios,BARRIOS,Málaga,528,"0,295",499,"0,279",.,.
+Barrios,BARRIOS,Murcia,196,"0,124",191,"0,120",6,"0,004"
+Barrios,BARRIOS,Navarra,133,"0,194",139,"0,203",.,.
+Barrios,BARRIOS,Ourense,50,"0,164",51,"0,167",.,.
+Barrios,BARRIOS,Palencia,45,"0,284",56,"0,353",.,.
+Barrios,BARRIOS,"Palmas, Las",980,"0,837",1.017,"0,868",9,"0,008"
+Barrios,BARRIOS,Pontevedra,117,"0,123",126,"0,133",.,.
+Barrios,BARRIOS,"Rioja, La",203,"0,621",134,"0,410",.,.
+Barrios,BARRIOS,Salamanca,287,"0,874",286,"0,871",.,.
+Barrios,BARRIOS,Santa Cruz de Tenerife,1.180,"1,085",1.050,"0,966",.,.
+Barrios,BARRIOS,Segovia,42,"0,265",50,"0,316",.,.
+Barrios,BARRIOS,Sevilla,1.220,"0,617",1.264,"0,639",7,"0,004"
+Barrios,BARRIOS,Soria,49,"0,543",44,"0,488",.,.
+Barrios,BARRIOS,Tarragona,217,"0,248",212,"0,242",5,"0,006"
+Barrios,BARRIOS,Teruel,22,"0,162",26,"0,191",.,.
+Barrios,BARRIOS,Toledo,504,"0,667",404,"0,535",.,.
+Barrios,BARRIOS,Valencia/València,688,"0,249",653,"0,236",6,"0,002"
+Barrios,BARRIOS,Valladolid,327,"0,619",326,"0,617",6,"0,011"
+Barrios,BARRIOS,Zamora,405,"2,446",345,"2,084",7,"0,042"
+Barrios,BARRIOS,Zaragoza,352,"0,353",298,"0,298",7,"0,007"
+Barrios,BARRIOS,Ceuta,19,"0,227",13,"0,156",.,.
+Barrios,BARRIOS,Melilla,6,"0,069",11,"0,126",.,.
+Acuña,ACUÑA,Albacete,13,"0,033",12,"0,031",.,.
+Acuña,ACUÑA,Alicante/Alacant,194,"0,095",149,"0,073",.,.
+Acuña,ACUÑA,Almería,62,"0,080",96,"0,125",.,.
+Acuña,ACUÑA,Araba/Álava,38,"0,111",40,"0,117",.,.
+Acuña,ACUÑA,Asturias,190,"0,187",148,"0,146",.,.
+Acuña,ACUÑA,Ávila,5,"0,031",10,"0,062",.,.
+Acuña,ACUÑA,Badajoz,86,"0,129",76,"0,114",.,.
+Acuña,ACUÑA,"Balears, Illes",209,"0,167",153,"0,122",.,.
+Acuña,ACUÑA,Barcelona,813,"0,136",829,"0,139",.,.
+Acuña,ACUÑA,Bizkaia,134,"0,115",123,"0,105",.,.
+Acuña,ACUÑA,Burgos,9,"0,025",17,"0,047",.,.
+Acuña,ACUÑA,Cáceres,95,"0,245",110,"0,283",.,.
+Acuña,ACUÑA,Cádiz,430,"0,341",485,"0,384",.,.
+Acuña,ACUÑA,Cantabria,48,"0,081",50,"0,084",.,.
+Acuña,ACUÑA,Castellón/Castelló,31,"0,049",33,"0,053",.,.
+Acuña,ACUÑA,Ciudad Real,26,"0,053",34,"0,069",.,.
+Acuña,ACUÑA,Córdoba,29,"0,038",63,"0,081",.,.
+Acuña,ACUÑA,"Coruña, A",196,"0,173",182,"0,160",.,.
+Acuña,ACUÑA,Cuenca,20,"0,100",8,"0,040",.,.
+Acuña,ACUÑA,Gipuzkoa,138,"0,188",128,"0,175",.,.
+Acuña,ACUÑA,Girona,73,"0,088",79,"0,095",.,.
+Acuña,ACUÑA,Granada,58,"0,061",65,"0,069",.,.
+Acuña,ACUÑA,Guadalajara,40,"0,140",26,"0,091",.,.
+Acuña,ACUÑA,Huelva,132,"0,245",117,"0,217",.,.
+Acuña,ACUÑA,Huesca,28,"0,122",25,"0,109",.,.
+Acuña,ACUÑA,Jaén,40,"0,065",36,"0,058",.,.
+Acuña,ACUÑA,León,13,"0,029",23,"0,051",.,.
+Acuña,ACUÑA,Lleida,50,"0,109",43,"0,094",.,.
+Acuña,ACUÑA,Lugo,26,"0,080",26,"0,080",.,.
+Acuña,ACUÑA,Madrid,1.193,"0,168",1.126,"0,158",9,"0,001"
+Acuña,ACUÑA,Málaga,297,"0,166",337,"0,188",.,.
+Acuña,ACUÑA,Murcia,123,"0,078",116,"0,073",.,.
+Acuña,ACUÑA,Navarra,72,"0,105",60,"0,088",.,.
+Acuña,ACUÑA,Ourense,58,"0,190",41,"0,134",.,.
+Acuña,ACUÑA,Palencia,26,"0,164",12,"0,076",.,.
+Acuña,ACUÑA,"Palmas, Las",266,"0,227",267,"0,228",5,"0,004"
+Acuña,ACUÑA,Pontevedra,1.503,"1,586",1.306,"1,378",17,"0,018"
+Acuña,ACUÑA,"Rioja, La",7,"0,021",10,"0,031",.,.
+Acuña,ACUÑA,Salamanca,28,"0,085",34,"0,104",.,.
+Acuña,ACUÑA,Santa Cruz de Tenerife,239,"0,220",234,"0,215",.,.
+Acuña,ACUÑA,Segovia,11,"0,070",17,"0,107",.,.
+Acuña,ACUÑA,Sevilla,801,"0,405",689,"0,348",.,.
+Acuña,ACUÑA,Soria,.,.,7,"0,078",.,.
+Acuña,ACUÑA,Tarragona,93,"0,106",90,"0,103",.,.
+Acuña,ACUÑA,Teruel,18,"0,132",9,"0,066",.,.
+Acuña,ACUÑA,Toledo,72,"0,095",67,"0,089",.,.
+Acuña,ACUÑA,Valencia/València,194,"0,070",239,"0,086",.,.
+Acuña,ACUÑA,Valladolid,120,"0,227",128,"0,242",.,.
+Acuña,ACUÑA,Zamora,6,"0,036",8,"0,048",.,.
+Acuña,ACUÑA,Zaragoza,81,"0,081",69,"0,069",.,.
+Agüero,AGUERO,Albacete,9,"0,023",5,"0,013",.,.
+Agüero,AGUERO,Alicante/Alacant,129,"0,063",124,"0,061",.,.
+Agüero,AGUERO,Almería,170,"0,221",205,"0,266",.,.
+Agüero,AGUERO,Araba/Álava,48,"0,140",69,"0,202",.,.
+Agüero,AGUERO,Asturias,61,"0,060",67,"0,066",.,.
+Agüero,AGUERO,Ávila,27,"0,168",20,"0,124",.,.
+Agüero,AGUERO,Badajoz,12,"0,018",20,"0,030",.,.
+Agüero,AGUERO,"Balears, Illes",93,"0,074",68,"0,054",.,.
+Agüero,AGUERO,Barcelona,490,"0,082",465,"0,078",.,.
+Agüero,AGUERO,Bizkaia,165,"0,141",164,"0,141",.,.
+Agüero,AGUERO,Burgos,76,"0,210",44,"0,121",.,.
+Agüero,AGUERO,Cáceres,5,"0,013",15,"0,039",.,.
+Agüero,AGUERO,Cádiz,29,"0,023",22,"0,017",.,.
+Agüero,AGUERO,Cantabria,401,"0,676",369,"0,622",.,.
+Agüero,AGUERO,Castellón/Castelló,20,"0,032",21,"0,033",.,.
+Agüero,AGUERO,Ciudad Real,29,"0,059",15,"0,030",.,.
+Agüero,AGUERO,Córdoba,26,"0,034",19,"0,025",.,.
+Agüero,AGUERO,"Coruña, A",56,"0,049",44,"0,039",.,.
+Agüero,AGUERO,Cuenca,.,.,11,"0,055",.,.
+Agüero,AGUERO,Gipuzkoa,66,"0,090",35,"0,048",.,.
+Agüero,AGUERO,Girona,42,"0,051",34,"0,041",.,.
+Agüero,AGUERO,Granada,28,"0,030",28,"0,030",.,.
+Agüero,AGUERO,Guadalajara,34,"0,119",30,"0,105",.,.
+Agüero,AGUERO,Huelva,12,"0,022",8,"0,015",.,.
+Agüero,AGUERO,Huesca,.,.,8,"0,035",.,.
+Agüero,AGUERO,Jaén,6,"0,010",7,"0,011",.,.
+Agüero,AGUERO,León,21,"0,047",20,"0,045",.,.
+Agüero,AGUERO,Lleida,.,.,12,"0,026",.,.
+Agüero,AGUERO,Lugo,10,"0,031",8,"0,025",.,.
+Agüero,AGUERO,Madrid,1.119,"0,157",1.143,"0,161",19,"0,003"
+Agüero,AGUERO,Málaga,138,"0,077",149,"0,083",.,.
+Agüero,AGUERO,Murcia,36,"0,023",31,"0,020",.,.
+Agüero,AGUERO,Navarra,41,"0,060",26,"0,038",.,.
+Agüero,AGUERO,Ourense,15,"0,049",7,"0,023",.,.
+Agüero,AGUERO,Palencia,8,"0,050",5,"0,032",.,.
+Agüero,AGUERO,"Palmas, Las",56,"0,048",55,"0,047",.,.
+Agüero,AGUERO,Pontevedra,30,"0,032",37,"0,039",.,.
+Agüero,AGUERO,"Rioja, La",34,"0,104",44,"0,135",.,.
+Agüero,AGUERO,Salamanca,19,"0,058",17,"0,052",.,.
+Agüero,AGUERO,Santa Cruz de Tenerife,79,"0,073",62,"0,057",.,.
+Agüero,AGUERO,Segovia,39,"0,246",68,"0,430",.,.
+Agüero,AGUERO,Sevilla,96,"0,049",94,"0,048",.,.
+Agüero,AGUERO,Soria,6,"0,067",.,.,.,.
+Agüero,AGUERO,Tarragona,57,"0,065",58,"0,066",.,.
+Agüero,AGUERO,Toledo,336,"0,445",317,"0,420",8,"0,011"
+Agüero,AGUERO,Valencia/València,79,"0,029",76,"0,027",.,.
+Agüero,AGUERO,Valladolid,39,"0,074",49,"0,093",.,.
+Agüero,AGUERO,Zaragoza,47,"0,047",46,"0,046",.,.
+Chávez,CHAVEZ,Albacete,67,"0,171",68,"0,174",.,.
+Chávez,CHAVEZ,Alicante/Alacant,347,"0,171",390,"0,192",.,.
+Chávez,CHAVEZ,Almería,110,"0,143",114,"0,148",.,.
+Chávez,CHAVEZ,Araba/Álava,59,"0,173",68,"0,199",.,.
+Chávez,CHAVEZ,Asturias,148,"0,146",124,"0,122",.,.
+Chávez,CHAVEZ,Ávila,22,"0,137",27,"0,168",.,.
+Chávez,CHAVEZ,Badajoz,545,"0,819",501,"0,753",5,"0,008"
+Chávez,CHAVEZ,"Balears, Illes",380,"0,304",407,"0,326",5,"0,004"
+Chávez,CHAVEZ,Barcelona,2.517,"0,422",2.658,"0,446",53,"0,009"
+Chávez,CHAVEZ,Bizkaia,239,"0,205",256,"0,219",.,.
+Chávez,CHAVEZ,Burgos,67,"0,185",68,"0,188",.,.
+Chávez,CHAVEZ,Cáceres,60,"0,155",50,"0,129",.,.
+Chávez,CHAVEZ,Cádiz,96,"0,076",123,"0,098",.,.
+Chávez,CHAVEZ,Cantabria,109,"0,184",135,"0,227",.,.
+Chávez,CHAVEZ,Castellón/Castelló,82,"0,131",84,"0,134",.,.
+Chávez,CHAVEZ,Ciudad Real,54,"0,109",51,"0,103",.,.
+Chávez,CHAVEZ,Córdoba,108,"0,140",124,"0,160",.,.
+Chávez,CHAVEZ,"Coruña, A",106,"0,093",139,"0,122",.,.
+Chávez,CHAVEZ,Cuenca,40,"0,200",25,"0,125",.,.
+Chávez,CHAVEZ,Gipuzkoa,153,"0,209",130,"0,177",.,.
+Chávez,CHAVEZ,Girona,203,"0,244",202,"0,243",.,.
+Chávez,CHAVEZ,Granada,98,"0,104",94,"0,099",.,.
+Chávez,CHAVEZ,Guadalajara,78,"0,273",83,"0,290",.,.
+Chávez,CHAVEZ,Huelva,105,"0,195",155,"0,288",.,.
+Chávez,CHAVEZ,Huesca,22,"0,096",35,"0,152",.,.
+Chávez,CHAVEZ,Jaén,40,"0,065",41,"0,066",.,.
+Chávez,CHAVEZ,León,67,"0,150",38,"0,085",.,.
+Chávez,CHAVEZ,Lleida,96,"0,210",83,"0,181",.,.
+Chávez,CHAVEZ,Lugo,45,"0,138",36,"0,110",.,.
+Chávez,CHAVEZ,Madrid,3.416,"0,480",3.628,"0,510",44,"0,006"
+Chávez,CHAVEZ,Málaga,276,"0,154",289,"0,161",.,.
+Chávez,CHAVEZ,Murcia,394,"0,248",398,"0,251",5,"0,003"
+Chávez,CHAVEZ,Navarra,191,"0,279",212,"0,310",.,.
+Chávez,CHAVEZ,Ourense,37,"0,121",41,"0,134",.,.
+Chávez,CHAVEZ,Palencia,17,"0,107",22,"0,139",.,.
+Chávez,CHAVEZ,"Palmas, Las",275,"0,235",307,"0,262",.,.
+Chávez,CHAVEZ,Pontevedra,102,"0,108",116,"0,122",.,.
+Chávez,CHAVEZ,"Rioja, La",73,"0,223",77,"0,236",.,.
+Chávez,CHAVEZ,Salamanca,63,"0,192",57,"0,174",.,.
+Chávez,CHAVEZ,Santa Cruz de Tenerife,1.375,"1,265",1.360,"1,251",9,"0,008"
+Chávez,CHAVEZ,Segovia,38,"0,240",36,"0,227",.,.
+Chávez,CHAVEZ,Sevilla,472,"0,239",576,"0,291",.,.
+Chávez,CHAVEZ,Soria,34,"0,377",28,"0,310",.,.
+Chávez,CHAVEZ,Tarragona,194,"0,222",178,"0,203",.,.
+Chávez,CHAVEZ,Teruel,20,"0,147",18,"0,132",.,.
+Chávez,CHAVEZ,Toledo,265,"0,351",247,"0,327",.,.
+Chávez,CHAVEZ,Valencia/València,705,"0,255",683,"0,247",7,"0,003"
+Chávez,CHAVEZ,Valladolid,68,"0,129",44,"0,083",.,.
+Chávez,CHAVEZ,Zamora,14,"0,085",16,"0,097",.,.
+Chávez,CHAVEZ,Zaragoza,212,"0,212",228,"0,228",.,.
+Farías,FARIAS,Alicante/Alacant,92,"0,045",82,"0,040",.,.
+Farías,FARIAS,Almería,22,"0,029",29,"0,038",.,.
+Farías,FARIAS,Araba/Álava,5,"0,015",10,"0,029",.,.
+Farías,FARIAS,Asturias,46,"0,045",45,"0,044",.,.
+Farías,FARIAS,Ávila,7,"0,044",8,"0,050",.,.
+Farías,FARIAS,Badajoz,48,"0,072",59,"0,089",.,.
+Farías,FARIAS,"Balears, Illes",90,"0,072",69,"0,055",.,.
+Farías,FARIAS,Barcelona,368,"0,062",428,"0,072",6,"0,001"
+Farías,FARIAS,Bizkaia,30,"0,026",39,"0,033",.,.
+Farías,FARIAS,Burgos,5,"0,014",7,"0,019",.,.
+Farías,FARIAS,Cáceres,10,"0,026",.,.,.,.
+Farías,FARIAS,Cádiz,17,"0,013",17,"0,013",.,.
+Farías,FARIAS,Cantabria,18,"0,030",20,"0,034",.,.
+Farías,FARIAS,Castellón/Castelló,15,"0,024",16,"0,025",.,.
+Farías,FARIAS,Ciudad Real,6,"0,012",14,"0,028",.,.
+Farías,FARIAS,Córdoba,21,"0,027",15,"0,019",.,.
+Farías,FARIAS,"Coruña, A",79,"0,070",55,"0,048",.,.
+Farías,FARIAS,Cuenca,13,"0,065",10,"0,050",.,.
+Farías,FARIAS,Gipuzkoa,27,"0,037",20,"0,027",.,.
+Farías,FARIAS,Girona,45,"0,054",42,"0,051",.,.
+Farías,FARIAS,Granada,32,"0,034",32,"0,034",.,.
+Farías,FARIAS,Guadalajara,10,"0,035",16,"0,056",.,.
+Farías,FARIAS,Huelva,20,"0,037",29,"0,054",.,.
+Farías,FARIAS,Huesca,5,"0,022",5,"0,022",.,.
+Farías,FARIAS,Jaén,19,"0,031",16,"0,026",.,.
+Farías,FARIAS,León,14,"0,031",16,"0,036",.,.
+Farías,FARIAS,Lleida,8,"0,017",13,"0,028",.,.
+Farías,FARIAS,Lugo,18,"0,055",9,"0,028",.,.
+Farías,FARIAS,Madrid,505,"0,071",514,"0,072",11,"0,002"
+Farías,FARIAS,Málaga,83,"0,046",76,"0,042",.,.
+Farías,FARIAS,Murcia,58,"0,037",61,"0,038",.,.
+Farías,FARIAS,Navarra,16,"0,023",22,"0,032",.,.
+Farías,FARIAS,Ourense,27,"0,088",13,"0,043",.,.
+Farías,FARIAS,Palencia,6,"0,038",.,.,.,.
+Farías,FARIAS,"Palmas, Las",245,"0,209",267,"0,228",.,.
+Farías,FARIAS,Pontevedra,44,"0,046",49,"0,052",.,.
+Farías,FARIAS,"Rioja, La",.,.,9,"0,028",.,.
+Farías,FARIAS,Salamanca,27,"0,082",25,"0,076",.,.
+Farías,FARIAS,Santa Cruz de Tenerife,105,"0,097",100,"0,092",.,.
+Farías,FARIAS,Segovia,10,"0,063",5,"0,032",.,.
+Farías,FARIAS,Sevilla,36,"0,018",32,"0,016",.,.
+Farías,FARIAS,Tarragona,65,"0,074",53,"0,061",.,.
+Farías,FARIAS,Toledo,24,"0,032",27,"0,036",.,.
+Farías,FARIAS,Valencia/València,130,"0,047",109,"0,039",.,.
+Farías,FARIAS,Valladolid,11,"0,021",8,"0,015",.,.
+Farías,FARIAS,Zaragoza,17,"0,017",30,"0,030",.,.
+Cardozo,CARDOZO,Albacete,21,"0,054",21,"0,054",.,.
+Cardozo,CARDOZO,Alicante/Alacant,174,"0,086",132,"0,065",.,.
+Cardozo,CARDOZO,Almería,40,"0,052",36,"0,047",.,.
+Cardozo,CARDOZO,Araba/Álava,22,"0,064",24,"0,070",.,.
+Cardozo,CARDOZO,Asturias,64,"0,063",86,"0,085",.,.
+Cardozo,CARDOZO,Ávila,.,.,5,"0,031",.,.
+Cardozo,CARDOZO,Badajoz,17,"0,026",11,"0,017",.,.
+Cardozo,CARDOZO,"Balears, Illes",163,"0,130",151,"0,121",.,.
+Cardozo,CARDOZO,Barcelona,591,"0,099",523,"0,088",6,"0,001"
+Cardozo,CARDOZO,Bizkaia,108,"0,093",97,"0,083",.,.
+Cardozo,CARDOZO,Burgos,15,"0,041",15,"0,041",.,.
+Cardozo,CARDOZO,Cáceres,6,"0,015",.,.,.,.
+Cardozo,CARDOZO,Cádiz,16,"0,013",20,"0,016",.,.
+Cardozo,CARDOZO,Cantabria,36,"0,061",35,"0,059",.,.
+Cardozo,CARDOZO,Castellón/Castelló,37,"0,059",29,"0,046",.,.
+Cardozo,CARDOZO,Ciudad Real,14,"0,028",26,"0,053",.,.
+Cardozo,CARDOZO,Córdoba,10,"0,013",21,"0,027",.,.
+Cardozo,CARDOZO,"Coruña, A",53,"0,047",70,"0,062",.,.
+Cardozo,CARDOZO,Cuenca,10,"0,050",11,"0,055",.,.
+Cardozo,CARDOZO,Gipuzkoa,14,"0,019",16,"0,022",.,.
+Cardozo,CARDOZO,Girona,69,"0,083",58,"0,070",.,.
+Cardozo,CARDOZO,Granada,25,"0,026",29,"0,031",.,.
+Cardozo,CARDOZO,Guadalajara,13,"0,045",11,"0,038",.,.
+Cardozo,CARDOZO,Huelva,8,"0,015",12,"0,022",.,.
+Cardozo,CARDOZO,Huesca,5,"0,022",6,"0,026",.,.
+Cardozo,CARDOZO,Jaén,14,"0,023",13,"0,021",.,.
+Cardozo,CARDOZO,León,13,"0,029",9,"0,020",.,.
+Cardozo,CARDOZO,Lleida,16,"0,035",13,"0,028",.,.
+Cardozo,CARDOZO,Lugo,10,"0,031",14,"0,043",.,.
+Cardozo,CARDOZO,Madrid,810,"0,114",776,"0,109",18,"0,003"
+Cardozo,CARDOZO,Málaga,193,"0,108",172,"0,096",.,.
+Cardozo,CARDOZO,Murcia,84,"0,053",80,"0,050",.,.
+Cardozo,CARDOZO,Navarra,38,"0,056",29,"0,042",.,.
+Cardozo,CARDOZO,Ourense,7,"0,023",10,"0,033",.,.
+Cardozo,CARDOZO,Palencia,8,"0,050",9,"0,057",.,.
+Cardozo,CARDOZO,"Palmas, Las",81,"0,069",70,"0,060",.,.
+Cardozo,CARDOZO,Pontevedra,41,"0,043",33,"0,035",.,.
+Cardozo,CARDOZO,"Rioja, La",23,"0,070",21,"0,064",.,.
+Cardozo,CARDOZO,Salamanca,11,"0,033",13,"0,040",.,.
+Cardozo,CARDOZO,Santa Cruz de Tenerife,63,"0,058",63,"0,058",.,.
+Cardozo,CARDOZO,Segovia,7,"0,044",9,"0,057",.,.
+Cardozo,CARDOZO,Sevilla,51,"0,026",65,"0,033",.,.
+Cardozo,CARDOZO,Soria,6,"0,067",.,.,.,.
+Cardozo,CARDOZO,Tarragona,59,"0,067",44,"0,050",.,.
+Cardozo,CARDOZO,Teruel,7,"0,051",.,.,.,.
+Cardozo,CARDOZO,Toledo,36,"0,048",43,"0,057",.,.
+Cardozo,CARDOZO,Valencia/València,207,"0,075",209,"0,076",5,"0,002"
+Cardozo,CARDOZO,Valladolid,19,"0,036",27,"0,051",.,.
+Cardozo,CARDOZO,Zaragoza,20,"0,020",32,"0,032",.,.
+Pereyra,PEREYRA,Albacete,16,"0,041",6,"0,015",.,.
+Pereyra,PEREYRA,Alicante/Alacant,120,"0,059",72,"0,035",.,.
+Pereyra,PEREYRA,Almería,52,"0,067",27,"0,035",.,.
+Pereyra,PEREYRA,Araba/Álava,9,"0,026",.,.,.,.
+Pereyra,PEREYRA,Asturias,25,"0,025",12,"0,012",.,.
+Pereyra,PEREYRA,"Balears, Illes",183,"0,146",128,"0,102",.,.
+Pereyra,PEREYRA,Barcelona,365,"0,061",244,"0,041",5,"0,001"
+Pereyra,PEREYRA,Bizkaia,26,"0,022",17,"0,015",.,.
+Pereyra,PEREYRA,Burgos,.,.,8,"0,022",.,.
+Pereyra,PEREYRA,Cáceres,5,"0,013",5,"0,013",.,.
+Pereyra,PEREYRA,Cádiz,39,"0,031",26,"0,021",.,.
+Pereyra,PEREYRA,Cantabria,16,"0,027",7,"0,012",.,.
+Pereyra,PEREYRA,Castellón/Castelló,23,"0,037",21,"0,033",.,.
+Pereyra,PEREYRA,Ciudad Real,7,"0,014",10,"0,020",.,.
+Pereyra,PEREYRA,Córdoba,.,.,5,"0,006",.,.
+Pereyra,PEREYRA,"Coruña, A",48,"0,042",26,"0,023",.,.
+Pereyra,PEREYRA,Gipuzkoa,25,"0,034",15,"0,020",.,.
+Pereyra,PEREYRA,Girona,63,"0,076",44,"0,053",.,.
+Pereyra,PEREYRA,Granada,22,"0,023",8,"0,008",.,.
+Pereyra,PEREYRA,Guadalajara,13,"0,045",5,"0,017",.,.
+Pereyra,PEREYRA,Huesca,6,"0,026",5,"0,022",.,.
+Pereyra,PEREYRA,León,6,"0,013",5,"0,011",.,.
+Pereyra,PEREYRA,Lleida,12,"0,026",7,"0,015",.,.
+Pereyra,PEREYRA,Lugo,6,"0,018",9,"0,028",.,.
+Pereyra,PEREYRA,Madrid,386,"0,054",298,"0,042",.,.
+Pereyra,PEREYRA,Málaga,105,"0,059",56,"0,031",.,.
+Pereyra,PEREYRA,Murcia,44,"0,028",38,"0,024",.,.
+Pereyra,PEREYRA,Navarra,30,"0,044",20,"0,029",.,.
+Pereyra,PEREYRA,Ourense,7,"0,023",.,.,.,.
+Pereyra,PEREYRA,"Palmas, Las",64,"0,055",56,"0,048",.,.
+Pereyra,PEREYRA,Pontevedra,38,"0,040",28,"0,030",.,.
+Pereyra,PEREYRA,"Rioja, La",16,"0,049",11,"0,034",.,.
+Pereyra,PEREYRA,Santa Cruz de Tenerife,127,"0,117",115,"0,106",.,.
+Pereyra,PEREYRA,Sevilla,83,"0,042",58,"0,029",.,.
+Pereyra,PEREYRA,Tarragona,44,"0,050",43,"0,049",.,.
+Pereyra,PEREYRA,Toledo,12,"0,016",10,"0,013",.,.
+Pereyra,PEREYRA,Valencia/València,114,"0,041",90,"0,033",.,.
+Pereyra,PEREYRA,Zaragoza,18,"0,018",14,"0,014",.,.
+Romano,ROMANO,Albacete,9,"0,023",.,.,.,.
+Romano,ROMANO,Alicante/Alacant,98,"0,048",62,"0,030",.,.
+Romano,ROMANO,Almería,18,"0,023",8,"0,010",.,.
+Romano,ROMANO,Araba/Álava,37,"0,108",18,"0,053",.,.
+Romano,ROMANO,Asturias,162,"0,160",134,"0,132",5,"0,005"
+Romano,ROMANO,Ávila,11,"0,068",28,"0,174",.,.
+Romano,ROMANO,Badajoz,179,"0,269",130,"0,195",.,.
+Romano,ROMANO,"Balears, Illes",153,"0,122",68,"0,054",.,.
+Romano,ROMANO,Barcelona,547,"0,092",332,"0,056",.,.
+Romano,ROMANO,Bizkaia,76,"0,065",66,"0,057",.,.
+Romano,ROMANO,Burgos,11,"0,030",13,"0,036",.,.
+Romano,ROMANO,Cáceres,21,"0,054",15,"0,039",.,.
+Romano,ROMANO,Cádiz,253,"0,201",254,"0,201",.,.
+Romano,ROMANO,Cantabria,192,"0,323",149,"0,251",.,.
+Romano,ROMANO,Castellón/Castelló,24,"0,038",24,"0,038",.,.
+Romano,ROMANO,Ciudad Real,34,"0,069",37,"0,075",.,.
+Romano,ROMANO,Córdoba,9,"0,012",9,"0,012",.,.
+Romano,ROMANO,"Coruña, A",106,"0,093",92,"0,081",.,.
+Romano,ROMANO,Gipuzkoa,63,"0,086",54,"0,074",.,.
+Romano,ROMANO,Girona,47,"0,057",36,"0,043",.,.
+Romano,ROMANO,Granada,38,"0,040",35,"0,037",.,.
+Romano,ROMANO,Guadalajara,13,"0,045",10,"0,035",.,.
+Romano,ROMANO,Huelva,15,"0,028",12,"0,022",.,.
+Romano,ROMANO,Huesca,.,.,8,"0,035",.,.
+Romano,ROMANO,Jaén,.,.,7,"0,011",.,.
+Romano,ROMANO,León,9,"0,020",17,"0,038",.,.
+Romano,ROMANO,Lleida,6,"0,013",9,"0,020",.,.
+Romano,ROMANO,Madrid,600,"0,084",558,"0,078",.,.
+Romano,ROMANO,Málaga,117,"0,065",74,"0,041",.,.
+Romano,ROMANO,Murcia,14,"0,009",17,"0,011",.,.
+Romano,ROMANO,Navarra,204,"0,298",189,"0,276",.,.
+Romano,ROMANO,Ourense,17,"0,056",18,"0,059",.,.
+Romano,ROMANO,Palencia,8,"0,050",.,.,.,.
+Romano,ROMANO,"Palmas, Las",286,"0,244",280,"0,239",.,.
+Romano,ROMANO,Pontevedra,40,"0,042",45,"0,047",.,.
+Romano,ROMANO,"Rioja, La",47,"0,144",43,"0,132",.,.
+Romano,ROMANO,Salamanca,10,"0,030",9,"0,027",.,.
+Romano,ROMANO,Santa Cruz de Tenerife,74,"0,068",26,"0,024",.,.
+Romano,ROMANO,Segovia,103,"0,651",85,"0,537",.,.
+Romano,ROMANO,Sevilla,344,"0,174",316,"0,160",.,.
+Romano,ROMANO,Soria,25,"0,277",7,"0,078",.,.
+Romano,ROMANO,Tarragona,52,"0,059",61,"0,070",.,.
+Romano,ROMANO,Teruel,6,"0,044",.,.,.,.
+Romano,ROMANO,Toledo,56,"0,074",44,"0,058",.,.
+Romano,ROMANO,Valencia/València,94,"0,034",103,"0,037",.,.
+Romano,ROMANO,Valladolid,15,"0,028",8,"0,015",.,.
+Romano,ROMANO,Zamora,6,"0,036",.,.,.,.
+Romano,ROMANO,Zaragoza,101,"0,101",102,"0,102",.,.
+Romano,ROMANO,Ceuta,5,"0,060",5,"0,060",.,.
+Romano,ROMANO,Melilla,6,"0,069",.,.,.,.
+Bianchi,BIANCHI,Alicante/Alacant,41,"0,020",16,"0,008",.,.
+Bianchi,BIANCHI,Almería,8,"0,010",11,"0,014",.,.
+Bianchi,BIANCHI,Asturias,6,"0,006",.,.,.,.
+Bianchi,BIANCHI,"Balears, Illes",65,"0,052",23,"0,018",.,.
+Bianchi,BIANCHI,Barcelona,192,"0,032",65,"0,011",.,.
+Bianchi,BIANCHI,Bizkaia,8,"0,007",.,.,.,.
+Bianchi,BIANCHI,Cádiz,88,"0,070",64,"0,051",.,.
+Bianchi,BIANCHI,Cantabria,7,"0,012",.,.,.,.
+Bianchi,BIANCHI,Castellón/Castelló,9,"0,014",5,"0,008",.,.
+Bianchi,BIANCHI,"Coruña, A",11,"0,010",5,"0,004",.,.
+Bianchi,BIANCHI,Gipuzkoa,37,"0,050",17,"0,023",.,.
+Bianchi,BIANCHI,Girona,20,"0,024",.,.,.,.
+Bianchi,BIANCHI,Granada,16,"0,017",.,.,.,.
+Bianchi,BIANCHI,Lleida,8,"0,017",.,.,.,.
+Bianchi,BIANCHI,Lugo,5,"0,015",.,.,.,.
+Bianchi,BIANCHI,Madrid,138,"0,019",90,"0,013",.,.
+Bianchi,BIANCHI,Málaga,82,"0,046",48,"0,027",.,.
+Bianchi,BIANCHI,Murcia,10,"0,006",.,.,.,.
+Bianchi,BIANCHI,Navarra,9,"0,013",.,.,.,.
+Bianchi,BIANCHI,"Palmas, Las",55,"0,047",.,.,.,.
+Bianchi,BIANCHI,Pontevedra,24,"0,025",12,"0,013",.,.
+Bianchi,BIANCHI,Santa Cruz de Tenerife,57,"0,052",8,"0,007",.,.
+Bianchi,BIANCHI,Sevilla,20,"0,010",13,"0,007",.,.
+Bianchi,BIANCHI,Tarragona,11,"0,013",11,"0,013",.,.
+Bianchi,BIANCHI,Toledo,6,"0,008",.,.,.,.
+Bianchi,BIANCHI,Valencia/València,46,"0,017",21,"0,008",.,.
+Colombo,COLOMBO,Alicante/Alacant,34,"0,017",12,"0,006",.,.
+Colombo,COLOMBO,Almería,7,"0,009",5,"0,006",.,.
+Colombo,COLOMBO,Asturias,11,"0,011",.,.,.,.
+Colombo,COLOMBO,Badajoz,5,"0,008",10,"0,015",.,.
+Colombo,COLOMBO,"Balears, Illes",55,"0,044",18,"0,014",.,.
+Colombo,COLOMBO,Barcelona,176,"0,030",99,"0,017",.,.
+Colombo,COLOMBO,Bizkaia,5,"0,004",6,"0,005",.,.
+Colombo,COLOMBO,Cáceres,49,"0,126",44,"0,113",.,.
+Colombo,COLOMBO,Cádiz,48,"0,038",25,"0,020",.,.
+Colombo,COLOMBO,Castellón/Castelló,9,"0,014",.,.,.,.
+Colombo,COLOMBO,"Coruña, A",11,"0,010",15,"0,013",.,.
+Colombo,COLOMBO,Gipuzkoa,19,"0,026",12,"0,016",.,.
+Colombo,COLOMBO,Girona,7,"0,008",.,.,.,.
+Colombo,COLOMBO,Granada,23,"0,024",.,.,.,.
+Colombo,COLOMBO,Huelva,7,"0,013",11,"0,020",.,.
+Colombo,COLOMBO,Huesca,5,"0,022",.,.,.,.
+Colombo,COLOMBO,Lleida,6,"0,013",.,.,.,.
+Colombo,COLOMBO,Madrid,162,"0,023",96,"0,013",.,.
+Colombo,COLOMBO,Málaga,51,"0,028",10,"0,006",.,.
+Colombo,COLOMBO,Murcia,6,"0,004",.,.,.,.
+Colombo,COLOMBO,"Palmas, Las",48,"0,041",5,"0,004",.,.
+Colombo,COLOMBO,Pontevedra,17,"0,018",9,"0,009",.,.
+Colombo,COLOMBO,Salamanca,.,.,6,"0,018",.,.
+Colombo,COLOMBO,Santa Cruz de Tenerife,33,"0,030",12,"0,011",.,.
+Colombo,COLOMBO,Sevilla,14,"0,007",13,"0,007",.,.
+Colombo,COLOMBO,Tarragona,28,"0,032",12,"0,014",.,.
+Colombo,COLOMBO,Valencia/València,61,"0,022",24,"0,009",.,.
+Colombo,COLOMBO,Zaragoza,6,"0,006",7,"0,007",.,.
+Esposito,ESPOSITO,Alicante/Alacant,63,"0,031",22,"0,011",.,.
+Esposito,ESPOSITO,Almería,6,"0,008",.,.,.,.
+Esposito,ESPOSITO,Asturias,6,"0,006",9,"0,009",.,.
+Esposito,ESPOSITO,"Balears, Illes",86,"0,069",14,"0,011",.,.
+Esposito,ESPOSITO,Barcelona,190,"0,032",45,"0,008",.,.
+Esposito,ESPOSITO,Bizkaia,.,.,8,"0,007",.,.
+Esposito,ESPOSITO,Cádiz,16,"0,013",7,"0,006",.,.
+Esposito,ESPOSITO,Cantabria,5,"0,008",.,.,.,.
+Esposito,ESPOSITO,"Coruña, A",9,"0,008",7,"0,006",.,.
+Esposito,ESPOSITO,Gipuzkoa,5,"0,007",.,.,.,.
+Esposito,ESPOSITO,Girona,9,"0,011",5,"0,006",.,.
+Esposito,ESPOSITO,Granada,11,"0,012",8,"0,008",.,.
+Esposito,ESPOSITO,Madrid,108,"0,015",52,"0,007",.,.
+Esposito,ESPOSITO,Málaga,71,"0,040",9,"0,005",.,.
+Esposito,ESPOSITO,"Palmas, Las",42,"0,036",5,"0,004",.,.
+Esposito,ESPOSITO,Pontevedra,14,"0,015",11,"0,012",.,.
+Esposito,ESPOSITO,Santa Cruz de Tenerife,106,"0,097",17,"0,016",.,.
+Esposito,ESPOSITO,Sevilla,24,"0,012",5,"0,003",.,.
+Esposito,ESPOSITO,Tarragona,10,"0,011",.,.,.,.
+Esposito,ESPOSITO,Valencia/València,66,"0,024",20,"0,007",.,.
+Ferrari,FERRARI,Alicante/Alacant,57,"0,028",24,"0,012",.,.
+Ferrari,FERRARI,Almería,9,"0,012",.,.,.,.
+Ferrari,FERRARI,Asturias,8,"0,008",.,.,.,.
+Ferrari,FERRARI,"Balears, Illes",125,"0,100",48,"0,038",.,.
+Ferrari,FERRARI,Barcelona,285,"0,048",122,"0,020",.,.
+Ferrari,FERRARI,Bizkaia,10,"0,009",.,.,.,.
+Ferrari,FERRARI,Burgos,6,"0,017",.,.,.,.
+Ferrari,FERRARI,Cádiz,44,"0,035",38,"0,030",.,.
+Ferrari,FERRARI,Cantabria,15,"0,025",12,"0,020",.,.
+Ferrari,FERRARI,Castellón/Castelló,29,"0,046",.,.,.,.
+Ferrari,FERRARI,Ciudad Real,8,"0,016",6,"0,012",.,.
+Ferrari,FERRARI,Córdoba,23,"0,030",12,"0,016",.,.
+Ferrari,FERRARI,"Coruña, A",20,"0,018",7,"0,006",.,.
+Ferrari,FERRARI,Gipuzkoa,6,"0,008",6,"0,008",.,.
+Ferrari,FERRARI,Girona,27,"0,033",15,"0,018",.,.
+Ferrari,FERRARI,Granada,9,"0,010",.,.,.,.
+Ferrari,FERRARI,Guadalajara,6,"0,021",9,"0,031",.,.
+Ferrari,FERRARI,Madrid,274,"0,039",169,"0,024",.,.
+Ferrari,FERRARI,Málaga,80,"0,045",28,"0,016",.,.
+Ferrari,FERRARI,Murcia,30,"0,019",11,"0,007",.,.
+Ferrari,FERRARI,Navarra,9,"0,013",6,"0,009",.,.
+Ferrari,FERRARI,"Palmas, Las",69,"0,059",20,"0,017",.,.
+Ferrari,FERRARI,Pontevedra,30,"0,032",19,"0,020",.,.
+Ferrari,FERRARI,"Rioja, La",7,"0,021",.,.,.,.
+Ferrari,FERRARI,Santa Cruz de Tenerife,75,"0,069",14,"0,013",.,.
+Ferrari,FERRARI,Sevilla,119,"0,060",97,"0,049",.,.
+Ferrari,FERRARI,Tarragona,17,"0,019",18,"0,021",.,.
+Ferrari,FERRARI,Toledo,8,"0,011",6,"0,008",.,.
+Ferrari,FERRARI,Valencia/València,82,"0,030",31,"0,011",.,.
+Ferrari,FERRARI,Valladolid,10,"0,019",6,"0,011",.,.
+Ferrari,FERRARI,Zaragoza,.,.,6,"0,006",.,.
+Ferreyra,FERREYRA,Albacete,6,"0,015",.,.,.,.
+Ferreyra,FERREYRA,Alicante/Alacant,58,"0,029",34,"0,017",.,.
+Ferreyra,FERREYRA,Almería,12,"0,016",15,"0,019",.,.
+Ferreyra,FERREYRA,Asturias,16,"0,016",17,"0,017",.,.
+Ferreyra,FERREYRA,"Balears, Illes",106,"0,085",54,"0,043",.,.
+Ferreyra,FERREYRA,Barcelona,182,"0,031",127,"0,021",.,.
+Ferreyra,FERREYRA,Bizkaia,8,"0,007",.,.,.,.
+Ferreyra,FERREYRA,Burgos,10,"0,028",.,.,.,.
+Ferreyra,FERREYRA,Cádiz,17,"0,013",6,"0,005",.,.
+Ferreyra,FERREYRA,Cantabria,18,"0,030",.,.,.,.
+Ferreyra,FERREYRA,Castellón/Castelló,12,"0,019",9,"0,014",.,.
+Ferreyra,FERREYRA,Ciudad Real,6,"0,012",.,.,.,.
+Ferreyra,FERREYRA,"Coruña, A",21,"0,018",22,"0,019",.,.
+Ferreyra,FERREYRA,Gipuzkoa,.,.,5,"0,007",.,.
+Ferreyra,FERREYRA,Girona,29,"0,035",22,"0,026",.,.
+Ferreyra,FERREYRA,Granada,14,"0,015",.,.,.,.
+Ferreyra,FERREYRA,Huelva,6,"0,011",.,.,.,.
+Ferreyra,FERREYRA,Huesca,6,"0,026",.,.,.,.
+Ferreyra,FERREYRA,Madrid,170,"0,024",108,"0,015",.,.
+Ferreyra,FERREYRA,Málaga,88,"0,049",38,"0,021",.,.
+Ferreyra,FERREYRA,Murcia,.,.,10,"0,006",.,.
+Ferreyra,FERREYRA,Navarra,.,.,7,"0,010",.,.
+Ferreyra,FERREYRA,Ourense,7,"0,023",.,.,.,.
+Ferreyra,FERREYRA,"Palmas, Las",25,"0,021",25,"0,021",.,.
+Ferreyra,FERREYRA,Pontevedra,14,"0,015",22,"0,023",.,.
+Ferreyra,FERREYRA,Santa Cruz de Tenerife,22,"0,020",10,"0,009",.,.
+Ferreyra,FERREYRA,Sevilla,13,"0,007",10,"0,005",.,.
+Ferreyra,FERREYRA,Soria,7,"0,078",.,.,.,.
+Ferreyra,FERREYRA,Tarragona,19,"0,022",12,"0,014",.,.
+Ferreyra,FERREYRA,Toledo,6,"0,008",13,"0,017",.,.
+Ferreyra,FERREYRA,Valencia/València,74,"0,027",37,"0,013",.,.
+Ferreyra,FERREYRA,Zaragoza,9,"0,009",9,"0,009",.,.
+Rossi,ROSSI,Albacete,9,"0,023",.,.,.,.
+Rossi,ROSSI,Alicante/Alacant,107,"0,053",53,"0,026",.,.
+Rossi,ROSSI,Almería,12,"0,016",8,"0,010",.,.
+Rossi,ROSSI,Asturias,18,"0,018",11,"0,011",.,.
+Rossi,ROSSI,"Balears, Illes",131,"0,105",49,"0,039",.,.
+Rossi,ROSSI,Barcelona,437,"0,073",220,"0,037",.,.
+Rossi,ROSSI,Bizkaia,17,"0,015",16,"0,014",.,.
+Rossi,ROSSI,Burgos,5,"0,014",.,.,.,.
+Rossi,ROSSI,Cádiz,201,"0,159",164,"0,130",.,.
+Rossi,ROSSI,Cantabria,14,"0,024",11,"0,019",.,.
+Rossi,ROSSI,Castellón/Castelló,21,"0,033",.,.,.,.
+Rossi,ROSSI,Ciudad Real,14,"0,028",.,.,.,.
+Rossi,ROSSI,Córdoba,74,"0,096",62,"0,080",.,.
+Rossi,ROSSI,"Coruña, A",14,"0,012",21,"0,018",.,.
+Rossi,ROSSI,Gipuzkoa,19,"0,026",14,"0,019",.,.
+Rossi,ROSSI,Girona,32,"0,039",15,"0,018",.,.
+Rossi,ROSSI,Granada,29,"0,031",.,.,.,.
+Rossi,ROSSI,Guadalajara,.,.,11,"0,038",.,.
+Rossi,ROSSI,Huelva,21,"0,039",11,"0,020",.,.
+Rossi,ROSSI,Huesca,5,"0,022",.,.,.,.
+Rossi,ROSSI,León,15,"0,033",.,.,.,.
+Rossi,ROSSI,Lleida,23,"0,050",5,"0,011",.,.
+Rossi,ROSSI,Lugo,8,"0,025",.,.,.,.
+Rossi,ROSSI,Madrid,394,"0,055",222,"0,031",.,.
+Rossi,ROSSI,Málaga,144,"0,080",70,"0,039",.,.
+Rossi,ROSSI,Murcia,17,"0,011",8,"0,005",.,.
+Rossi,ROSSI,Navarra,9,"0,013",12,"0,018",.,.
+Rossi,ROSSI,Ourense,.,.,7,"0,023",.,.
+Rossi,ROSSI,Palencia,15,"0,095",11,"0,069",.,.
+Rossi,ROSSI,"Palmas, Las",118,"0,101",20,"0,017",.,.
+Rossi,ROSSI,Pontevedra,17,"0,018",13,"0,014",.,.
+Rossi,ROSSI,"Rioja, La",.,.,7,"0,021",.,.
+Rossi,ROSSI,Salamanca,7,"0,021",6,"0,018",.,.
+Rossi,ROSSI,Santa Cruz de Tenerife,111,"0,102",28,"0,026",.,.
+Rossi,ROSSI,Segovia,6,"0,038",.,.,.,.
+Rossi,ROSSI,Sevilla,55,"0,028",44,"0,022",.,.
+Rossi,ROSSI,Tarragona,33,"0,038",35,"0,040",.,.
+Rossi,ROSSI,Toledo,17,"0,023",14,"0,019",.,.
+Rossi,ROSSI,Valencia/València,148,"0,054",110,"0,040",.,.
+Rossi,ROSSI,Zamora,.,.,6,"0,036",.,.
+Rossi,ROSSI,Zaragoza,33,"0,033",25,"0,025",.,.
+Russo,RUSSO,Alicante/Alacant,75,"0,037",19,"0,009",.,.
+Russo,RUSSO,Almería,8,"0,010",.,.,.,.
+Russo,RUSSO,Asturias,13,"0,013",9,"0,009",.,.
+Russo,RUSSO,Badajoz,5,"0,008",7,"0,011",.,.
+Russo,RUSSO,"Balears, Illes",122,"0,098",38,"0,030",.,.
+Russo,RUSSO,Barcelona,265,"0,044",87,"0,015",.,.
+Russo,RUSSO,Bizkaia,17,"0,015",9,"0,008",.,.
+Russo,RUSSO,Cádiz,34,"0,027",12,"0,010",.,.
+Russo,RUSSO,Castellón/Castelló,17,"0,027",8,"0,013",.,.
+Russo,RUSSO,"Coruña, A",9,"0,008",10,"0,009",.,.
+Russo,RUSSO,Gipuzkoa,5,"0,007",5,"0,007",.,.
+Russo,RUSSO,Girona,11,"0,013",9,"0,011",.,.
+Russo,RUSSO,Granada,19,"0,020",5,"0,005",.,.
+Russo,RUSSO,Huesca,8,"0,035",5,"0,022",.,.
+Russo,RUSSO,Lugo,.,.,6,"0,018",.,.
+Russo,RUSSO,Madrid,234,"0,033",98,"0,014",.,.
+Russo,RUSSO,Málaga,98,"0,055",29,"0,016",.,.
+Russo,RUSSO,Murcia,23,"0,014",10,"0,006",.,.
+Russo,RUSSO,Navarra,5,"0,007",.,.,.,.
+Russo,RUSSO,"Palmas, Las",90,"0,077",14,"0,012",.,.
+Russo,RUSSO,Pontevedra,17,"0,018",10,"0,011",.,.
+Russo,RUSSO,"Rioja, La",.,.,12,"0,037",.,.
+Russo,RUSSO,Salamanca,.,.,6,"0,018",.,.
+Russo,RUSSO,Santa Cruz de Tenerife,154,"0,142",27,"0,025",.,.
+Russo,RUSSO,Sevilla,32,"0,016",16,"0,008",.,.
+Russo,RUSSO,Tarragona,32,"0,037",8,"0,009",.,.
+Russo,RUSSO,Toledo,7,"0,009",.,.,.,.
+Russo,RUSSO,Valencia/València,115,"0,042",26,"0,009",.,.
+Russo,RUSSO,Valladolid,5,"0,009",.,.,.,.
+Russo,RUSSO,Zaragoza,15,"0,015",6,"0,006",.,.
+Schmidt,SCHMIDT,Alicante/Alacant,135,"0,066",29,"0,014",.,.
+Schmidt,SCHMIDT,Almería,22,"0,029",.,.,.,.
+Schmidt,SCHMIDT,Asturias,15,"0,015",.,.,.,.
+Schmidt,SCHMIDT,"Balears, Illes",181,"0,145",52,"0,042",.,.
+Schmidt,SCHMIDT,Barcelona,231,"0,039",90,"0,015",.,.
+Schmidt,SCHMIDT,Bizkaia,9,"0,008",12,"0,010",.,.
+Schmidt,SCHMIDT,Cádiz,31,"0,025",.,.,.,.
+Schmidt,SCHMIDT,Cantabria,5,"0,008",7,"0,012",.,.
+Schmidt,SCHMIDT,Castellón/Castelló,12,"0,019",5,"0,008",.,.
+Schmidt,SCHMIDT,"Coruña, A",16,"0,014",12,"0,011",.,.
+Schmidt,SCHMIDT,Gipuzkoa,8,"0,011",.,.,.,.
+Schmidt,SCHMIDT,Girona,33,"0,040",12,"0,014",.,.
+Schmidt,SCHMIDT,Granada,16,"0,017",.,.,.,.
+Schmidt,SCHMIDT,Huelva,7,"0,013",.,.,.,.
+Schmidt,SCHMIDT,Madrid,130,"0,018",81,"0,011",.,.
+Schmidt,SCHMIDT,Málaga,94,"0,052",30,"0,017",.,.
+Schmidt,SCHMIDT,Murcia,36,"0,023",8,"0,005",.,.
+Schmidt,SCHMIDT,Navarra,5,"0,007",.,.,.,.
+Schmidt,SCHMIDT,"Palmas, Las",77,"0,066",30,"0,026",.,.
+Schmidt,SCHMIDT,Pontevedra,9,"0,009",5,"0,005",.,.
+Schmidt,SCHMIDT,Salamanca,6,"0,018",.,.,.,.
+Schmidt,SCHMIDT,Santa Cruz de Tenerife,148,"0,136",34,"0,031",.,.
+Schmidt,SCHMIDT,Sevilla,15,"0,008",13,"0,007",.,.
+Schmidt,SCHMIDT,Tarragona,34,"0,039",19,"0,022",.,.
+Schmidt,SCHMIDT,Valencia/València,46,"0,017",46,"0,017",.,.
+Schmidt,SCHMIDT,Zaragoza,7,"0,007",.,.,.,.
+Acosta,ACOSTA,Albacete,110,"0,282",122,"0,312",.,.
+Acosta,ACOSTA,Alicante/Alacant,732,"0,360",712,"0,350",8,"0,004"
+Acosta,ACOSTA,Almería,490,"0,636",568,"0,737",5,"0,006"
+Acosta,ACOSTA,Araba/Álava,177,"0,518",156,"0,456",.,.
+Acosta,ACOSTA,Asturias,255,"0,251",300,"0,296",.,.
+Acosta,ACOSTA,Ávila,73,"0,454",89,"0,554",.,.
+Acosta,ACOSTA,Badajoz,380,"0,571",464,"0,698",7,"0,011"
+Acosta,ACOSTA,"Balears, Illes",790,"0,632",712,"0,570",12,"0,010"
+Acosta,ACOSTA,Barcelona,3.403,"0,571",3.334,"0,559",47,"0,008"
+Acosta,ACOSTA,Bizkaia,440,"0,377",439,"0,376",.,.
+Acosta,ACOSTA,Burgos,104,"0,287",111,"0,306",.,.
+Acosta,ACOSTA,Cáceres,313,"0,806",279,"0,719",.,.
+Acosta,ACOSTA,Cádiz,1.382,"1,096",1.382,"1,096",6,"0,005"
+Acosta,ACOSTA,Cantabria,155,"0,261",189,"0,318",.,.
+Acosta,ACOSTA,Castellón/Castelló,173,"0,276",209,"0,333",.,.
+Acosta,ACOSTA,Ciudad Real,214,"0,432",224,"0,453",.,.
+Acosta,ACOSTA,Córdoba,294,"0,380",337,"0,436",.,.
+Acosta,ACOSTA,"Coruña, A",338,"0,298",327,"0,288",.,.
+Acosta,ACOSTA,Cuenca,35,"0,175",48,"0,240",.,.
+Acosta,ACOSTA,Gipuzkoa,347,"0,473",331,"0,451",8,"0,011"
+Acosta,ACOSTA,Girona,316,"0,381",335,"0,403",.,.
+Acosta,ACOSTA,Granada,543,"0,574",510,"0,539",11,"0,012"
+Acosta,ACOSTA,Guadalajara,132,"0,462",112,"0,392",.,.
+Acosta,ACOSTA,Huelva,957,"1,776",936,"1,737",11,"0,020"
+Acosta,ACOSTA,Huesca,62,"0,269",76,"0,330",.,.
+Acosta,ACOSTA,Jaén,243,"0,393",218,"0,353",.,.
+Acosta,ACOSTA,León,112,"0,250",82,"0,183",.,.
+Acosta,ACOSTA,Lleida,196,"0,428",163,"0,356",.,.
+Acosta,ACOSTA,Lugo,64,"0,196",68,"0,209",.,.
+Acosta,ACOSTA,Madrid,4.852,"0,682",4.808,"0,676",66,"0,009"
+Acosta,ACOSTA,Málaga,1.100,"0,614",1.076,"0,601",10,"0,006"
+Acosta,ACOSTA,Murcia,1.311,"0,826",1.313,"0,827",36,"0,023"
+Acosta,ACOSTA,Navarra,269,"0,393",295,"0,431",.,.
+Acosta,ACOSTA,Ourense,65,"0,213",67,"0,219",.,.
+Acosta,ACOSTA,Palencia,74,"0,466",74,"0,466",.,.
+Acosta,ACOSTA,"Palmas, Las",3.414,"2,914",3.364,"2,871",35,"0,030"
+Acosta,ACOSTA,Pontevedra,285,"0,301",317,"0,334",.,.
+Acosta,ACOSTA,"Rioja, La",105,"0,321",101,"0,309",.,.
+Acosta,ACOSTA,Salamanca,225,"0,685",237,"0,722",.,.
+Acosta,ACOSTA,Santa Cruz de Tenerife,6.325,"5,817",6.377,"5,865",229,"0,211"
+Acosta,ACOSTA,Segovia,70,"0,442",67,"0,423",.,.
+Acosta,ACOSTA,Sevilla,2.392,"1,210",2.346,"1,186",31,"0,016"
+Acosta,ACOSTA,Soria,43,"0,477",43,"0,477",.,.
+Acosta,ACOSTA,Tarragona,403,"0,460",385,"0,440",8,"0,009"
+Acosta,ACOSTA,Teruel,29,"0,213",31,"0,228",.,.
+Acosta,ACOSTA,Toledo,353,"0,467",362,"0,479",5,"0,007"
+Acosta,ACOSTA,Valencia/València,984,"0,356",965,"0,349",10,"0,004"
+Acosta,ACOSTA,Valladolid,157,"0,297",138,"0,261",.,.
+Acosta,ACOSTA,Zamora,51,"0,308",40,"0,242",.,.
+Acosta,ACOSTA,Zaragoza,287,"0,287",268,"0,268",.,.
+Acosta,ACOSTA,Ceuta,22,"0,263",36,"0,431",.,.
+Acosta,ACOSTA,Melilla,10,"0,115",18,"0,207",.,.
+Aguirre,AGUIRRE,Albacete,58,"0,148",61,"0,156",.,.
+Aguirre,AGUIRRE,Alicante/Alacant,693,"0,341",580,"0,285",.,.
+Aguirre,AGUIRRE,Almería,306,"0,397",295,"0,383",.,.
+Aguirre,AGUIRRE,Araba/Álava,898,"2,626",762,"2,228",.,.
+Aguirre,AGUIRRE,Asturias,412,"0,406",404,"0,398",5,"0,005"
+Aguirre,AGUIRRE,Ávila,43,"0,268",43,"0,268",.,.
+Aguirre,AGUIRRE,Badajoz,75,"0,113",73,"0,110",.,.
+Aguirre,AGUIRRE,"Balears, Illes",420,"0,336",412,"0,330",.,.
+Aguirre,AGUIRRE,Barcelona,1.966,"0,330",1.762,"0,296",16,"0,003"
+Aguirre,AGUIRRE,Bizkaia,2.921,"2,502",2.943,"2,521",39,"0,033"
+Aguirre,AGUIRRE,Burgos,137,"0,378",134,"0,369",.,.
+Aguirre,AGUIRRE,Cáceres,43,"0,111",36,"0,093",.,.
+Aguirre,AGUIRRE,Cádiz,320,"0,254",340,"0,270",.,.
+Aguirre,AGUIRRE,Cantabria,576,"0,970",523,"0,881",.,.
+Aguirre,AGUIRRE,Castellón/Castelló,134,"0,214",148,"0,236",.,.
+Aguirre,AGUIRRE,Ciudad Real,229,"0,463",326,"0,659",.,.
+Aguirre,AGUIRRE,Córdoba,109,"0,141",115,"0,149",.,.
+Aguirre,AGUIRRE,"Coruña, A",141,"0,124",166,"0,146",.,.
+Aguirre,AGUIRRE,Cuenca,53,"0,265",50,"0,250",.,.
+Aguirre,AGUIRRE,Gipuzkoa,2.512,"3,426",2.604,"3,552",23,"0,031"
+Aguirre,AGUIRRE,Girona,199,"0,240",168,"0,202",.,.
+Aguirre,AGUIRRE,Granada,192,"0,203",167,"0,177",.,.
+Aguirre,AGUIRRE,Guadalajara,167,"0,584",149,"0,521",.,.
+Aguirre,AGUIRRE,Huelva,88,"0,163",108,"0,200",.,.
+Aguirre,AGUIRRE,Huesca,58,"0,252",87,"0,378",.,.
+Aguirre,AGUIRRE,Jaén,146,"0,236",121,"0,196",.,.
+Aguirre,AGUIRRE,León,72,"0,161",53,"0,118",.,.
+Aguirre,AGUIRRE,Lleida,85,"0,185",93,"0,203",.,.
+Aguirre,AGUIRRE,Lugo,58,"0,178",69,"0,212",.,.
+Aguirre,AGUIRRE,Madrid,4.147,"0,583",4.030,"0,566",40,"0,006"
+Aguirre,AGUIRRE,Málaga,433,"0,242",382,"0,213",.,.
+Aguirre,AGUIRRE,Murcia,458,"0,289",457,"0,288",5,"0,003"
+Aguirre,AGUIRRE,Navarra,1.570,"2,296",1.412,"2,065",11,"0,016"
+Aguirre,AGUIRRE,Ourense,48,"0,157",57,"0,187",.,.
+Aguirre,AGUIRRE,Palencia,30,"0,189",39,"0,246",.,.
+Aguirre,AGUIRRE,"Palmas, Las",244,"0,208",262,"0,224",.,.
+Aguirre,AGUIRRE,Pontevedra,148,"0,156",125,"0,132",.,.
+Aguirre,AGUIRRE,"Rioja, La",354,"1,083",319,"0,976",.,.
+Aguirre,AGUIRRE,Salamanca,32,"0,097",54,"0,164",.,.
+Aguirre,AGUIRRE,Santa Cruz de Tenerife,197,"0,181",165,"0,152",.,.
+Aguirre,AGUIRRE,Segovia,50,"0,316",34,"0,215",.,.
+Aguirre,AGUIRRE,Sevilla,378,"0,191",380,"0,192",.,.
+Aguirre,AGUIRRE,Soria,35,"0,388",30,"0,333",.,.
+Aguirre,AGUIRRE,Tarragona,261,"0,298",238,"0,272",.,.
+Aguirre,AGUIRRE,Teruel,63,"0,463",67,"0,492",.,.
+Aguirre,AGUIRRE,Toledo,256,"0,339",270,"0,358",.,.
+Aguirre,AGUIRRE,Valencia/València,844,"0,305",815,"0,295",7,"0,003"
+Aguirre,AGUIRRE,Valladolid,100,"0,189",87,"0,165",.,.
+Aguirre,AGUIRRE,Zamora,35,"0,211",32,"0,193",.,.
+Aguirre,AGUIRRE,Zaragoza,381,"0,382",401,"0,402",.,.
+Aguirre,AGUIRRE,Ceuta,9,"0,108",.,.,.,.
+Aguirre,AGUIRRE,Melilla,16,"0,184",16,"0,184",.,.
+Flores,FLORES,Albacete,813,"2,081",919,"2,352",10,"0,026"
+Flores,FLORES,Alicante/Alacant,2.231,"1,097",2.069,"1,017",33,"0,016"
+Flores,FLORES,Almería,1.846,"2,396",1.936,"2,512",122,"0,158"
+Flores,FLORES,Araba/Álava,349,"1,021",436,"1,275",5,"0,015"
+Flores,FLORES,Asturias,474,"0,467",462,"0,455",8,"0,008"
+Flores,FLORES,Ávila,178,"1,107",206,"1,282",.,.
+Flores,FLORES,Badajoz,2.770,"4,164",2.809,"4,223",43,"0,065"
+Flores,FLORES,"Balears, Illes",1.402,"1,122",1.492,"1,194",37,"0,030"
+Flores,FLORES,Barcelona,12.690,"2,129",13.139,"2,205",539,"0,090"
+Flores,FLORES,Bizkaia,1.552,"1,330",1.516,"1,299",28,"0,024"
+Flores,FLORES,Burgos,232,"0,640",201,"0,554",8,"0,022"
+Flores,FLORES,Cáceres,1.264,"3,256",1.279,"3,295",38,"0,098"
+Flores,FLORES,Cádiz,3.583,"2,840",3.501,"2,775",170,"0,135"
+Flores,FLORES,Cantabria,390,"0,657",385,"0,649",.,.
+Flores,FLORES,Castellón/Castelló,816,"1,300",804,"1,281",5,"0,008"
+Flores,FLORES,Ciudad Real,1.263,"2,552",1.174,"2,372",13,"0,026"
+Flores,FLORES,Córdoba,2.261,"2,924",2.298,"2,972",39,"0,050"
+Flores,FLORES,"Coruña, A",495,"0,436",447,"0,394",9,"0,008"
+Flores,FLORES,Cuenca,173,"0,866",179,"0,896",.,.
+Flores,FLORES,Gipuzkoa,976,"1,331",1.133,"1,545",27,"0,037"
+Flores,FLORES,Girona,1.471,"1,771",1.612,"1,941",47,"0,057"
+Flores,FLORES,Granada,1.129,"1,194",1.159,"1,225",10,"0,011"
+Flores,FLORES,Guadalajara,451,"1,578",452,"1,581",.,.
+Flores,FLORES,Huelva,1.713,"3,179",1.583,"2,938",14,"0,026"
+Flores,FLORES,Huesca,163,"0,708",190,"0,826",.,.
+Flores,FLORES,Jaén,1.697,"2,745",1.564,"2,530",143,"0,231"
+Flores,FLORES,León,162,"0,362",169,"0,377",10,"0,022"
+Flores,FLORES,Lleida,350,"0,764",381,"0,831",7,"0,015"
+Flores,FLORES,Lugo,305,"0,936",295,"0,905",.,.
+Flores,FLORES,Madrid,13.838,"1,945",13.815,"1,942",230,"0,032"
+Flores,FLORES,Málaga,2.955,"1,650",3.049,"1,702",56,"0,031"
+Flores,FLORES,Murcia,2.221,"1,400",2.142,"1,350",33,"0,021"
+Flores,FLORES,Navarra,782,"1,144",831,"1,215",14,"0,020"
+Flores,FLORES,Ourense,96,"0,314",110,"0,360",.,.
+Flores,FLORES,Palencia,123,"0,775",102,"0,643",.,.
+Flores,FLORES,"Palmas, Las",949,"0,810",1.108,"0,946",13,"0,011"
+Flores,FLORES,Pontevedra,434,"0,458",441,"0,465",5,"0,005"
+Flores,FLORES,"Rioja, La",248,"0,759",266,"0,814",7,"0,021"
+Flores,FLORES,Salamanca,609,"1,854",597,"1,818",13,"0,040"
+Flores,FLORES,Santa Cruz de Tenerife,1.306,"1,201",1.375,"1,265",19,"0,017"
+Flores,FLORES,Segovia,89,"0,562",107,"0,676",.,.
+Flores,FLORES,Sevilla,5.107,"2,582",4.918,"2,487",74,"0,037"
+Flores,FLORES,Soria,122,"1,353",96,"1,065",.,.
+Flores,FLORES,Tarragona,1.054,"1,204",1.059,"1,210",22,"0,025"
+Flores,FLORES,Teruel,69,"0,507",82,"0,603",.,.
+Flores,FLORES,Toledo,1.510,"2,000",1.590,"2,106",11,"0,015"
+Flores,FLORES,Valencia/València,3.364,"1,217",3.475,"1,257",52,"0,019"
+Flores,FLORES,Valladolid,442,"0,836",458,"0,866",7,"0,013"
+Flores,FLORES,Zamora,104,"0,628",71,"0,429",.,.
+Flores,FLORES,Zaragoza,977,"0,979",847,"0,848",21,"0,021"
+Flores,FLORES,Ceuta,48,"0,574",57,"0,682",.,.
+Flores,FLORES,Melilla,69,"0,792",79,"0,907",.,.
+Luna,LUNA,Albacete,47,"0,120",74,"0,189",.,.
+Luna,LUNA,Alicante/Alacant,794,"0,390",783,"0,385",.,.
+Luna,LUNA,Almería,158,"0,205",121,"0,157",.,.
+Luna,LUNA,Araba/Álava,73,"0,213",85,"0,249",.,.
+Luna,LUNA,Asturias,254,"0,250",230,"0,227",.,.
+Luna,LUNA,Ávila,34,"0,212",41,"0,255",.,.
+Luna,LUNA,Badajoz,428,"0,643",490,"0,737",.,.
+Luna,LUNA,"Balears, Illes",544,"0,435",523,"0,418",.,.
+Luna,LUNA,Barcelona,3.871,"0,650",3.776,"0,634",31,"0,005"
+Luna,LUNA,Bizkaia,260,"0,223",266,"0,228",.,.
+Luna,LUNA,Burgos,45,"0,124",70,"0,193",.,.
+Luna,LUNA,Cáceres,149,"0,384",125,"0,322",.,.
+Luna,LUNA,Cádiz,1.457,"1,155",1.475,"1,169",7,"0,006"
+Luna,LUNA,Cantabria,101,"0,170",93,"0,157",.,.
+Luna,LUNA,Castellón/Castelló,227,"0,362",187,"0,298",.,.
+Luna,LUNA,Ciudad Real,465,"0,940",397,"0,802",8,"0,016"
+Luna,LUNA,Córdoba,2.843,"3,677",2.900,"3,751",34,"0,044"
+Luna,LUNA,"Coruña, A",171,"0,151",151,"0,133",.,.
+Luna,LUNA,Cuenca,70,"0,350",96,"0,480",.,.
+Luna,LUNA,Gipuzkoa,191,"0,261",130,"0,177",.,.
+Luna,LUNA,Girona,358,"0,431",366,"0,441",5,"0,006"
+Luna,LUNA,Granada,331,"0,350",309,"0,327",.,.
+Luna,LUNA,Guadalajara,156,"0,546",113,"0,395",.,.
+Luna,LUNA,Huelva,348,"0,646",334,"0,620",.,.
+Luna,LUNA,Huesca,169,"0,735",151,"0,656",.,.
+Luna,LUNA,Jaén,280,"0,453",274,"0,443",.,.
+Luna,LUNA,León,228,"0,509",242,"0,540",5,"0,011"
+Luna,LUNA,Lleida,145,"0,316",146,"0,319",.,.
+Luna,LUNA,Lugo,95,"0,291",69,"0,212",.,.
+Luna,LUNA,Madrid,4.082,"0,574",4.048,"0,569",31,"0,004"
+Luna,LUNA,Málaga,1.627,"0,908",1.529,"0,854",20,"0,011"
+Luna,LUNA,Murcia,775,"0,488",717,"0,452",.,.
+Luna,LUNA,Navarra,239,"0,349",233,"0,341",.,.
+Luna,LUNA,Ourense,28,"0,092",36,"0,118",.,.
+Luna,LUNA,Palencia,29,"0,183",27,"0,170",.,.
+Luna,LUNA,"Palmas, Las",298,"0,254",252,"0,215",.,.
+Luna,LUNA,Pontevedra,257,"0,271",248,"0,262",.,.
+Luna,LUNA,"Rioja, La",43,"0,132",65,"0,199",.,.
+Luna,LUNA,Salamanca,49,"0,149",41,"0,125",.,.
+Luna,LUNA,Santa Cruz de Tenerife,224,"0,206",195,"0,179",.,.
+Luna,LUNA,Segovia,32,"0,202",31,"0,196",.,.
+Luna,LUNA,Sevilla,2.636,"1,333",2.985,"1,509",27,"0,014"
+Luna,LUNA,Soria,12,"0,133",18,"0,200",.,.
+Luna,LUNA,Tarragona,484,"0,553",413,"0,472",.,.
+Luna,LUNA,Teruel,74,"0,544",53,"0,389",.,.
+Luna,LUNA,Toledo,375,"0,497",362,"0,479",.,.
+Luna,LUNA,Valencia/València,1.073,"0,388",1.106,"0,400",.,.
+Luna,LUNA,Valladolid,85,"0,161",78,"0,148",.,.
+Luna,LUNA,Zamora,19,"0,115",21,"0,127",.,.
+Luna,LUNA,Zaragoza,844,"0,845",836,"0,837",10,"0,010"
+Luna,LUNA,Ceuta,23,"0,275",31,"0,371",.,.
+Luna,LUNA,Melilla,38,"0,436",44,"0,505",.,.
+Maldonado,MALDONADO,Albacete,81,"0,207",90,"0,230",.,.
+Maldonado,MALDONADO,Alicante/Alacant,769,"0,378",646,"0,318",14,"0,007"
+Maldonado,MALDONADO,Almería,2.517,"3,266",2.697,"3,500",87,"0,113"
+Maldonado,MALDONADO,Araba/Álava,99,"0,290",75,"0,219",.,.
+Maldonado,MALDONADO,Asturias,192,"0,189",188,"0,185",.,.
+Maldonado,MALDONADO,Ávila,18,"0,112",21,"0,131",.,.
+Maldonado,MALDONADO,Badajoz,453,"0,681",386,"0,580",.,.
+Maldonado,MALDONADO,"Balears, Illes",620,"0,496",602,"0,482",7,"0,006"
+Maldonado,MALDONADO,Barcelona,3.498,"0,587",3.731,"0,626",37,"0,006"
+Maldonado,MALDONADO,Bizkaia,334,"0,286",355,"0,304",.,.
+Maldonado,MALDONADO,Burgos,109,"0,301",112,"0,309",.,.
+Maldonado,MALDONADO,Cáceres,126,"0,325",126,"0,325",.,.
+Maldonado,MALDONADO,Cádiz,473,"0,375",451,"0,358",5,"0,004"
+Maldonado,MALDONADO,Cantabria,131,"0,221",138,"0,232",.,.
+Maldonado,MALDONADO,Castellón/Castelló,135,"0,215",158,"0,252",.,.
+Maldonado,MALDONADO,Ciudad Real,390,"0,788",347,"0,701",5,"0,010"
+Maldonado,MALDONADO,Córdoba,434,"0,561",453,"0,586",.,.
+Maldonado,MALDONADO,"Coruña, A",130,"0,114",127,"0,112",.,.
+Maldonado,MALDONADO,Cuenca,28,"0,140",39,"0,195",.,.
+Maldonado,MALDONADO,Gipuzkoa,187,"0,255",187,"0,255",.,.
+Maldonado,MALDONADO,Girona,315,"0,379",360,"0,434",.,.
+Maldonado,MALDONADO,Granada,3.323,"3,513",3.372,"3,565",77,"0,081"
+Maldonado,MALDONADO,Guadalajara,122,"0,427",114,"0,399",.,.
+Maldonado,MALDONADO,Huelva,262,"0,486",261,"0,484",.,.
+Maldonado,MALDONADO,Huesca,47,"0,204",49,"0,213",.,.
+Maldonado,MALDONADO,Jaén,386,"0,624",419,"0,678",.,.
+Maldonado,MALDONADO,León,44,"0,098",50,"0,112",.,.
+Maldonado,MALDONADO,Lleida,157,"0,343",148,"0,323",.,.
+Maldonado,MALDONADO,Lugo,27,"0,083",29,"0,089",.,.
+Maldonado,MALDONADO,Madrid,4.169,"0,586",4.002,"0,563",50,"0,007"
+Maldonado,MALDONADO,Málaga,2.350,"1,312",2.242,"1,252",40,"0,022"
+Maldonado,MALDONADO,Murcia,643,"0,405",649,"0,409",7,"0,004"
+Maldonado,MALDONADO,Navarra,197,"0,288",203,"0,297",.,.
+Maldonado,MALDONADO,Ourense,37,"0,121",48,"0,157",.,.
+Maldonado,MALDONADO,Palencia,68,"0,428",104,"0,655",.,.
+Maldonado,MALDONADO,"Palmas, Las",241,"0,206",244,"0,208",.,.
+Maldonado,MALDONADO,Pontevedra,68,"0,072",74,"0,078",.,.
+Maldonado,MALDONADO,"Rioja, La",45,"0,138",68,"0,208",5,"0,015"
+Maldonado,MALDONADO,Salamanca,140,"0,426",175,"0,533",.,.
+Maldonado,MALDONADO,Santa Cruz de Tenerife,285,"0,262",258,"0,237",7,"0,006"
+Maldonado,MALDONADO,Segovia,23,"0,145",44,"0,278",.,.
+Maldonado,MALDONADO,Sevilla,1.600,"0,809",1.569,"0,793",23,"0,012"
+Maldonado,MALDONADO,Soria,20,"0,222",26,"0,288",.,.
+Maldonado,MALDONADO,Tarragona,349,"0,399",350,"0,400",.,.
+Maldonado,MALDONADO,Teruel,37,"0,272",22,"0,162",.,.
+Maldonado,MALDONADO,Toledo,385,"0,510",405,"0,536",5,"0,007"
+Maldonado,MALDONADO,Valencia/València,1.103,"0,399",945,"0,342",15,"0,005"
+Maldonado,MALDONADO,Valladolid,190,"0,359",152,"0,288",.,.
+Maldonado,MALDONADO,Zamora,32,"0,193",47,"0,284",.,.
+Maldonado,MALDONADO,Zaragoza,323,"0,324",283,"0,283",8,"0,008"
+Maldonado,MALDONADO,Ceuta,32,"0,383",39,"0,467",.,.
+Maldonado,MALDONADO,Melilla,25,"0,287",42,"0,482",.,.
+Mendoza,MENDOZA,Albacete,234,"0,599",262,"0,671",.,.
+Mendoza,MENDOZA,Alicante/Alacant,1.152,"0,566",1.037,"0,510",38,"0,019"
+Mendoza,MENDOZA,Almería,270,"0,350",299,"0,388",.,.
+Mendoza,MENDOZA,Araba/Álava,384,"1,123",349,"1,021",7,"0,020"
+Mendoza,MENDOZA,Asturias,395,"0,389",389,"0,383",.,.
+Mendoza,MENDOZA,Ávila,317,"1,972",190,"1,182",24,"0,149"
+Mendoza,MENDOZA,Badajoz,952,"1,431",941,"1,415",9,"0,014"
+Mendoza,MENDOZA,"Balears, Illes",1.051,"0,841",1.083,"0,867",.,.
+Mendoza,MENDOZA,Barcelona,5.670,"0,951",5.706,"0,957",109,"0,018"
+Mendoza,MENDOZA,Bizkaia,822,"0,704",914,"0,783",7,"0,006"
+Mendoza,MENDOZA,Burgos,244,"0,673",273,"0,753",7,"0,019"
+Mendoza,MENDOZA,Cáceres,282,"0,726",264,"0,680",.,.
+Mendoza,MENDOZA,Cádiz,1.374,"1,089",1.480,"1,173",.,.
+Mendoza,MENDOZA,Cantabria,286,"0,482",322,"0,542",.,.
+Mendoza,MENDOZA,Castellón/Castelló,417,"0,664",429,"0,684",7,"0,011"
+Mendoza,MENDOZA,Ciudad Real,512,"1,035",527,"1,065",12,"0,024"
+Mendoza,MENDOZA,Córdoba,701,"0,907",576,"0,745",.,.
+Mendoza,MENDOZA,"Coruña, A",367,"0,323",398,"0,350",.,.
+Mendoza,MENDOZA,Cuenca,103,"0,515",95,"0,475",.,.
+Mendoza,MENDOZA,Gipuzkoa,535,"0,730",514,"0,701",5,"0,007"
+Mendoza,MENDOZA,Girona,582,"0,701",646,"0,778",17,"0,020"
+Mendoza,MENDOZA,Granada,648,"0,685",650,"0,687",.,.
+Mendoza,MENDOZA,Guadalajara,204,"0,714",243,"0,850",8,"0,028"
+Mendoza,MENDOZA,Huelva,749,"1,390",733,"1,360",6,"0,011"
+Mendoza,MENDOZA,Huesca,169,"0,735",185,"0,804",.,.
+Mendoza,MENDOZA,Jaén,703,"1,137",718,"1,162",28,"0,045"
+Mendoza,MENDOZA,León,282,"0,629",189,"0,422",.,.
+Mendoza,MENDOZA,Lleida,228,"0,498",232,"0,506",.,.
+Mendoza,MENDOZA,Lugo,172,"0,528",150,"0,460",.,.
+Mendoza,MENDOZA,Madrid,8.574,"1,205",8.476,"1,191",175,"0,025"
+Mendoza,MENDOZA,Málaga,1.254,"0,700",1.247,"0,696",12,"0,007"
+Mendoza,MENDOZA,Murcia,1.825,"1,150",1.658,"1,045",25,"0,016"
+Mendoza,MENDOZA,Navarra,714,"1,044",773,"1,130",8,"0,012"
+Mendoza,MENDOZA,Ourense,86,"0,282",105,"0,344",.,.
+Mendoza,MENDOZA,Palencia,73,"0,460",77,"0,485",.,.
+Mendoza,MENDOZA,"Palmas, Las",3.846,"3,283",3.743,"3,195",124,"0,106"
+Mendoza,MENDOZA,Pontevedra,317,"0,334",336,"0,354",.,.
+Mendoza,MENDOZA,"Rioja, La",569,"1,741",563,"1,723",19,"0,058"
+Mendoza,MENDOZA,Salamanca,145,"0,441",131,"0,399",.,.
+Mendoza,MENDOZA,Santa Cruz de Tenerife,2.723,"2,504",2.737,"2,517",180,"0,166"
+Mendoza,MENDOZA,Segovia,140,"0,885",135,"0,853",.,.
+Mendoza,MENDOZA,Sevilla,2.097,"1,060",2.165,"1,095",23,"0,012"
+Mendoza,MENDOZA,Soria,49,"0,543",60,"0,665",.,.
+Mendoza,MENDOZA,Tarragona,658,"0,752",685,"0,782",9,"0,010"
+Mendoza,MENDOZA,Teruel,57,"0,419",76,"0,558",.,.
+Mendoza,MENDOZA,Toledo,925,"1,225",886,"1,173",26,"0,034"
+Mendoza,MENDOZA,Valencia/València,1.935,"0,700",1.872,"0,677",25,"0,009"
+Mendoza,MENDOZA,Valladolid,496,"0,938",418,"0,791",11,"0,021"
+Mendoza,MENDOZA,Zamora,41,"0,248",80,"0,483",.,.
+Mendoza,MENDOZA,Zaragoza,953,"0,954",1.025,"1,027",28,"0,028"
+Mendoza,MENDOZA,Ceuta,42,"0,503",45,"0,538",.,.
+Mendoza,MENDOZA,Melilla,18,"0,207",24,"0,276",.,.
+Miranda,MIRANDA,Albacete,190,"0,486",223,"0,571",.,.
+Miranda,MIRANDA,Alicante/Alacant,579,"0,285",541,"0,266",.,.
+Miranda,MIRANDA,Almería,400,"0,519",419,"0,544",9,"0,012"
+Miranda,MIRANDA,Araba/Álava,207,"0,605",227,"0,664",.,.
+Miranda,MIRANDA,Asturias,1.566,"1,543",1.599,"1,575",15,"0,015"
+Miranda,MIRANDA,Ávila,123,"0,765",107,"0,666",.,.
+Miranda,MIRANDA,Badajoz,1.174,"1,765",1.125,"1,691",31,"0,047"
+Miranda,MIRANDA,"Balears, Illes",769,"0,615",701,"0,561",6,"0,005"
+Miranda,MIRANDA,Barcelona,4.002,"0,671",3.827,"0,642",27,"0,005"
+Miranda,MIRANDA,Bizkaia,882,"0,756",778,"0,667",10,"0,009"
+Miranda,MIRANDA,Burgos,305,"0,841",324,"0,893",5,"0,014"
+Miranda,MIRANDA,Cáceres,367,"0,945",351,"0,904",.,.
+Miranda,MIRANDA,Cádiz,853,"0,676",899,"0,713",.,.
+Miranda,MIRANDA,Cantabria,279,"0,470",305,"0,514",.,.
+Miranda,MIRANDA,Castellón/Castelló,178,"0,284",227,"0,362",.,.
+Miranda,MIRANDA,Ciudad Real,94,"0,190",102,"0,206",.,.
+Miranda,MIRANDA,Córdoba,827,"1,070",809,"1,046",7,"0,009"
+Miranda,MIRANDA,"Coruña, A",985,"0,867",964,"0,849",.,.
+Miranda,MIRANDA,Cuenca,45,"0,225",44,"0,220",.,.
+Miranda,MIRANDA,Gipuzkoa,589,"0,803",599,"0,817",5,"0,007"
+Miranda,MIRANDA,Girona,359,"0,432",336,"0,405",.,.
+Miranda,MIRANDA,Granada,582,"0,615",633,"0,669",10,"0,011"
+Miranda,MIRANDA,Guadalajara,139,"0,486",134,"0,469",.,.
+Miranda,MIRANDA,Huelva,222,"0,412",267,"0,496",.,.
+Miranda,MIRANDA,Huesca,274,"1,191",254,"1,104",.,.
+Miranda,MIRANDA,Jaén,577,"0,933",494,"0,799",5,"0,008"
+Miranda,MIRANDA,León,346,"0,772",291,"0,650",.,.
+Miranda,MIRANDA,Lleida,241,"0,526",225,"0,491",.,.
+Miranda,MIRANDA,Lugo,240,"0,736",197,"0,604",.,.
+Miranda,MIRANDA,Madrid,5.100,"0,717",4.789,"0,673",43,"0,006"
+Miranda,MIRANDA,Málaga,1.423,"0,794",1.316,"0,735",12,"0,007"
+Miranda,MIRANDA,Murcia,514,"0,324",474,"0,299",7,"0,004"
+Miranda,MIRANDA,Navarra,625,"0,914",609,"0,891",.,.
+Miranda,MIRANDA,Ourense,261,"0,855",209,"0,685",.,.
+Miranda,MIRANDA,Palencia,71,"0,447",93,"0,586",.,.
+Miranda,MIRANDA,"Palmas, Las",2.251,"1,921",2.255,"1,925",22,"0,019"
+Miranda,MIRANDA,Pontevedra,930,"0,981",1.006,"1,061",18,"0,019"
+Miranda,MIRANDA,"Rioja, La",409,"1,252",449,"1,374",.,.
+Miranda,MIRANDA,Salamanca,125,"0,381",155,"0,472",.,.
+Miranda,MIRANDA,Santa Cruz de Tenerife,1.265,"1,163",1.230,"1,131",.,.
+Miranda,MIRANDA,Segovia,136,"0,859",166,"1,049",9,"0,057"
+Miranda,MIRANDA,Sevilla,2.046,"1,035",2.029,"1,026",8,"0,004"
+Miranda,MIRANDA,Soria,142,"1,575",120,"1,331",.,.
+Miranda,MIRANDA,Tarragona,429,"0,490",421,"0,481",.,.
+Miranda,MIRANDA,Teruel,32,"0,235",45,"0,331",.,.
+Miranda,MIRANDA,Toledo,385,"0,510",381,"0,505",.,.
+Miranda,MIRANDA,Valencia/València,853,"0,309",779,"0,282",7,"0,003"
+Miranda,MIRANDA,Valladolid,306,"0,579",277,"0,524",10,"0,019"
+Miranda,MIRANDA,Zamora,199,"1,202",221,"1,335",6,"0,036"
+Miranda,MIRANDA,Zaragoza,775,"0,776",773,"0,774",.,.
+Miranda,MIRANDA,Ceuta,36,"0,431",41,"0,491",.,.
+Miranda,MIRANDA,Melilla,19,"0,218",14,"0,161",.,.
+Ojeda,OJEDA,Albacete,146,"0,374",92,"0,235",.,.
+Ojeda,OJEDA,Alicante/Alacant,330,"0,162",329,"0,162",.,.
+Ojeda,OJEDA,Almería,481,"0,624",448,"0,581",.,.
+Ojeda,OJEDA,Araba/Álava,47,"0,137",80,"0,234",.,.
+Ojeda,OJEDA,Asturias,244,"0,240",190,"0,187",.,.
+Ojeda,OJEDA,Ávila,7,"0,044",12,"0,075",.,.
+Ojeda,OJEDA,Badajoz,126,"0,189",136,"0,204",.,.
+Ojeda,OJEDA,"Balears, Illes",430,"0,344",376,"0,301",6,"0,005"
+Ojeda,OJEDA,Barcelona,1.685,"0,283",1.666,"0,280",16,"0,003"
+Ojeda,OJEDA,Bizkaia,282,"0,242",312,"0,267",.,.
+Ojeda,OJEDA,Burgos,174,"0,480",191,"0,527",.,.
+Ojeda,OJEDA,Cáceres,34,"0,088",44,"0,113",.,.
+Ojeda,OJEDA,Cádiz,800,"0,634",671,"0,532",.,.
+Ojeda,OJEDA,Cantabria,131,"0,221",155,"0,261",.,.
+Ojeda,OJEDA,Castellón/Castelló,291,"0,464",246,"0,392",6,"0,010"
+Ojeda,OJEDA,Ciudad Real,117,"0,236",116,"0,234",.,.
+Ojeda,OJEDA,Córdoba,375,"0,485",419,"0,542",.,.
+Ojeda,OJEDA,"Coruña, A",67,"0,059",79,"0,070",.,.
+Ojeda,OJEDA,Cuenca,87,"0,435",76,"0,380",.,.
+Ojeda,OJEDA,Gipuzkoa,128,"0,175",125,"0,170",19,"0,026"
+Ojeda,OJEDA,Girona,174,"0,210",171,"0,206",.,.
+Ojeda,OJEDA,Granada,208,"0,220",219,"0,232",.,.
+Ojeda,OJEDA,Guadalajara,51,"0,178",47,"0,164",.,.
+Ojeda,OJEDA,Huelva,696,"1,292",633,"1,175",6,"0,011"
+Ojeda,OJEDA,Huesca,46,"0,200",33,"0,143",.,.
+Ojeda,OJEDA,Jaén,420,"0,679",352,"0,569",6,"0,010"
+Ojeda,OJEDA,León,40,"0,089",41,"0,092",6,"0,013"
+Ojeda,OJEDA,Lleida,158,"0,345",88,"0,192",.,.
+Ojeda,OJEDA,Lugo,25,"0,077",15,"0,046",.,.
+Ojeda,OJEDA,Madrid,2.123,"0,298",2.080,"0,292",29,"0,004"
+Ojeda,OJEDA,Málaga,742,"0,414",701,"0,391",.,.
+Ojeda,OJEDA,Murcia,213,"0,134",259,"0,163",12,"0,008"
+Ojeda,OJEDA,Navarra,86,"0,126",97,"0,142",10,"0,015"
+Ojeda,OJEDA,Ourense,21,"0,069",23,"0,075",.,.
+Ojeda,OJEDA,Palencia,15,"0,095",20,"0,126",.,.
+Ojeda,OJEDA,"Palmas, Las",5.510,"4,703",5.463,"4,663",131,"0,112"
+Ojeda,OJEDA,Pontevedra,84,"0,089",107,"0,113",.,.
+Ojeda,OJEDA,"Rioja, La",265,"0,811",188,"0,575",5,"0,015"
+Ojeda,OJEDA,Salamanca,29,"0,088",16,"0,049",.,.
+Ojeda,OJEDA,Santa Cruz de Tenerife,475,"0,437",457,"0,420",6,"0,006"
+Ojeda,OJEDA,Segovia,21,"0,133",14,"0,088",.,.
+Ojeda,OJEDA,Sevilla,2.372,"1,199",2.319,"1,173",17,"0,009"
+Ojeda,OJEDA,Soria,8,"0,089",11,"0,122",.,.
+Ojeda,OJEDA,Tarragona,165,"0,188",173,"0,198",.,.
+Ojeda,OJEDA,Teruel,9,"0,066",7,"0,051",.,.
+Ojeda,OJEDA,Toledo,113,"0,150",94,"0,124",.,.
+Ojeda,OJEDA,Valencia/València,702,"0,254",688,"0,249",8,"0,003"
+Ojeda,OJEDA,Valladolid,93,"0,176",89,"0,168",.,.
+Ojeda,OJEDA,Zamora,.,.,8,"0,048",.,.
+Ojeda,OJEDA,Zaragoza,153,"0,153",166,"0,166",.,.
+Ojeda,OJEDA,Ceuta,17,"0,203",12,"0,144",.,.
+Ojeda,OJEDA,Melilla,13,"0,149",19,"0,218",.,.
+Paz,PAZ,Albacete,49,"0,125",51,"0,131",.,.
+Paz,PAZ,Alicante/Alacant,325,"0,160",324,"0,159",6,"0,003"
+Paz,PAZ,Almería,107,"0,139",95,"0,123",.,.
+Paz,PAZ,Araba/Álava,84,"0,246",84,"0,246",.,.
+Paz,PAZ,Asturias,242,"0,238",271,"0,267",.,.
+Paz,PAZ,Ávila,83,"0,516",81,"0,504",.,.
+Paz,PAZ,Badajoz,210,"0,316",202,"0,304",.,.
+Paz,PAZ,"Balears, Illes",243,"0,194",250,"0,200",.,.
+Paz,PAZ,Barcelona,1.936,"0,325",2.022,"0,339",31,"0,005"
+Paz,PAZ,Bizkaia,415,"0,356",406,"0,348",.,.
+Paz,PAZ,Burgos,60,"0,165",71,"0,196",.,.
+Paz,PAZ,Cáceres,258,"0,665",268,"0,690",.,.
+Paz,PAZ,Cádiz,311,"0,247",292,"0,231",.,.
+Paz,PAZ,Cantabria,216,"0,364",210,"0,354",.,.
+Paz,PAZ,Castellón/Castelló,114,"0,182",95,"0,151",.,.
+Paz,PAZ,Ciudad Real,314,"0,635",319,"0,645",12,"0,024"
+Paz,PAZ,Córdoba,179,"0,232",154,"0,199",.,.
+Paz,PAZ,"Coruña, A",3.539,"3,116",3.675,"3,236",76,"0,067"
+Paz,PAZ,Cuenca,26,"0,130",14,"0,070",.,.
+Paz,PAZ,Gipuzkoa,250,"0,341",264,"0,360",.,.
+Paz,PAZ,Girona,288,"0,347",296,"0,356",.,.
+Paz,PAZ,Granada,79,"0,084",93,"0,098",.,.
+Paz,PAZ,Guadalajara,70,"0,245",59,"0,206",.,.
+Paz,PAZ,Huelva,88,"0,163",68,"0,126",.,.
+Paz,PAZ,Huesca,46,"0,200",40,"0,174",.,.
+Paz,PAZ,Jaén,76,"0,123",89,"0,144",.,.
+Paz,PAZ,León,158,"0,353",152,"0,339",.,.
+Paz,PAZ,Lleida,48,"0,105",66,"0,144",.,.
+Paz,PAZ,Lugo,972,"2,981",1.079,"3,310",31,"0,095"
+Paz,PAZ,Madrid,3.035,"0,427",3.025,"0,425",42,"0,006"
+Paz,PAZ,Málaga,657,"0,367",568,"0,317",5,"0,003"
+Paz,PAZ,Murcia,213,"0,134",254,"0,160",5,"0,003"
+Paz,PAZ,Navarra,201,"0,294",183,"0,268",6,"0,009"
+Paz,PAZ,Ourense,692,"2,267",641,"2,100",32,"0,105"
+Paz,PAZ,Palencia,25,"0,158",30,"0,189",.,.
+Paz,PAZ,"Palmas, Las",447,"0,382",452,"0,386",.,.
+Paz,PAZ,Pontevedra,2.573,"2,715",2.490,"2,627",41,"0,043"
+Paz,PAZ,"Rioja, La",58,"0,177",56,"0,171",.,.
+Paz,PAZ,Salamanca,120,"0,365",107,"0,326",.,.
+Paz,PAZ,Santa Cruz de Tenerife,879,"0,808",925,"0,851",18,"0,017"
+Paz,PAZ,Segovia,18,"0,114",19,"0,120",.,.
+Paz,PAZ,Sevilla,556,"0,281",543,"0,275",.,.
+Paz,PAZ,Soria,24,"0,266",17,"0,189",.,.
+Paz,PAZ,Tarragona,225,"0,257",231,"0,264",.,.
+Paz,PAZ,Teruel,25,"0,184",14,"0,103",.,.
+Paz,PAZ,Toledo,251,"0,332",259,"0,343",9,"0,012"
+Paz,PAZ,Valencia/València,626,"0,226",663,"0,240",18,"0,007"
+Paz,PAZ,Valladolid,157,"0,297",147,"0,278",.,.
+Paz,PAZ,Zamora,56,"0,338",79,"0,477",.,.
+Paz,PAZ,Zaragoza,256,"0,256",198,"0,198",.,.
+Paz,PAZ,Ceuta,34,"0,407",12,"0,144",.,.
+Paz,PAZ,Melilla,14,"0,161",9,"0,103",.,.
+Ponce,PONCE,Albacete,294,"0,752",279,"0,714",.,.
+Ponce,PONCE,Alicante/Alacant,911,"0,448",888,"0,437",.,.
+Ponce,PONCE,Almería,323,"0,419",342,"0,444",5,"0,006"
+Ponce,PONCE,Araba/Álava,80,"0,234",57,"0,167",.,.
+Ponce,PONCE,Asturias,134,"0,132",133,"0,131",.,.
+Ponce,PONCE,Ávila,26,"0,162",20,"0,124",.,.
+Ponce,PONCE,Badajoz,518,"0,779",565,"0,849",.,.
+Ponce,PONCE,"Balears, Illes",503,"0,402",449,"0,359",.,.
+Ponce,PONCE,Barcelona,3.030,"0,508",3.038,"0,510",27,"0,005"
+Ponce,PONCE,Bizkaia,287,"0,246",271,"0,232",.,.
+Ponce,PONCE,Burgos,60,"0,165",58,"0,160",.,.
+Ponce,PONCE,Cáceres,37,"0,095",42,"0,108",.,.
+Ponce,PONCE,Cádiz,1.571,"1,245",1.613,"1,279",26,"0,021"
+Ponce,PONCE,Cantabria,112,"0,189",103,"0,174",.,.
+Ponce,PONCE,Castellón/Castelló,157,"0,250",180,"0,287",.,.
+Ponce,PONCE,Ciudad Real,306,"0,618",289,"0,584",.,.
+Ponce,PONCE,Córdoba,181,"0,234",172,"0,222",.,.
+Ponce,PONCE,"Coruña, A",271,"0,239",242,"0,213",.,.
+Ponce,PONCE,Cuenca,333,"1,666",287,"1,436",.,.
+Ponce,PONCE,Gipuzkoa,242,"0,330",205,"0,280",.,.
+Ponce,PONCE,Girona,362,"0,436",367,"0,442",8,"0,010"
+Ponce,PONCE,Granada,171,"0,181",178,"0,188",.,.
+Ponce,PONCE,Guadalajara,100,"0,350",75,"0,262",.,.
+Ponce,PONCE,Huelva,1.560,"2,895",1.741,"3,231",22,"0,041"
+Ponce,PONCE,Huesca,41,"0,178",45,"0,196",.,.
+Ponce,PONCE,Jaén,180,"0,291",126,"0,204",.,.
+Ponce,PONCE,León,45,"0,100",47,"0,105",.,.
+Ponce,PONCE,Lleida,79,"0,172",99,"0,216",.,.
+Ponce,PONCE,Lugo,20,"0,061",19,"0,058",.,.
+Ponce,PONCE,Madrid,3.017,"0,424",2.987,"0,420",30,"0,004"
+Ponce,PONCE,Málaga,1.721,"0,961",1.750,"0,977",37,"0,021"
+Ponce,PONCE,Murcia,1.442,"0,909",1.387,"0,874",19,"0,012"
+Ponce,PONCE,Navarra,130,"0,190",135,"0,197",.,.
+Ponce,PONCE,Ourense,23,"0,075",19,"0,062",.,.
+Ponce,PONCE,Palencia,14,"0,088",18,"0,113",.,.
+Ponce,PONCE,"Palmas, Las",1.002,"0,855",934,"0,797",7,"0,006"
+Ponce,PONCE,Pontevedra,65,"0,069",65,"0,069",.,.
+Ponce,PONCE,"Rioja, La",26,"0,080",48,"0,147",.,.
+Ponce,PONCE,Salamanca,62,"0,189",51,"0,155",.,.
+Ponce,PONCE,Santa Cruz de Tenerife,231,"0,212",215,"0,198",.,.
+Ponce,PONCE,Segovia,42,"0,265",55,"0,348",.,.
+Ponce,PONCE,Sevilla,2.705,"1,368",2.811,"1,421",16,"0,008"
+Ponce,PONCE,Soria,19,"0,211",25,"0,277",.,.
+Ponce,PONCE,Tarragona,363,"0,415",311,"0,355",.,.
+Ponce,PONCE,Teruel,11,"0,081",15,"0,110",.,.
+Ponce,PONCE,Toledo,165,"0,219",173,"0,229",.,.
+Ponce,PONCE,Valencia/València,2.149,"0,777",2.239,"0,810",23,"0,008"
+Ponce,PONCE,Valladolid,63,"0,119",99,"0,187",.,.
+Ponce,PONCE,Zamora,46,"0,278",48,"0,290",.,.
+Ponce,PONCE,Zaragoza,198,"0,198",196,"0,196",.,.
+Ponce,PONCE,Ceuta,45,"0,538",66,"0,790",.,.
+Ponce,PONCE,Melilla,19,"0,218",11,"0,126",.,.
+Rivero,RIVERO,Albacete,60,"0,154",75,"0,192",.,.
+Rivero,RIVERO,Alicante/Alacant,456,"0,224",437,"0,215",.,.
+Rivero,RIVERO,Almería,90,"0,117",104,"0,135",.,.
+Rivero,RIVERO,Araba/Álava,104,"0,304",110,"0,322",.,.
+Rivero,RIVERO,Asturias,892,"0,879",919,"0,905",10,"0,010"
+Rivero,RIVERO,Ávila,97,"0,603",65,"0,404",.,.
+Rivero,RIVERO,Badajoz,822,"1,236",814,"1,224",.,.
+Rivero,RIVERO,"Balears, Illes",399,"0,319",389,"0,311",.,.
+Rivero,RIVERO,Barcelona,2.250,"0,378",2.206,"0,370",33,"0,006"
+Rivero,RIVERO,Bizkaia,531,"0,455",616,"0,528",6,"0,005"
+Rivero,RIVERO,Burgos,72,"0,199",65,"0,179",.,.
+Rivero,RIVERO,Cáceres,508,"1,309",523,"1,347",9,"0,023"
+Rivero,RIVERO,Cádiz,1.173,"0,930",1.205,"0,955",.,.
+Rivero,RIVERO,Cantabria,780,"1,314",782,"1,317",5,"0,008"
+Rivero,RIVERO,Castellón/Castelló,115,"0,183",123,"0,196",.,.
+Rivero,RIVERO,Ciudad Real,466,"0,942",474,"0,958",8,"0,016"
+Rivero,RIVERO,Córdoba,421,"0,545",455,"0,588",8,"0,010"
+Rivero,RIVERO,"Coruña, A",354,"0,312",317,"0,279",.,.
+Rivero,RIVERO,Cuenca,32,"0,160",51,"0,255",.,.
+Rivero,RIVERO,Gipuzkoa,368,"0,502",349,"0,476",.,.
+Rivero,RIVERO,Girona,223,"0,269",232,"0,279",.,.
+Rivero,RIVERO,Granada,210,"0,222",199,"0,210",5,"0,005"
+Rivero,RIVERO,Guadalajara,125,"0,437",134,"0,469",.,.
+Rivero,RIVERO,Huelva,583,"1,082",520,"0,965",.,.
+Rivero,RIVERO,Huesca,52,"0,226",51,"0,222",.,.
+Rivero,RIVERO,Jaén,144,"0,233",136,"0,220",.,.
+Rivero,RIVERO,León,250,"0,558",203,"0,453",.,.
+Rivero,RIVERO,Lleida,82,"0,179",94,"0,205",.,.
+Rivero,RIVERO,Lugo,151,"0,463",105,"0,322",.,.
+Rivero,RIVERO,Madrid,4.023,"0,566",4.161,"0,585",29,"0,004"
+Rivero,RIVERO,Málaga,1.140,"0,636",1.168,"0,652",6,"0,003"
+Rivero,RIVERO,Murcia,295,"0,186",294,"0,185",.,.
+Rivero,RIVERO,Navarra,197,"0,288",181,"0,265",.,.
+Rivero,RIVERO,Ourense,614,"2,011",605,"1,982",15,"0,049"
+Rivero,RIVERO,Palencia,46,"0,290",71,"0,447",.,.
+Rivero,RIVERO,"Palmas, Las",5.699,"4,865",5.625,"4,801",125,"0,107"
+Rivero,RIVERO,Pontevedra,555,"0,586",541,"0,571",.,.
+Rivero,RIVERO,"Rioja, La",96,"0,294",80,"0,245",.,.
+Rivero,RIVERO,Salamanca,324,"0,986",398,"1,212",.,.
+Rivero,RIVERO,Santa Cruz de Tenerife,3.110,"2,860",3.060,"2,814",49,"0,045"
+Rivero,RIVERO,Segovia,57,"0,360",57,"0,360",.,.
+Rivero,RIVERO,Sevilla,2.612,"1,321",2.554,"1,291",35,"0,018"
+Rivero,RIVERO,Soria,12,"0,133",14,"0,155",.,.
+Rivero,RIVERO,Tarragona,273,"0,312",231,"0,264",.,.
+Rivero,RIVERO,Teruel,47,"0,345",34,"0,250",.,.
+Rivero,RIVERO,Toledo,343,"0,454",336,"0,445",.,.
+Rivero,RIVERO,Valencia/València,717,"0,259",668,"0,242",7,"0,003"
+Rivero,RIVERO,Valladolid,332,"0,628",338,"0,639",.,.
+Rivero,RIVERO,Zamora,71,"0,429",59,"0,356",.,.
+Rivero,RIVERO,Zaragoza,240,"0,240",219,"0,219",.,.
+Rivero,RIVERO,Ceuta,44,"0,527",42,"0,503",.,.
+Rivero,RIVERO,Melilla,12,"0,138",12,"0,138",.,.
+Rojas,ROJAS,Albacete,272,"0,696",264,"0,676",.,.
+Rojas,ROJAS,Alicante/Alacant,1.689,"0,831",1.599,"0,786",19,"0,009"
+Rojas,ROJAS,Almería,750,"0,973",694,"0,901",17,"0,022"
+Rojas,ROJAS,Araba/Álava,324,"0,947",358,"1,047",.,.
+Rojas,ROJAS,Asturias,511,"0,503",556,"0,548",7,"0,007"
+Rojas,ROJAS,Ávila,93,"0,579",115,"0,715",.,.
+Rojas,ROJAS,Badajoz,487,"0,732",477,"0,717",6,"0,009"
+Rojas,ROJAS,"Balears, Illes",1.497,"1,198",1.405,"1,124",18,"0,014"
+Rojas,ROJAS,Barcelona,7.751,"1,301",7.619,"1,278",118,"0,020"
+Rojas,ROJAS,Bizkaia,1.035,"0,887",1.193,"1,022",17,"0,015"
+Rojas,ROJAS,Burgos,468,"1,290",436,"1,202",6,"0,017"
+Rojas,ROJAS,Cáceres,146,"0,376",137,"0,353",.,.
+Rojas,ROJAS,Cádiz,3.010,"2,386",3.134,"2,485",19,"0,015"
+Rojas,ROJAS,Cantabria,460,"0,775",459,"0,773",9,"0,015"
+Rojas,ROJAS,Castellón/Castelló,444,"0,707",374,"0,596",7,"0,011"
+Rojas,ROJAS,Ciudad Real,708,"1,431",719,"1,453",26,"0,053"
+Rojas,ROJAS,Córdoba,1.748,"2,261",1.824,"2,359",20,"0,026"
+Rojas,ROJAS,"Coruña, A",562,"0,495",546,"0,481",14,"0,012"
+Rojas,ROJAS,Cuenca,112,"0,560",140,"0,700",.,.
+Rojas,ROJAS,Gipuzkoa,412,"0,562",357,"0,487",8,"0,011"
+Rojas,ROJAS,Girona,796,"0,959",741,"0,892",9,"0,011"
+Rojas,ROJAS,Granada,1.598,"1,690",1.492,"1,578",28,"0,030"
+Rojas,ROJAS,Guadalajara,385,"1,347",350,"1,224",10,"0,035"
+Rojas,ROJAS,Huelva,718,"1,333",642,"1,192",.,.
+Rojas,ROJAS,Huesca,116,"0,504",147,"0,639",.,.
+Rojas,ROJAS,Jaén,669,"1,082",617,"0,998",.,.
+Rojas,ROJAS,León,183,"0,408",180,"0,402",.,.
+Rojas,ROJAS,Lleida,287,"0,626",306,"0,668",.,.
+Rojas,ROJAS,Lugo,168,"0,515",161,"0,494",.,.
+Rojas,ROJAS,Madrid,11.334,"1,593",11.353,"1,596",181,"0,025"
+Rojas,ROJAS,Málaga,3.750,"2,094",3.881,"2,167",78,"0,044"
+Rojas,ROJAS,Murcia,1.511,"0,952",1.433,"0,903",16,"0,010"
+Rojas,ROJAS,Navarra,569,"0,832",593,"0,867",7,"0,010"
+Rojas,ROJAS,Ourense,214,"0,701",245,"0,803",.,.
+Rojas,ROJAS,Palencia,100,"0,630",115,"0,725",.,.
+Rojas,ROJAS,"Palmas, Las",1.453,"1,240",1.461,"1,247",29,"0,025"
+Rojas,ROJAS,Pontevedra,386,"0,407",429,"0,453",11,"0,012"
+Rojas,ROJAS,"Rioja, La",370,"1,132",324,"0,991",9,"0,028"
+Rojas,ROJAS,Salamanca,176,"0,536",182,"0,554",.,.
+Rojas,ROJAS,Santa Cruz de Tenerife,1.964,"1,806",2.142,"1,970",57,"0,052"
+Rojas,ROJAS,Segovia,94,"0,594",93,"0,588",.,.
+Rojas,ROJAS,Sevilla,3.846,"1,945",3.628,"1,834",29,"0,015"
+Rojas,ROJAS,Soria,85,"0,943",70,"0,776",.,.
+Rojas,ROJAS,Tarragona,751,"0,858",761,"0,869",12,"0,014"
+Rojas,ROJAS,Teruel,80,"0,588",92,"0,676",.,.
+Rojas,ROJAS,Toledo,1.630,"2,159",1.634,"2,164",20,"0,026"
+Rojas,ROJAS,Valencia/València,2.451,"0,887",2.452,"0,887",34,"0,012"
+Rojas,ROJAS,Valladolid,262,"0,496",285,"0,539",.,.
+Rojas,ROJAS,Zamora,63,"0,381",78,"0,471",.,.
+Rojas,ROJAS,Zaragoza,691,"0,692",694,"0,695",9,"0,009"
+Rojas,ROJAS,Ceuta,67,"0,802",80,"0,957",.,.
+Rojas,ROJAS,Melilla,52,"0,597",58,"0,666",.,.
+Roldán,ROLDAN,Albacete,787,"2,014",750,"1,919",11,"0,028"
+Roldán,ROLDAN,Alicante/Alacant,782,"0,385",706,"0,347",7,"0,003"
+Roldán,ROLDAN,Almería,159,"0,206",166,"0,215",.,.
+Roldán,ROLDAN,Araba/Álava,111,"0,325",106,"0,310",.,.
+Roldán,ROLDAN,Asturias,235,"0,231",236,"0,232",.,.
+Roldán,ROLDAN,Ávila,56,"0,348",69,"0,429",.,.
+Roldán,ROLDAN,Badajoz,178,"0,268",184,"0,277",.,.
+Roldán,ROLDAN,"Balears, Illes",696,"0,557",663,"0,530",.,.
+Roldán,ROLDAN,Barcelona,3.815,"0,640",4.019,"0,674",37,"0,006"
+Roldán,ROLDAN,Bizkaia,360,"0,308",403,"0,345",.,.
+Roldán,ROLDAN,Burgos,99,"0,273",100,"0,276",.,.
+Roldán,ROLDAN,Cáceres,78,"0,201",99,"0,255",.,.
+Roldán,ROLDAN,Cádiz,1.814,"1,438",1.864,"1,478",20,"0,016"
+Roldán,ROLDAN,Cantabria,296,"0,499",327,"0,551",.,.
+Roldán,ROLDAN,Castellón/Castelló,302,"0,481",232,"0,370",.,.
+Roldán,ROLDAN,Ciudad Real,356,"0,719",308,"0,622",.,.
+Roldán,ROLDAN,Córdoba,3.165,"4,094",3.196,"4,134",56,"0,072"
+Roldán,ROLDAN,"Coruña, A",86,"0,076",82,"0,072",.,.
+Roldán,ROLDAN,Cuenca,198,"0,991",188,"0,941",.,.
+Roldán,ROLDAN,Gipuzkoa,167,"0,228",164,"0,224",.,.
+Roldán,ROLDAN,Girona,245,"0,295",310,"0,373",.,.
+Roldán,ROLDAN,Granada,1.994,"2,108",2.007,"2,122",32,"0,034"
+Roldán,ROLDAN,Guadalajara,142,"0,497",163,"0,570",.,.
+Roldán,ROLDAN,Huelva,489,"0,908",521,"0,967",.,.
+Roldán,ROLDAN,Huesca,94,"0,409",128,"0,556",.,.
+Roldán,ROLDAN,Jaén,548,"0,887",516,"0,835",6,"0,010"
+Roldán,ROLDAN,León,127,"0,283",139,"0,310",.,.
+Roldán,ROLDAN,Lleida,82,"0,179",105,"0,229",.,.
+Roldán,ROLDAN,Lugo,27,"0,083",23,"0,071",.,.
+Roldán,ROLDAN,Madrid,5.000,"0,703",4.931,"0,693",52,"0,007"
+Roldán,ROLDAN,Málaga,1.917,"1,070",1.862,"1,040",28,"0,016"
+Roldán,ROLDAN,Murcia,450,"0,284",455,"0,287",43,"0,027"
+Roldán,ROLDAN,Navarra,466,"0,681",428,"0,626",.,.
+Roldán,ROLDAN,Ourense,25,"0,082",31,"0,102",.,.
+Roldán,ROLDAN,Palencia,210,"1,323",215,"1,355",.,.
+Roldán,ROLDAN,"Palmas, Las",227,"0,194",244,"0,208",.,.
+Roldán,ROLDAN,Pontevedra,90,"0,095",88,"0,093",.,.
+Roldán,ROLDAN,"Rioja, La",215,"0,658",235,"0,719",.,.
+Roldán,ROLDAN,Salamanca,65,"0,198",59,"0,180",.,.
+Roldán,ROLDAN,Santa Cruz de Tenerife,185,"0,170",173,"0,159",.,.
+Roldán,ROLDAN,Segovia,141,"0,891",141,"0,891",.,.
+Roldán,ROLDAN,Sevilla,4.410,"2,230",4.289,"2,169",85,"0,043"
+Roldán,ROLDAN,Soria,21,"0,233",13,"0,144",.,.
+Roldán,ROLDAN,Tarragona,480,"0,548",430,"0,491",.,.
+Roldán,ROLDAN,Teruel,47,"0,345",23,"0,169",.,.
+Roldán,ROLDAN,Toledo,522,"0,691",556,"0,736",.,.
+Roldán,ROLDAN,Valencia/València,1.132,"0,410",1.003,"0,363",11,"0,004"
+Roldán,ROLDAN,Valladolid,164,"0,310",199,"0,376",.,.
+Roldán,ROLDAN,Zamora,56,"0,338",70,"0,423",.,.
+Roldán,ROLDAN,Zaragoza,444,"0,445",392,"0,393",.,.
+Roldán,ROLDAN,Ceuta,65,"0,778",65,"0,778",.,.
+Roldán,ROLDAN,Melilla,72,"0,827",70,"0,804",.,.
+Ríos,RIOS,Albacete,245,"0,627",311,"0,796",.,.
+Ríos,RIOS,Alicante/Alacant,1.413,"0,695",1.289,"0,634",13,"0,006"
+Ríos,RIOS,Almería,360,"0,467",399,"0,518",.,.
+Ríos,RIOS,Araba/Álava,230,"0,673",218,"0,637",.,.
+Ríos,RIOS,Asturias,528,"0,520",603,"0,594",8,"0,008"
+Ríos,RIOS,Ávila,152,"0,946",155,"0,964",.,.
+Ríos,RIOS,Badajoz,392,"0,589",444,"0,668",.,.
+Ríos,RIOS,"Balears, Illes",1.011,"0,809",940,"0,752",12,"0,010"
+Ríos,RIOS,Barcelona,4.604,"0,772",4.552,"0,764",28,"0,005"
+Ríos,RIOS,Bizkaia,1.011,"0,866",952,"0,816",18,"0,015"
+Ríos,RIOS,Burgos,154,"0,425",157,"0,433",.,.
+Ríos,RIOS,Cáceres,207,"0,533",220,"0,567",6,"0,015"
+Ríos,RIOS,Cádiz,2.832,"2,245",3.046,"2,415",20,"0,016"
+Ríos,RIOS,Cantabria,754,"1,270",699,"1,178",.,.
+Ríos,RIOS,Castellón/Castelló,424,"0,676",413,"0,658",.,.
+Ríos,RIOS,Ciudad Real,296,"0,598",291,"0,588",.,.
+Ríos,RIOS,Córdoba,914,"1,182",860,"1,112",.,.
+Ríos,RIOS,"Coruña, A",2.241,"1,973",2.466,"2,171",13,"0,011"
+Ríos,RIOS,Cuenca,30,"0,150",46,"0,230",.,.
+Ríos,RIOS,Gipuzkoa,353,"0,481",329,"0,449",.,.
+Ríos,RIOS,Girona,372,"0,448",413,"0,497",.,.
+Ríos,RIOS,Granada,912,"0,964",828,"0,875",10,"0,011"
+Ríos,RIOS,Guadalajara,140,"0,490",136,"0,476",.,.
+Ríos,RIOS,Huelva,589,"1,093",542,"1,006",.,.
+Ríos,RIOS,Huesca,193,"0,839",166,"0,721",.,.
+Ríos,RIOS,Jaén,451,"0,730",482,"0,780",.,.
+Ríos,RIOS,León,275,"0,614",264,"0,589",.,.
+Ríos,RIOS,Lleida,197,"0,430",217,"0,474",.,.
+Ríos,RIOS,Lugo,241,"0,739",291,"0,893",.,.
+Ríos,RIOS,Madrid,5.230,"0,735",5.185,"0,729",54,"0,008"
+Ríos,RIOS,Málaga,3.868,"2,159",3.779,"2,110",45,"0,025"
+Ríos,RIOS,Murcia,1.968,"1,240",1.906,"1,201",9,"0,006"
+Ríos,RIOS,Navarra,387,"0,566",400,"0,585",.,.
+Ríos,RIOS,Ourense,184,"0,603",182,"0,596",5,"0,016"
+Ríos,RIOS,Palencia,104,"0,655",103,"0,649",.,.
+Ríos,RIOS,"Palmas, Las",795,"0,679",770,"0,657",.,.
+Ríos,RIOS,Pontevedra,1.560,"1,646",1.536,"1,621",20,"0,021"
+Ríos,RIOS,"Rioja, La",205,"0,627",235,"0,719",.,.
+Ríos,RIOS,Salamanca,169,"0,515",166,"0,505",.,.
+Ríos,RIOS,Santa Cruz de Tenerife,577,"0,531",543,"0,499",.,.
+Ríos,RIOS,Segovia,64,"0,404",64,"0,404",.,.
+Ríos,RIOS,Sevilla,3.096,"1,565",3.084,"1,559",7,"0,004"
+Ríos,RIOS,Soria,19,"0,211",24,"0,266",.,.
+Ríos,RIOS,Tarragona,557,"0,636",566,"0,646",7,"0,008"
+Ríos,RIOS,Teruel,93,"0,683",81,"0,595",.,.
+Ríos,RIOS,Toledo,470,"0,622",407,"0,539",5,"0,007"
+Ríos,RIOS,Valencia/València,1.817,"0,657",1.870,"0,677",12,"0,004"
+Ríos,RIOS,Valladolid,325,"0,615",298,"0,564",.,.
+Ríos,RIOS,Zamora,186,"1,123",189,"1,142",6,"0,036"
+Ríos,RIOS,Zaragoza,661,"0,662",668,"0,669",.,.
+Ríos,RIOS,Ceuta,188,"2,250",136,"1,627",.,.
+Ríos,RIOS,Melilla,43,"0,494",37,"0,425",.,.
+Silva,SILVA,Albacete,66,"0,169",69,"0,177",.,.
+Silva,SILVA,Alicante/Alacant,1.124,"0,553",1.060,"0,521",22,"0,011"
+Silva,SILVA,Almería,298,"0,387",312,"0,405",.,.
+Silva,SILVA,Araba/Álava,247,"0,722",257,"0,752",7,"0,020"
+Silva,SILVA,Asturias,844,"0,831",824,"0,812",7,"0,007"
+Silva,SILVA,Ávila,58,"0,361",75,"0,467",.,.
+Silva,SILVA,Badajoz,2.280,"3,428",2.368,"3,560",102,"0,153"
+Silva,SILVA,"Balears, Illes",1.138,"0,911",1.139,"0,911",18,"0,014"
+Silva,SILVA,Barcelona,5.113,"0,858",5.059,"0,849",95,"0,016"
+Silva,SILVA,Bizkaia,1.027,"0,880",976,"0,836",9,"0,008"
+Silva,SILVA,Burgos,237,"0,653",250,"0,689",.,.
+Silva,SILVA,Cáceres,893,"2,300",903,"2,326",50,"0,129"
+Silva,SILVA,Cádiz,1.679,"1,331",1.556,"1,234",16,"0,013"
+Silva,SILVA,Cantabria,372,"0,627",392,"0,660",.,.
+Silva,SILVA,Castellón/Castelló,308,"0,491",306,"0,488",8,"0,013"
+Silva,SILVA,Ciudad Real,214,"0,432",248,"0,501",.,.
+Silva,SILVA,Córdoba,391,"0,506",434,"0,561",.,.
+Silva,SILVA,"Coruña, A",2.576,"2,268",2.573,"2,266",50,"0,044"
+Silva,SILVA,Cuenca,61,"0,305",53,"0,265",.,.
+Silva,SILVA,Gipuzkoa,510,"0,696",527,"0,719",6,"0,008"
+Silva,SILVA,Girona,749,"0,902",806,"0,971",78,"0,094"
+Silva,SILVA,Granada,219,"0,232",320,"0,338",.,.
+Silva,SILVA,Guadalajara,198,"0,693",248,"0,868",.,.
+Silva,SILVA,Huelva,1.032,"1,915",1.102,"2,045",7,"0,013"
+Silva,SILVA,Huesca,64,"0,278",102,"0,443",.,.
+Silva,SILVA,Jaén,106,"0,171",121,"0,196",.,.
+Silva,SILVA,León,495,"1,105",510,"1,138",9,"0,020"
+Silva,SILVA,Lleida,280,"0,611",296,"0,646",7,"0,015"
+Silva,SILVA,Lugo,417,"1,279",487,"1,494",.,.
+Silva,SILVA,Madrid,8.775,"1,234",8.886,"1,249",395,"0,056"
+Silva,SILVA,Málaga,1.663,"0,928",1.740,"0,971",29,"0,016"
+Silva,SILVA,Murcia,573,"0,361",568,"0,358",8,"0,005"
+Silva,SILVA,Navarra,433,"0,633",544,"0,795",.,.
+Silva,SILVA,Ourense,774,"2,535",682,"2,234",7,"0,023"
+Silva,SILVA,Palencia,91,"0,573",100,"0,630",.,.
+Silva,SILVA,"Palmas, Las",1.267,"1,081",1.349,"1,151",32,"0,027"
+Silva,SILVA,Pontevedra,3.451,"3,641",3.431,"3,620",42,"0,044"
+Silva,SILVA,"Rioja, La",220,"0,673",181,"0,554",5,"0,015"
+Silva,SILVA,Salamanca,265,"0,807",316,"0,962",6,"0,018"
+Silva,SILVA,Santa Cruz de Tenerife,773,"0,711",852,"0,784",14,"0,013"
+Silva,SILVA,Segovia,48,"0,303",41,"0,259",.,.
+Silva,SILVA,Sevilla,3.372,"1,705",3.344,"1,691",149,"0,075"
+Silva,SILVA,Soria,47,"0,521",47,"0,521",.,.
+Silva,SILVA,Tarragona,635,"0,725",677,"0,773",7,"0,008"
+Silva,SILVA,Teruel,43,"0,316",53,"0,389",.,.
+Silva,SILVA,Toledo,677,"0,897",708,"0,938",26,"0,034"
+Silva,SILVA,Valencia/València,1.652,"0,598",1.587,"0,574",19,"0,007"
+Silva,SILVA,Valladolid,384,"0,726",317,"0,600",.,.
+Silva,SILVA,Zamora,204,"1,232",199,"1,202",.,.
+Silva,SILVA,Zaragoza,537,"0,538",567,"0,568",6,"0,006"
+Silva,SILVA,Ceuta,60,"0,718",35,"0,419",.,.
+Silva,SILVA,Melilla,28,"0,322",14,"0,161",.,.
+Sosa,SOSA,Albacete,35,"0,090",40,"0,102",.,.
+Sosa,SOSA,Alicante/Alacant,389,"0,191",347,"0,171",.,.
+Sosa,SOSA,Almería,102,"0,132",87,"0,113",.,.
+Sosa,SOSA,Araba/Álava,49,"0,143",53,"0,155",.,.
+Sosa,SOSA,Asturias,193,"0,190",178,"0,175",.,.
+Sosa,SOSA,Ávila,18,"0,112",22,"0,137",.,.
+Sosa,SOSA,Badajoz,822,"1,236",841,"1,264",6,"0,009"
+Sosa,SOSA,"Balears, Illes",476,"0,381",424,"0,339",.,.
+Sosa,SOSA,Barcelona,1.858,"0,312",1.707,"0,286",46,"0,008"
+Sosa,SOSA,Bizkaia,216,"0,185",228,"0,195",.,.
+Sosa,SOSA,Burgos,29,"0,080",39,"0,108",.,.
+Sosa,SOSA,Cáceres,74,"0,191",62,"0,160",.,.
+Sosa,SOSA,Cádiz,563,"0,446",601,"0,476",6,"0,005"
+Sosa,SOSA,Cantabria,88,"0,148",91,"0,153",.,.
+Sosa,SOSA,Castellón/Castelló,107,"0,170",88,"0,140",.,.
+Sosa,SOSA,Ciudad Real,155,"0,313",177,"0,358",.,.
+Sosa,SOSA,Córdoba,144,"0,186",123,"0,159",.,.
+Sosa,SOSA,"Coruña, A",182,"0,160",162,"0,143",.,.
+Sosa,SOSA,Cuenca,14,"0,070",24,"0,120",.,.
+Sosa,SOSA,Gipuzkoa,99,"0,135",117,"0,160",.,.
+Sosa,SOSA,Girona,266,"0,320",250,"0,301",.,.
+Sosa,SOSA,Granada,82,"0,087",72,"0,076",.,.
+Sosa,SOSA,Guadalajara,71,"0,248",68,"0,238",.,.
+Sosa,SOSA,Huelva,415,"0,770",418,"0,776",6,"0,011"
+Sosa,SOSA,Huesca,18,"0,078",23,"0,100",.,.
+Sosa,SOSA,Jaén,41,"0,066",39,"0,063",.,.
+Sosa,SOSA,León,48,"0,107",46,"0,103",.,.
+Sosa,SOSA,Lleida,61,"0,133",67,"0,146",.,.
+Sosa,SOSA,Lugo,39,"0,120",43,"0,132",.,.
+Sosa,SOSA,Madrid,2.446,"0,344",2.262,"0,318",30,"0,004"
+Sosa,SOSA,Málaga,530,"0,296",455,"0,254",5,"0,003"
+Sosa,SOSA,Murcia,295,"0,186",239,"0,151",.,.
+Sosa,SOSA,Navarra,104,"0,152",123,"0,180",.,.
+Sosa,SOSA,Ourense,35,"0,115",23,"0,075",.,.
+Sosa,SOSA,Palencia,10,"0,063",26,"0,164",.,.
+Sosa,SOSA,"Palmas, Las",7.059,"6,025",6.974,"5,953",117,"0,100"
+Sosa,SOSA,Pontevedra,102,"0,108",105,"0,111",.,.
+Sosa,SOSA,"Rioja, La",28,"0,086",41,"0,125",.,.
+Sosa,SOSA,Salamanca,44,"0,134",40,"0,122",.,.
+Sosa,SOSA,Santa Cruz de Tenerife,1.816,"1,670",1.751,"1,610",24,"0,022"
+Sosa,SOSA,Segovia,33,"0,209",27,"0,171",.,.
+Sosa,SOSA,Sevilla,1.583,"0,800",1.502,"0,759",22,"0,011"
+Sosa,SOSA,Soria,15,"0,166",10,"0,111",.,.
+Sosa,SOSA,Tarragona,233,"0,266",205,"0,234",.,.
+Sosa,SOSA,Teruel,8,"0,059",12,"0,088",.,.
+Sosa,SOSA,Toledo,191,"0,253",168,"0,222",.,.
+Sosa,SOSA,Valencia/València,590,"0,213",526,"0,190",.,.
+Sosa,SOSA,Valladolid,71,"0,134",61,"0,115",.,.
+Sosa,SOSA,Zamora,18,"0,109",18,"0,109",.,.
+Sosa,SOSA,Zaragoza,145,"0,145",130,"0,130",.,.
+Sosa,SOSA,Ceuta,17,"0,203",18,"0,215",.,.
+Sosa,SOSA,Melilla,5,"0,057",.,.,.,.
+Vargas,VARGAS,Albacete,360,"0,921",297,"0,760",.,.
+Vargas,VARGAS,Alicante/Alacant,1.836,"0,903",1.820,"0,895",32,"0,016"
+Vargas,VARGAS,Almería,2.905,"3,770",2.882,"3,740",117,"0,152"
+Vargas,VARGAS,Araba/Álava,270,"0,790",307,"0,898",.,.
+Vargas,VARGAS,Asturias,686,"0,676",680,"0,670",23,"0,023"
+Vargas,VARGAS,Ávila,68,"0,423",67,"0,417",.,.
+Vargas,VARGAS,Badajoz,1.549,"2,329",1.486,"2,234",154,"0,232"
+Vargas,VARGAS,"Balears, Illes",1.822,"1,458",1.751,"1,401",75,"0,060"
+Vargas,VARGAS,Barcelona,7.726,"1,296",7.717,"1,295",166,"0,028"
+Vargas,VARGAS,Bizkaia,923,"0,791",955,"0,818",12,"0,010"
+Vargas,VARGAS,Burgos,240,"0,662",302,"0,833",.,.
+Vargas,VARGAS,Cáceres,1.116,"2,875",849,"2,187",222,"0,572"
+Vargas,VARGAS,Cádiz,2.839,"2,251",2.796,"2,217",52,"0,041"
+Vargas,VARGAS,Cantabria,673,"1,134",596,"1,004",64,"0,108"
+Vargas,VARGAS,Castellón/Castelló,716,"1,141",688,"1,096",64,"0,102"
+Vargas,VARGAS,Ciudad Real,487,"0,984",486,"0,982",10,"0,020"
+Vargas,VARGAS,Córdoba,986,"1,275",920,"1,190",8,"0,010"
+Vargas,VARGAS,"Coruña, A",519,"0,457",561,"0,494",6,"0,005"
+Vargas,VARGAS,Cuenca,118,"0,590",122,"0,610",.,.
+Vargas,VARGAS,Gipuzkoa,418,"0,570",352,"0,480",.,.
+Vargas,VARGAS,Girona,791,"0,953",814,"0,980",15,"0,018"
+Vargas,VARGAS,Granada,2.147,"2,270",2.113,"2,234",49,"0,052"
+Vargas,VARGAS,Guadalajara,306,"1,071",290,"1,015",6,"0,021"
+Vargas,VARGAS,Huelva,1.137,"2,110",1.152,"2,138",39,"0,072"
+Vargas,VARGAS,Huesca,180,"0,782",161,"0,700",.,.
+Vargas,VARGAS,Jaén,1.012,"1,637",1.018,"1,647",26,"0,042"
+Vargas,VARGAS,León,588,"1,312",515,"1,149",109,"0,243"
+Vargas,VARGAS,Lleida,295,"0,644",345,"0,753",.,.
+Vargas,VARGAS,Lugo,167,"0,512",147,"0,451",.,.
+Vargas,VARGAS,Madrid,10.598,"1,490",10.596,"1,489",232,"0,033"
+Vargas,VARGAS,Málaga,3.433,"1,917",3.150,"1,759",56,"0,031"
+Vargas,VARGAS,Murcia,1.145,"0,721",1.105,"0,696",12,"0,008"
+Vargas,VARGAS,Navarra,432,"0,632",494,"0,722",6,"0,009"
+Vargas,VARGAS,Ourense,105,"0,344",177,"0,580",6,"0,020"
+Vargas,VARGAS,Palencia,170,"1,071",204,"1,285",.,.
+Vargas,VARGAS,"Palmas, Las",965,"0,824",1.068,"0,912",17,"0,015"
+Vargas,VARGAS,Pontevedra,291,"0,307",326,"0,344",7,"0,007"
+Vargas,VARGAS,"Rioja, La",321,"0,982",336,"1,028",10,"0,031"
+Vargas,VARGAS,Salamanca,116,"0,353",140,"0,426",.,.
+Vargas,VARGAS,Santa Cruz de Tenerife,1.793,"1,649",1.895,"1,743",55,"0,051"
+Vargas,VARGAS,Segovia,86,"0,543",92,"0,581",.,.
+Vargas,VARGAS,Sevilla,5.507,"2,785",5.637,"2,850",109,"0,055"
+Vargas,VARGAS,Soria,118,"1,308",96,"1,065",6,"0,067"
+Vargas,VARGAS,Tarragona,770,"0,879",784,"0,895",14,"0,016"
+Vargas,VARGAS,Teruel,54,"0,397",55,"0,404",.,.
+Vargas,VARGAS,Toledo,933,"1,236",948,"1,255",.,.
+Vargas,VARGAS,Valencia/València,2.992,"1,082",2.891,"1,046",121,"0,044"
+Vargas,VARGAS,Valladolid,352,"0,666",381,"0,721",6,"0,011"
+Vargas,VARGAS,Zamora,73,"0,441",86,"0,519",5,"0,030"
+Vargas,VARGAS,Zaragoza,665,"0,666",739,"0,740",7,"0,007"
+Vargas,VARGAS,Ceuta,41,"0,491",58,"0,694",.,.
+Vargas,VARGAS,Melilla,81,"0,930",74,"0,850",.,.
+Vera,VERA,Albacete,278,"0,711",269,"0,688",12,"0,031"
+Vera,VERA,Alicante/Alacant,2.530,"1,244",2.296,"1,129",29,"0,014"
+Vera,VERA,Almería,327,"0,424",370,"0,480",.,.
+Vera,VERA,Araba/Álava,162,"0,474",157,"0,459",5,"0,015"
+Vera,VERA,Asturias,238,"0,234",279,"0,275",8,"0,008"
+Vera,VERA,Ávila,32,"0,199",48,"0,299",.,.
+Vera,VERA,Badajoz,635,"0,955",630,"0,947",19,"0,029"
+Vera,VERA,"Balears, Illes",1.236,"0,989",1.191,"0,953",13,"0,010"
+Vera,VERA,Barcelona,5.427,"0,911",5.509,"0,924",65,"0,011"
+Vera,VERA,Bizkaia,378,"0,324",350,"0,300",5,"0,004"
+Vera,VERA,Burgos,79,"0,218",94,"0,259",.,.
+Vera,VERA,Cáceres,89,"0,229",102,"0,263",.,.
+Vera,VERA,Cádiz,1.498,"1,188",1.582,"1,254",12,"0,010"
+Vera,VERA,Cantabria,107,"0,180",122,"0,206",.,.
+Vera,VERA,Castellón/Castelló,340,"0,542",319,"0,508",.,.
+Vera,VERA,Ciudad Real,435,"0,879",486,"0,982",6,"0,012"
+Vera,VERA,Córdoba,610,"0,789",610,"0,789",.,.
+Vera,VERA,"Coruña, A",171,"0,151",170,"0,150",.,.
+Vera,VERA,Cuenca,158,"0,791",164,"0,821",.,.
+Vera,VERA,Gipuzkoa,162,"0,221",176,"0,240",.,.
+Vera,VERA,Girona,445,"0,536",477,"0,574",6,"0,007"
+Vera,VERA,Granada,837,"0,885",914,"0,966",5,"0,005"
+Vera,VERA,Guadalajara,190,"0,665",244,"0,854",.,.
+Vera,VERA,Huelva,347,"0,644",276,"0,512",.,.
+Vera,VERA,Huesca,179,"0,778",156,"0,678",.,.
+Vera,VERA,Jaén,502,"0,812",435,"0,704",7,"0,011"
+Vera,VERA,León,71,"0,158",76,"0,170",.,.
+Vera,VERA,Lleida,189,"0,412",187,"0,408",6,"0,013"
+Vera,VERA,Lugo,40,"0,123",35,"0,107",.,.
+Vera,VERA,Madrid,5.502,"0,773",5.541,"0,779",74,"0,010"
+Vera,VERA,Málaga,3.077,"1,718",2.954,"1,649",75,"0,042"
+Vera,VERA,Murcia,4.093,"2,579",4.024,"2,536",58,"0,037"
+Vera,VERA,Navarra,494,"0,722",415,"0,607",6,"0,009"
+Vera,VERA,Ourense,28,"0,092",37,"0,121",.,.
+Vera,VERA,Palencia,33,"0,208",33,"0,208",.,.
+Vera,VERA,"Palmas, Las",2.514,"2,146",2.604,"2,223",36,"0,031"
+Vera,VERA,Pontevedra,160,"0,169",139,"0,147",.,.
+Vera,VERA,"Rioja, La",139,"0,425",137,"0,419",.,.
+Vera,VERA,Salamanca,107,"0,326",88,"0,268",.,.
+Vera,VERA,Santa Cruz de Tenerife,2.600,"2,391",2.426,"2,231",43,"0,040"
+Vera,VERA,Segovia,78,"0,493",51,"0,322",.,.
+Vera,VERA,Sevilla,2.806,"1,419",2.861,"1,447",15,"0,008"
+Vera,VERA,Soria,143,"1,586",144,"1,597",.,.
+Vera,VERA,Tarragona,539,"0,616",474,"0,541",.,.
+Vera,VERA,Teruel,55,"0,404",44,"0,323",.,.
+Vera,VERA,Toledo,432,"0,572",428,"0,567",7,"0,009"
+Vera,VERA,Valencia/València,1.585,"0,573",1.531,"0,554",10,"0,004"
+Vera,VERA,Valladolid,114,"0,216",105,"0,199",.,.
+Vera,VERA,Zamora,23,"0,139",15,"0,091",.,.
+Vera,VERA,Zaragoza,942,"0,943",953,"0,954",9,"0,009"
+Vera,VERA,Ceuta,64,"0,766",61,"0,730",.,.
+Vera,VERA,Melilla,35,"0,402",44,"0,505",.,.
